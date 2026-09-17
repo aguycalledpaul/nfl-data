@@ -1,0 +1,51 @@
+name: Build NFL data
+
+on:
+  workflow_dispatch: {}          # run on demand from the Actions tab
+  schedule:
+    - cron: '30 8 * * 2'         # Tue 08:30 UTC — lock last week's standings/box scores
+    - cron: '0 */4 * * 5,6,0,1'  # Thu–Mon every 4h — game days (upcoming + finals roll in)
+
+permissions:
+  contents: write                # allow the job to commit nfl-data.json
+
+concurrency:                     # never let two runs overlap
+  group: nfl-data
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install --quiet nfl_data_py pandas pyarrow
+
+      - name: Build nfl-data.json
+        env:
+          NFL_SEASON: '2026'
+          OUT_PATH: nfl-data.json
+          OVERRIDES_CSV_URL: ${{ secrets.OVERRIDES_CSV_URL }}   # Google Sheet published-as-CSV link
+        run: python build_nfl_data.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "nfl-data-bot"
+          git config user.email "nfl-data-bot@users.noreply.github.com"
+          git add nfl-data.json
+          if git diff --staged --quiet; then
+            echo "No change."
+          else
+            git commit -m "Update NFL data ($(date -u +%FT%TZ))"
+            git push
+          fi
+
+      - name: Purge jsDelivr cache (so the site sees it immediately)
+        if: always()
+        run: |
+          curl -s "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@main/nfl-data.json" > /dev/null || true
