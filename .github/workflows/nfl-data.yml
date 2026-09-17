@@ -24,7 +24,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install deps
-        run: pip install --quiet nfl_data_py pandas pyarrow
+        run: pip install --quiet pandas pyarrow
 
       - name: Build nfl-data.json
         env:
