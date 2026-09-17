@@ -12,7 +12,6 @@ Everything below is automatic EXCEPT the few fields nflverse doesn't carry
 """
 import json, os, sys, io, urllib.request, datetime
 import pandas as pd
-import nfl_data_py as nfl
 
 SEASON        = int(os.environ.get("NFL_SEASON", "2026"))
 OVERRIDES_URL = os.environ.get("OVERRIDES_CSV_URL", "").strip()   # Google Sheet published as CSV
@@ -48,12 +47,20 @@ def short(name):
     p = str(name).split()
     return (p[0][0] + ". " + p[-1]) if len(p) >= 2 else str(name)
 
-# ---------------------------------------------------------------- load nflverse
+# ---------------------------------------------------------------- load nflverse (direct files — no library, verified URLs)
+GAMES_URL  = "https://raw.githubusercontent.com/nflverse/nfldata/master/data/games.csv"
+WEEKLY_URL = "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_%d.parquet" % SEASON
+PBP_URL    = "https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_%d.parquet" % SEASON
+
+def _fetch(url):
+    return urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent":"Mozilla/5.0"}), timeout=120).read()
+
 print("Loading nflverse season %d ..." % SEASON, file=sys.stderr)
-games  = nfl.import_schedules([SEASON])
-weekly = nfl.import_weekly_data([SEASON])
+games = pd.read_csv(io.StringIO(_fetch(GAMES_URL).decode("utf-8", "replace")))
+games = games[games["season"] == SEASON].reset_index(drop=True)
+weekly = pd.read_parquet(io.BytesIO(_fetch(WEEKLY_URL)))
 try:
-    pbp = nfl.import_pbp_data([SEASON], downcast=True)
+    pbp = pd.read_parquet(io.BytesIO(_fetch(PBP_URL)))
 except Exception as e:
     print("pbp load failed (%s) — quarter line scores will be null" % e, file=sys.stderr)
     pbp = None
