@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-18T16:11:09Z",
+  "updated": "2026-09-18T19:21:30Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 2
@@ -1326,8 +1326,8 @@
    "spread": {
     "favorite": "Ravens",
     "favorite_code": "BAL",
-    "line": 7.5,
-    "display": "BAL -7.5"
+    "line": 8.5,
+    "display": "BAL -8.5"
    },
    "total": 46.5,
    "overtime": false,
@@ -1392,7 +1392,7 @@
     "line": 4.5,
     "display": "CHI -4.5"
    },
-   "total": 48.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -1455,7 +1455,7 @@
     "line": 2.5,
     "display": "HOU -2.5"
    },
-   "total": 46.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -1956,8 +1956,8 @@
    "spread": {
     "favorite": "Cowboys",
     "favorite_code": "DAL",
-    "line": 3.5,
-    "display": "DAL -3.5"
+    "line": 4.5,
+    "display": "DAL -4.5"
    },
    "total": 50.5,
    "overtime": false,
