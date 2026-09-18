@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-17T11:43:50Z",
+  "updated": "2026-09-18T03:49:13Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 2
@@ -349,7 +349,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 31,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": [
      7,
      0,
@@ -397,7 +397,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 36,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": [
      3,
      21,
@@ -1180,7 +1180,7 @@
    "game_id": "2026_02_DET_BUF",
    "season": 2026,
    "week": 2,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-09-17T20:15:00-04:00",
    "weekday": "Thursday",
    "venue": "Highmark Stadium",
@@ -1199,8 +1199,8 @@
    "away": {
     "code": "DET",
     "name": "Lions",
-    "score": null,
-    "record": "1-0",
+    "score": 31,
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -1220,8 +1220,8 @@
    "home": {
     "code": "BUF",
     "name": "Bills",
-    "score": null,
-    "record": "1-0",
+    "score": 41,
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -1316,8 +1316,8 @@
    "spread": {
     "favorite": "Ravens",
     "favorite_code": "BAL",
-    "line": 8.5,
-    "display": "BAL -8.5"
+    "line": 7.5,
+    "display": "BAL -7.5"
    },
    "total": 46.5,
    "overtime": false,
@@ -1886,7 +1886,7 @@
     "line": 3.5,
     "display": "SEA -3.5"
    },
-   "total": 41.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -1946,8 +1946,8 @@
    "spread": {
     "favorite": "Cowboys",
     "favorite_code": "DAL",
-    "line": 4.5,
-    "display": "DAL -4.5"
+    "line": 3.5,
+    "display": "DAL -3.5"
    },
    "total": 50.5,
    "overtime": false,
@@ -2138,7 +2138,7 @@
     "line": 7.0,
     "display": "LA -7"
    },
-   "total": 47.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2258,13 +2258,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Bills",
-    "favorite_code": "BUF",
-    "line": 4.5,
-    "display": "BUF -4.5"
-   },
-   "total": 49.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2292,7 +2287,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -2384,13 +2379,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Lions",
-    "favorite_code": "DET",
-    "line": 7.0,
-    "display": "DET -7"
-   },
-   "total": 48.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2418,7 +2408,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -3406,7 +3396,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4023,7 +4013,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4719,7 +4709,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4951,7 +4941,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5647,7 +5637,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6422,7 +6412,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6712,7 +6702,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6886,7 +6876,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7735,7 +7725,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8257,7 +8247,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8394,7 +8384,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8721,7 +8711,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9206,7 +9196,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9438,7 +9428,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9960,7 +9950,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10076,7 +10066,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10867,7 +10857,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11447,7 +11437,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11874,7 +11864,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12375,7 +12365,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12628,7 +12618,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13303,7 +13293,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13535,7 +13525,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14310,7 +14300,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14753,7 +14743,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15101,7 +15091,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15412,7 +15402,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15623,7 +15613,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16352,18 +16342,18 @@
    "conference": "NFC",
    "division": "NFC North",
    "wins": 1,
-   "losses": 0,
+   "losses": 1,
    "ties": 0,
-   "pct": 1.0,
-   "pf": 31,
-   "pa": 30,
-   "net": 1,
+   "pct": 0.5,
+   "pf": 62,
+   "pa": 71,
+   "net": -9,
    "home": "1-0",
-   "road": "0-0",
+   "road": "0-1",
    "div": "0-0",
    "conf": "1-0",
-   "streak": "W1",
-   "record": "1-0",
+   "streak": "L1",
+   "record": "1-1",
    "rank_div": 3
   },
   {
@@ -16411,20 +16401,20 @@
    "name": "Bills",
    "conference": "AFC",
    "division": "AFC East",
-   "wins": 1,
+   "wins": 2,
    "losses": 0,
    "ties": 0,
    "pct": 1.0,
-   "pf": 36,
-   "pa": 31,
-   "net": 5,
-   "home": "0-0",
+   "pf": 77,
+   "pa": 62,
+   "net": 15,
+   "home": "1-0",
    "road": "1-0",
    "div": "0-0",
    "conf": "1-0",
-   "streak": "W1",
-   "record": "1-0",
-   "rank_div": 2
+   "streak": "W2",
+   "record": "2-0",
+   "rank_div": 1
   },
   {
    "code": "IND",
@@ -16584,7 +16574,7 @@
    "conf": "1-0",
    "streak": "W1",
    "record": "1-0",
-   "rank_div": 1
+   "rank_div": 2
   },
   {
    "code": "LAC",
