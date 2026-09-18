@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-18T03:49:13Z",
+  "updated": "2026-09-18T12:00:07Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 2
@@ -1201,19 +1201,24 @@
     "name": "Lions",
     "score": 31,
     "record": "1-1",
-    "linescore": null,
+    "linescore": [
+     0,
+     10,
+     7,
+     14
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Goff",
+      "line": "327 yds, 4 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Gibbs",
+      "line": "52 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "A. Brown",
+      "line": "9 rec, 142 yds"
      }
     }
    },
@@ -1222,19 +1227,24 @@
     "name": "Bills",
     "score": 41,
     "record": "2-0",
-    "linescore": null,
+    "linescore": [
+     14,
+     13,
+     7,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Allen",
+      "line": "248 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Cook",
+      "line": "135 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Kincaid",
+      "line": "7 rec, 95 yds"
      }
     }
    }
@@ -2258,8 +2268,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bills",
+    "favorite_code": "BUF",
+    "line": 4.5,
+    "display": "BUF -4.5"
+   },
+   "total": 50.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2379,8 +2394,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Lions",
+    "favorite_code": "DET",
+    "line": 7.5,
+    "display": "DET -7.5"
+   },
+   "total": 48.5,
    "overtime": false,
    "div_game": false,
    "away": {
