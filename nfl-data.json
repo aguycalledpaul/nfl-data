@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-18T19:21:30Z",
+  "updated": "2026-09-18T22:07:44Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 2
@@ -1392,7 +1392,7 @@
     "line": 4.5,
     "display": "CHI -4.5"
    },
-   "total": 47.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -2019,8 +2019,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 12.5,
-    "display": "SF -12.5"
+    "line": 13.5,
+    "display": "SF -13.5"
    },
    "total": 44.5,
    "overtime": false,
