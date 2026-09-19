@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-18T22:07:44Z",
+  "updated": "2026-09-19T00:50:54Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 2
@@ -1956,8 +1956,8 @@
    "spread": {
     "favorite": "Cowboys",
     "favorite_code": "DAL",
-    "line": 4.5,
-    "display": "DAL -4.5"
+    "line": 3.5,
+    "display": "DAL -3.5"
    },
    "total": 50.5,
    "overtime": false,
