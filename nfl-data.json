@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-19T19:50:22Z",
+  "updated": "2026-09-19T21:59:19Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 2
@@ -1767,8 +1767,8 @@
    "spread": {
     "favorite": "Broncos",
     "favorite_code": "DEN",
-    "line": 2.5,
-    "display": "DEN -2.5"
+    "line": 3.0,
+    "display": "DEN -3"
    },
    "total": 45.5,
    "overtime": false,
