@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-20T08:56:50Z",
+  "updated": "2026-09-20T13:25:49Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 2
@@ -1641,8 +1641,8 @@
    "spread": {
     "favorite": "Buccaneers",
     "favorite_code": "TB",
-    "line": 7.5,
-    "display": "TB -7.5"
+    "line": 8.5,
+    "display": "TB -8.5"
    },
    "total": 41.5,
    "overtime": false,
@@ -1767,8 +1767,8 @@
    "spread": {
     "favorite": "Broncos",
     "favorite_code": "DEN",
-    "line": 3.0,
-    "display": "DEN -3"
+    "line": 2.5,
+    "display": "DEN -2.5"
    },
    "total": 45.5,
    "overtime": false,
@@ -1830,8 +1830,8 @@
    "spread": {
     "favorite": "Chargers",
     "favorite_code": "LAC",
-    "line": 7.0,
-    "display": "LAC -7"
+    "line": 6.5,
+    "display": "LAC -6.5"
    },
    "total": 43.5,
    "overtime": false,
@@ -1896,7 +1896,7 @@
     "line": 3.5,
     "display": "SEA -3.5"
    },
-   "total": 40.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -1956,8 +1956,8 @@
    "spread": {
     "favorite": "Cowboys",
     "favorite_code": "DAL",
-    "line": 4.5,
-    "display": "DAL -4.5"
+    "line": 3.5,
+    "display": "DAL -3.5"
    },
    "total": 50.5,
    "overtime": false,
