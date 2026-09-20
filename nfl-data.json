@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-19T23:57:24Z",
+  "updated": "2026-09-20T03:27:51Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 2
@@ -1329,7 +1329,7 @@
     "line": 8.5,
     "display": "BAL -8.5"
    },
-   "total": 46.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -1641,8 +1641,8 @@
    "spread": {
     "favorite": "Buccaneers",
     "favorite_code": "TB",
-    "line": 8.5,
-    "display": "TB -8.5"
+    "line": 7.5,
+    "display": "TB -7.5"
    },
    "total": 41.5,
    "overtime": false,
