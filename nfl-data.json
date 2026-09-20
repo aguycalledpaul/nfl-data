@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-20T17:11:48Z",
+  "updated": "2026-09-20T20:04:09Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 2
@@ -322,7 +322,7 @@
     "code": "NO",
     "name": "Saints",
     "score": 30,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": [
      0,
      0,
@@ -470,7 +470,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": 41,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": [
      14,
      17,
@@ -1316,7 +1316,7 @@
    "game_id": "2026_02_NO_BAL",
    "season": 2026,
    "week": 2,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-09-20T13:00:00-04:00",
    "weekday": "Sunday",
    "venue": "M&T Bank Stadium",
@@ -1335,8 +1335,8 @@
    "away": {
     "code": "NO",
     "name": "Saints",
-    "score": null,
-    "record": "0-1",
+    "score": 24,
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -1356,8 +1356,8 @@
    "home": {
     "code": "BAL",
     "name": "Ravens",
-    "score": null,
-    "record": "1-0",
+    "score": 17,
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -1830,8 +1830,8 @@
    "spread": {
     "favorite": "Chargers",
     "favorite_code": "LAC",
-    "line": 7.0,
-    "display": "LAC -7"
+    "line": 6.5,
+    "display": "LAC -6.5"
    },
    "total": 43.5,
    "overtime": false,
@@ -1896,7 +1896,7 @@
     "line": 3.5,
     "display": "SEA -3.5"
    },
-   "total": 41.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -1956,10 +1956,10 @@
    "spread": {
     "favorite": "Cowboys",
     "favorite_code": "DAL",
-    "line": 4.5,
-    "display": "DAL -4.5"
+    "line": 3.5,
+    "display": "DAL -3.5"
    },
-   "total": 50.5,
+   "total": 51.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -2019,8 +2019,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 13.5,
-    "display": "SF -13.5"
+    "line": 12.5,
+    "display": "SF -12.5"
    },
    "total": 44.5,
    "overtime": false,
@@ -2205,13 +2205,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Packers",
-    "favorite_code": "GB",
-    "line": 6.5,
-    "display": "GB -6.5"
-   },
-   "total": 46.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2268,13 +2263,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Bills",
-    "favorite_code": "BUF",
-    "line": 4.5,
-    "display": "BUF -4.5"
-   },
-   "total": 50.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2331,13 +2321,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Panthers",
-    "favorite_code": "CAR",
-    "line": 2.5,
-    "display": "CAR -2.5"
-   },
-   "total": 40.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2394,13 +2379,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Lions",
-    "favorite_code": "DET",
-    "line": 7.5,
-    "display": "DET -7.5"
-   },
-   "total": 48.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2457,13 +2437,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Texans",
-    "favorite_code": "HOU",
-    "line": 2.5,
-    "display": "HOU -2.5"
-   },
-   "total": 45.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -2520,13 +2495,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Jaguars",
-    "favorite_code": "JAX",
-    "line": 2.5,
-    "display": "JAX -2.5"
-   },
-   "total": 45.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2583,13 +2553,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Chiefs",
-    "favorite_code": "KC",
-    "line": 8.5,
-    "display": "KC -8.5"
-   },
-   "total": 44.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2646,13 +2611,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Giants",
-    "favorite_code": "NYG",
-    "line": 5.5,
-    "display": "NYG -5.5"
-   },
-   "total": 43.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2709,13 +2669,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Bengals",
-    "favorite_code": "CIN",
-    "line": 2.5,
-    "display": "CIN -2.5"
-   },
-   "total": 45.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -2772,13 +2727,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Seahawks",
-    "favorite_code": "SEA",
-    "line": 2.5,
-    "display": "SEA -2.5"
-   },
-   "total": 41.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2835,13 +2785,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "49ers",
-    "favorite_code": "SF",
-    "line": 8.5,
-    "display": "SF -8.5"
-   },
-   "total": 47.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -2898,13 +2843,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Buccaneers",
-    "favorite_code": "TB",
-    "line": 1.5,
-    "display": "TB -1.5"
-   },
-   "total": 45.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2961,20 +2901,15 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Ravens",
-    "favorite_code": "BAL",
-    "line": 3.0,
-    "display": "BAL -3"
-   },
-   "total": 52.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -3024,13 +2959,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Saints",
-    "favorite_code": "NO",
-    "line": 3.0,
-    "display": "NO -3"
-   },
-   "total": 45.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3058,7 +2988,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -3087,13 +3017,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Rams",
-    "favorite_code": "LA",
-    "line": 2.5,
-    "display": "LA -2.5"
-   },
-   "total": 46.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3150,13 +3075,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Bears",
-    "favorite_code": "CHI",
-    "line": 1.5,
-    "display": "CHI -1.5"
-   },
-   "total": 47.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3358,7 +3278,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4112,7 +4032,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4402,7 +4322,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4903,7 +4823,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5193,7 +5113,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5367,7 +5287,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5910,7 +5830,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6026,7 +5946,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6701,7 +6621,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7476,7 +7396,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7824,7 +7744,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8694,7 +8614,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9100,7 +9020,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9253,7 +9173,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9311,7 +9231,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10181,7 +10101,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10297,7 +10217,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11072,7 +10992,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11710,7 +11630,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11747,7 +11667,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12907,7 +12827,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12965,7 +12885,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13740,7 +13660,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13972,7 +13892,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14357,7 +14277,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14415,7 +14335,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15364,7 +15284,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16060,7 +15980,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16334,7 +16254,7 @@
    "conf": "0-0",
    "streak": "W1",
    "record": "1-0",
-   "rank_div": 3
+   "rank_div": 2
   },
   {
    "code": "TB",
@@ -16381,19 +16301,19 @@
    "name": "Saints",
    "conference": "NFC",
    "division": "NFC South",
-   "wins": 0,
+   "wins": 1,
    "losses": 1,
    "ties": 0,
-   "pct": 0.0,
-   "pf": 30,
-   "pa": 31,
-   "net": -1,
+   "pct": 0.5,
+   "pf": 54,
+   "pa": 48,
+   "net": 6,
    "home": "0-0",
-   "road": "0-1",
+   "road": "1-1",
    "div": "0-0",
    "conf": "0-1",
-   "streak": "L1",
-   "record": "0-1",
+   "streak": "W1",
+   "record": "1-1",
    "rank_div": 1
   },
   {
@@ -16462,19 +16382,19 @@
    "conference": "AFC",
    "division": "AFC North",
    "wins": 1,
-   "losses": 0,
+   "losses": 1,
    "ties": 0,
-   "pct": 1.0,
-   "pf": 41,
-   "pa": 23,
-   "net": 18,
-   "home": "0-0",
+   "pct": 0.5,
+   "pf": 58,
+   "pa": 47,
+   "net": 11,
+   "home": "0-1",
    "road": "1-0",
    "div": "0-0",
    "conf": "1-0",
-   "streak": "W1",
-   "record": "1-0",
-   "rank_div": 1
+   "streak": "L1",
+   "record": "1-1",
+   "rank_div": 3
   },
   {
    "code": "JAX",
@@ -16534,7 +16454,7 @@
    "conf": "0-0",
    "streak": "W1",
    "record": "1-0",
-   "rank_div": 2
+   "rank_div": 1
   },
   {
    "code": "ATL",
