@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-21T17:33:35Z",
+  "updated": "2026-09-21T21:29:57Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 2
@@ -2352,10 +2352,10 @@
    "spread": {
     "favorite": "Packers",
     "favorite_code": "GB",
-    "line": 7.0,
-    "display": "GB -7"
+    "line": 6.5,
+    "display": "GB -6.5"
    },
-   "total": 43.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2604,8 +2604,8 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 3.0,
-    "display": "HOU -3"
+    "line": 2.5,
+    "display": "HOU -2.5"
    },
    "total": 43.5,
    "overtime": false,
@@ -2796,7 +2796,7 @@
     "line": 6.0,
     "display": "NYG -6"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
