@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-21T11:36:07Z",
+  "updated": "2026-09-21T17:33:35Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 2
@@ -2355,7 +2355,7 @@
     "line": 7.0,
     "display": "GB -7"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2481,7 +2481,7 @@
     "line": 3.0,
     "display": "CAR -3"
    },
-   "total": 41.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2604,10 +2604,10 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 2.5,
-    "display": "HOU -2.5"
+    "line": 3.0,
+    "display": "HOU -3"
    },
-   "total": 45.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -2667,10 +2667,10 @@
    "spread": {
     "favorite": "Jaguars",
     "favorite_code": "JAX",
-    "line": 2.5,
-    "display": "JAX -2.5"
+    "line": 3.0,
+    "display": "JAX -3"
    },
-   "total": 44.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2730,8 +2730,8 @@
    "spread": {
     "favorite": "Chiefs",
     "favorite_code": "KC",
-    "line": 10.5,
-    "display": "KC -10.5"
+    "line": 11.5,
+    "display": "KC -11.5"
    },
    "total": 45.5,
    "overtime": false,
@@ -2922,7 +2922,7 @@
     "line": 6.5,
     "display": "SEA -6.5"
    },
-   "total": 40.5,
+   "total": 39.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2985,7 +2985,7 @@
     "line": 8.5,
     "display": "SF -8.5"
    },
-   "total": 48.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -3045,10 +3045,10 @@
    "spread": {
     "favorite": "Vikings",
     "favorite_code": "MIN",
-    "line": 2.5,
-    "display": "MIN -2.5"
+    "line": 1.5,
+    "display": "MIN -1.5"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3171,10 +3171,10 @@
    "spread": {
     "favorite": "Saints",
     "favorite_code": "NO",
-    "line": 3.5,
-    "display": "NO -3.5"
+    "line": 3.0,
+    "display": "NO -3"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3297,10 +3297,10 @@
    "spread": {
     "favorite": "Eagles",
     "favorite_code": "PHI",
-    "line": 4.5,
-    "display": "PHI -4.5"
+    "line": 3.5,
+    "display": "PHI -3.5"
    },
-   "total": 43.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
