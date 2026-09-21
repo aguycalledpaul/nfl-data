@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-21T00:42:50Z",
+  "updated": "2026-09-21T05:44:01Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 2
@@ -496,7 +496,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 23,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": [
      6,
      7,
@@ -1153,7 +1153,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 31,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": [
      7,
      7,
@@ -2204,7 +2204,7 @@
    "game_id": "2026_02_IND_KC",
    "season": 2026,
    "week": 2,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-09-20T20:20:00-04:00",
    "weekday": "Sunday",
    "venue": "GEHA Field at Arrowhead Stadium",
@@ -2218,47 +2218,59 @@
     "display": "KC -6"
    },
    "total": 46.5,
-   "overtime": false,
+   "overtime": true,
    "div_game": false,
    "away": {
     "code": "IND",
     "name": "Colts",
-    "score": null,
-    "record": "0-1",
-    "linescore": null,
+    "score": 30,
+    "record": "0-2",
+    "linescore": [
+     7,
+     13,
+     0,
+     7,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Jones",
+      "line": "210 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Taylor",
+      "line": "92 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Downs",
+      "line": "7 rec, 72 yds"
      }
     }
    },
    "home": {
     "code": "KC",
     "name": "Chiefs",
-    "score": null,
-    "record": "1-0",
-    "linescore": null,
+    "score": 33,
+    "record": "2-0",
+    "linescore": [
+     10,
+     7,
+     7,
+     3,
+     6
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "P. Mahomes",
+      "line": "382 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. III",
+      "line": "117 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "T. Kelce",
+      "line": "9 rec, 101 yds"
      }
     }
    }
@@ -2277,8 +2289,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 6.5,
-    "display": "LA -6.5"
+    "line": 7.0,
+    "display": "LA -7"
    },
    "total": 47.5,
    "overtime": false,
@@ -2466,8 +2478,8 @@
    "spread": {
     "favorite": "Panthers",
     "favorite_code": "CAR",
-    "line": 2.5,
-    "display": "CAR -2.5"
+    "line": 3.0,
+    "display": "CAR -3"
    },
    "total": 41.5,
    "overtime": false,
@@ -2529,10 +2541,10 @@
    "spread": {
     "favorite": "Lions",
     "favorite_code": "DET",
-    "line": 7.0,
-    "display": "DET -7"
+    "line": 6.5,
+    "display": "DET -6.5"
    },
-   "total": 47.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2592,10 +2604,10 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 1.5,
-    "display": "HOU -1.5"
+    "line": 2.5,
+    "display": "HOU -2.5"
    },
-   "total": 43.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -2623,7 +2635,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -2721,14 +2733,14 @@
     "line": 10.5,
     "display": "KC -10.5"
    },
-   "total": 44.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -2781,8 +2793,8 @@
    "spread": {
     "favorite": "Giants",
     "favorite_code": "NYG",
-    "line": 5.5,
-    "display": "NYG -5.5"
+    "line": 6.0,
+    "display": "NYG -6"
    },
    "total": 43.5,
    "overtime": false,
@@ -2847,7 +2859,7 @@
     "line": 3.5,
     "display": "CIN -3.5"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -2907,10 +2919,10 @@
    "spread": {
     "favorite": "Seahawks",
     "favorite_code": "SEA",
-    "line": 5.5,
-    "display": "SEA -5.5"
+    "line": 6.5,
+    "display": "SEA -6.5"
    },
-   "total": 41.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2973,7 +2985,7 @@
     "line": 8.5,
     "display": "SF -8.5"
    },
-   "total": 47.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -3036,7 +3048,7 @@
     "line": 2.5,
     "display": "MIN -2.5"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3099,7 +3111,7 @@
     "line": 3.0,
     "display": "BAL -3"
    },
-   "total": 51.5,
+   "total": 52.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3411,7 +3423,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -3991,7 +4003,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4629,7 +4641,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5404,7 +5416,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5752,7 +5764,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6311,7 +6323,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6659,7 +6671,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7065,7 +7077,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7355,7 +7367,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7782,7 +7794,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7840,7 +7852,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8573,7 +8585,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8768,7 +8780,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9269,7 +9281,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9638,7 +9650,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10197,7 +10209,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10508,7 +10520,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10951,7 +10963,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12169,7 +12181,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12343,7 +12355,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13155,7 +13167,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13524,7 +13536,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13930,7 +13942,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14336,7 +14348,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14663,7 +14675,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14837,7 +14849,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15902,7 +15914,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "0-1",
+    "record": "0-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15960,7 +15972,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "1-0",
+    "record": "2-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16546,7 +16558,7 @@
    "conf": "0-2",
    "streak": "L2",
    "record": "0-2",
-   "rank_div": 4
+   "rank_div": 3
   },
   {
    "code": "BUF",
@@ -16574,19 +16586,19 @@
    "conference": "AFC",
    "division": "AFC South",
    "wins": 0,
-   "losses": 1,
+   "losses": 2,
    "ties": 0,
    "pct": 0.0,
-   "pf": 23,
-   "pa": 41,
-   "net": -18,
+   "pf": 53,
+   "pa": 74,
+   "net": -21,
    "home": "0-1",
-   "road": "0-0",
+   "road": "0-1",
    "div": "0-0",
-   "conf": "0-1",
-   "streak": "L1",
-   "record": "0-1",
-   "rank_div": 3
+   "conf": "0-2",
+   "streak": "L2",
+   "record": "0-2",
+   "rank_div": 4
   },
   {
    "code": "BAL",
@@ -16933,19 +16945,19 @@
    "name": "Chiefs",
    "conference": "AFC",
    "division": "AFC West",
-   "wins": 1,
+   "wins": 2,
    "losses": 0,
    "ties": 0,
    "pct": 1.0,
-   "pf": 31,
-   "pa": 10,
-   "net": 21,
-   "home": "1-0",
+   "pf": 64,
+   "pa": 40,
+   "net": 24,
+   "home": "2-0",
    "road": "0-0",
    "div": "1-0",
-   "conf": "1-0",
-   "streak": "W1",
-   "record": "1-0",
+   "conf": "2-0",
+   "streak": "W2",
+   "record": "2-0",
    "rank_div": 2
   },
   {
