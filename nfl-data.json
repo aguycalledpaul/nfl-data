@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-21T05:44:01Z",
+  "updated": "2026-09-21T11:36:07Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 2
@@ -2289,8 +2289,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 7.0,
-    "display": "LA -7"
+    "line": 6.5,
+    "display": "LA -6.5"
    },
    "total": 47.5,
    "overtime": false,
