@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-22T00:27:40Z",
+  "updated": "2026-09-22T13:30:50Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 2
@@ -129,7 +129,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 7,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": [
      0,
      7,
@@ -1080,7 +1080,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": 28,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": [
      7,
      7,
@@ -2279,7 +2279,7 @@
    "game_id": "2026_02_NYG_LA",
    "season": 2026,
    "week": 2,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-09-21T20:15:00-04:00",
    "weekday": "Monday",
    "venue": "SoFi Stadium",
@@ -2298,42 +2298,52 @@
    "away": {
     "code": "NYG",
     "name": "Giants",
-    "score": null,
-    "record": "1-0",
-    "linescore": null,
+    "score": 6,
+    "record": "1-1",
+    "linescore": [
+     0,
+     3,
+     3,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Winston",
+      "line": "111 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. Skattebo",
+      "line": "36 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Mooney",
+      "line": "2 rec, 48 yds"
      }
     }
    },
    "home": {
     "code": "LA",
     "name": "Rams",
-    "score": null,
-    "record": "0-1",
-    "linescore": null,
+    "score": 28,
+    "record": "1-1",
+    "linescore": [
+     7,
+     7,
+     7,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "M. Stafford",
+      "line": "327 yds, 4 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. Williams",
+      "line": "85 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Adams",
+      "line": "8 rec, 195 yds"
      }
     }
    }
@@ -2352,10 +2362,10 @@
    "spread": {
     "favorite": "Packers",
     "favorite_code": "GB",
-    "line": 6.5,
-    "display": "GB -6.5"
+    "line": 6.0,
+    "display": "GB -6"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2733,7 +2743,7 @@
     "line": 11.5,
     "display": "KC -11.5"
    },
-   "total": 45.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2793,10 +2803,10 @@
    "spread": {
     "favorite": "Giants",
     "favorite_code": "NYG",
-    "line": 6.0,
-    "display": "NYG -6"
+    "line": 3.5,
+    "display": "NYG -3.5"
    },
-   "total": 42.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2824,7 +2834,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -2919,10 +2929,10 @@
    "spread": {
     "favorite": "Seahawks",
     "favorite_code": "SEA",
-    "line": 6.5,
-    "display": "SEA -6.5"
+    "line": 7.0,
+    "display": "SEA -7"
    },
-   "total": 39.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3234,8 +3244,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 1.5,
-    "display": "LA -1.5"
+    "line": 2.5,
+    "display": "LA -2.5"
    },
    "total": 45.5,
    "overtime": false,
@@ -3244,7 +3254,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -3297,8 +3307,8 @@
    "spread": {
     "favorite": "Eagles",
     "favorite_code": "PHI",
-    "line": 3.5,
-    "display": "PHI -3.5"
+    "line": 3.0,
+    "display": "PHI -3"
    },
    "total": 44.5,
    "overtime": false,
@@ -3792,7 +3802,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -3829,7 +3839,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4757,7 +4767,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5126,7 +5136,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5532,7 +5542,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5706,7 +5716,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6265,7 +6275,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6613,7 +6623,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7330,7 +7340,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8005,7 +8015,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8063,7 +8073,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8490,7 +8500,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8991,7 +9001,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9708,7 +9718,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10056,7 +10066,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10499,7 +10509,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10984,7 +10994,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11274,7 +11284,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12413,7 +12423,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12471,7 +12481,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13014,7 +13024,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13362,7 +13372,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13747,7 +13757,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14443,7 +14453,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14733,7 +14743,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15081,7 +15091,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16030,7 +16040,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "0-1",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16262,7 +16272,7 @@
     "code": "NYG",
     "name": "Giants",
     "score": null,
-    "record": "1-0",
+    "record": "1-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16385,20 +16395,20 @@
    "name": "Rams",
    "conference": "NFC",
    "division": "NFC West",
-   "wins": 0,
+   "wins": 1,
    "losses": 1,
    "ties": 0,
-   "pct": 0.0,
-   "pf": 7,
-   "pa": 27,
-   "net": -20,
-   "home": "0-1",
+   "pct": 0.5,
+   "pf": 35,
+   "pa": 33,
+   "net": 2,
+   "home": "1-1",
    "road": "0-0",
    "div": "0-1",
-   "conf": "0-1",
-   "streak": "L1",
-   "record": "0-1",
-   "rank_div": 4
+   "conf": "1-1",
+   "streak": "W1",
+   "record": "1-1",
+   "rank_div": 3
   },
   {
    "code": "SF",
@@ -16778,7 +16788,7 @@
    "conf": "0-1",
    "streak": "L1",
    "record": "1-1",
-   "rank_div": 3
+   "rank_div": 4
   },
   {
    "code": "LV",
@@ -16878,7 +16888,7 @@
    "conf": "1-0",
    "streak": "W2",
    "record": "2-0",
-   "rank_div": 2
+   "rank_div": 1
   },
   {
    "code": "WAS",
@@ -16906,19 +16916,19 @@
    "conference": "NFC",
    "division": "NFC East",
    "wins": 1,
-   "losses": 0,
+   "losses": 1,
    "ties": 0,
-   "pct": 1.0,
-   "pf": 28,
-   "pa": 20,
-   "net": 8,
+   "pct": 0.5,
+   "pf": 34,
+   "pa": 48,
+   "net": -14,
    "home": "1-0",
-   "road": "0-0",
+   "road": "0-1",
    "div": "1-0",
-   "conf": "1-0",
-   "streak": "W1",
-   "record": "1-0",
-   "rank_div": 1
+   "conf": "1-1",
+   "streak": "L1",
+   "record": "1-1",
+   "rank_div": 3
   },
   {
    "code": "DAL",
@@ -16938,7 +16948,7 @@
    "conf": "1-1",
    "streak": "W1",
    "record": "1-1",
-   "rank_div": 3
+   "rank_div": 2
   },
   {
    "code": "KC",
