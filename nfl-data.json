@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-25T14:20:41Z",
+  "updated": "2026-09-25T19:03:38Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 3
@@ -2564,7 +2564,7 @@
     "line": 6.5,
     "display": "DET -6.5"
    },
-   "total": 48.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3257,7 +3257,7 @@
     "line": 2.5,
     "display": "LA -2.5"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3884,8 +3884,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 1.5,
-    "display": "LA -1.5"
+    "line": 2.5,
+    "display": "LA -2.5"
    },
    "total": 45.5,
    "overtime": false,
@@ -4199,8 +4199,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 4.5,
-    "display": "SF -4.5"
+    "line": 3.0,
+    "display": "SF -3"
    },
    "total": 45.5,
    "overtime": false,
