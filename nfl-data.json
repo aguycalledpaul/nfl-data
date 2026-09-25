@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-25T02:47:14Z",
+  "updated": "2026-09-25T08:24:23Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 3
@@ -616,7 +616,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 13,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": [
      7,
      0,
@@ -908,7 +908,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 22,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": [
      9,
      10,
@@ -1299,7 +1299,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 3,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": [
      0,
      3,
@@ -1638,7 +1638,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 20,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": [
      0,
      7,
@@ -2352,7 +2352,7 @@
    "game_id": "2026_03_ATL_GB",
    "season": 2026,
    "week": 3,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-09-24T20:15:00-04:00",
    "weekday": "Thursday",
    "venue": "Lambeau Field",
@@ -2371,42 +2371,52 @@
    "away": {
     "code": "ATL",
     "name": "Falcons",
-    "score": null,
-    "record": "0-2",
-    "linescore": null,
+    "score": 35,
+    "record": "1-2",
+    "linescore": [
+     7,
+     10,
+     7,
+     11
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "M. Jr.",
+      "line": "256 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Robinson",
+      "line": "194 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. London",
+      "line": "9 rec, 194 yds"
      }
     }
    },
    "home": {
     "code": "GB",
     "name": "Packers",
-    "score": null,
-    "record": "1-1",
-    "linescore": null,
+    "score": 14,
+    "record": "1-2",
+    "linescore": [
+     7,
+     0,
+     0,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Love",
+      "line": "312 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "M. Lloyd",
+      "line": "11 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Golden",
+      "line": "5 rec, 100 yds"
      }
     }
    }
@@ -2680,7 +2690,7 @@
     "line": 3.0,
     "display": "JAX -3"
    },
-   "total": 45.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3934,15 +3944,20 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Packers",
+    "favorite_code": "GB",
+    "line": 1.5,
+    "display": "GB -1.5"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4307,15 +4322,20 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Saints",
+    "favorite_code": "NO",
+    "line": 3.5,
+    "display": "NO -3.5"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": true,
    "away": {
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5032,7 +5052,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5148,7 +5168,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5380,7 +5400,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5960,7 +5980,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6192,7 +6212,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6635,7 +6655,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6888,7 +6908,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7331,7 +7351,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7758,7 +7778,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8317,7 +8337,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8686,7 +8706,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8802,7 +8822,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10115,7 +10135,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10695,7 +10715,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11122,7 +11142,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11275,7 +11295,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12029,7 +12049,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12630,7 +12650,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12978,7 +12998,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13305,7 +13325,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13711,7 +13731,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13906,7 +13926,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14660,7 +14680,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15472,7 +15492,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15683,7 +15703,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "0-2",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15878,7 +15898,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16578,7 +16598,7 @@
    "conf": "0-0",
    "streak": "L2",
    "record": "0-2",
-   "rank_div": 3
+   "rank_div": 4
   },
   {
    "code": "DET",
@@ -16765,20 +16785,20 @@
    "name": "Falcons",
    "conference": "NFC",
    "division": "NFC South",
-   "wins": 0,
+   "wins": 1,
    "losses": 2,
    "ties": 0,
-   "pct": 0.0,
-   "pf": 16,
-   "pa": 54,
-   "net": -38,
+   "pct": 0.333,
+   "pf": 51,
+   "pa": 68,
+   "net": -17,
    "home": "0-1",
-   "road": "0-1",
+   "road": "1-1",
    "div": "0-1",
-   "conf": "0-1",
-   "streak": "L2",
-   "record": "0-2",
-   "rank_div": 4
+   "conf": "1-1",
+   "streak": "W1",
+   "record": "1-2",
+   "rank_div": 3
   },
   {
    "code": "TEN",
@@ -16926,18 +16946,18 @@
    "conference": "NFC",
    "division": "NFC North",
    "wins": 1,
-   "losses": 1,
+   "losses": 2,
    "ties": 0,
-   "pct": 0.5,
-   "pf": 42,
-   "pa": 56,
-   "net": -14,
-   "home": "0-0",
+   "pct": 0.333,
+   "pf": 56,
+   "pa": 91,
+   "net": -35,
+   "home": "0-1",
    "road": "1-1",
    "div": "0-1",
-   "conf": "0-1",
-   "streak": "W1",
-   "record": "1-1",
+   "conf": "0-2",
+   "streak": "L1",
+   "record": "1-2",
    "rank_div": 4
   },
   {
