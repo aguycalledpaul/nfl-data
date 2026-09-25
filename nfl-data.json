@@ -1,9 +1,9 @@
 {
  "meta": {
-  "updated": "2026-09-22T13:30:50Z",
+  "updated": "2026-09-25T02:47:14Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
-  "current_week": 2
+  "current_week": 3
  },
  "games": [
   {
@@ -2362,8 +2362,8 @@
    "spread": {
     "favorite": "Packers",
     "favorite_code": "GB",
-    "line": 6.0,
-    "display": "GB -6"
+    "line": 4.5,
+    "display": "GB -4.5"
    },
    "total": 43.5,
    "overtime": false,
@@ -2554,7 +2554,7 @@
     "line": 6.5,
     "display": "DET -6.5"
    },
-   "total": 48.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2614,10 +2614,10 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 2.5,
-    "display": "HOU -2.5"
+    "line": 1.5,
+    "display": "HOU -1.5"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -2740,10 +2740,10 @@
    "spread": {
     "favorite": "Chiefs",
     "favorite_code": "KC",
-    "line": 11.5,
-    "display": "KC -11.5"
+    "line": 10.5,
+    "display": "KC -10.5"
    },
-   "total": 46.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2803,10 +2803,10 @@
    "spread": {
     "favorite": "Giants",
     "favorite_code": "NYG",
-    "line": 3.5,
-    "display": "NYG -3.5"
+    "line": 2.5,
+    "display": "NYG -2.5"
    },
-   "total": 40.5,
+   "total": 38.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2929,8 +2929,8 @@
    "spread": {
     "favorite": "Seahawks",
     "favorite_code": "SEA",
-    "line": 7.0,
-    "display": "SEA -7"
+    "line": 7.5,
+    "display": "SEA -7.5"
    },
    "total": 40.5,
    "overtime": false,
@@ -3118,10 +3118,10 @@
    "spread": {
     "favorite": "Ravens",
     "favorite_code": "BAL",
-    "line": 3.0,
-    "display": "BAL -3"
+    "line": 3.5,
+    "display": "BAL -3.5"
    },
-   "total": 52.5,
+   "total": 53.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3247,7 +3247,7 @@
     "line": 2.5,
     "display": "LA -2.5"
    },
-   "total": 45.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3307,10 +3307,10 @@
    "spread": {
     "favorite": "Eagles",
     "favorite_code": "PHI",
-    "line": 3.0,
-    "display": "PHI -3"
+    "line": 4.5,
+    "display": "PHI -4.5"
    },
-   "total": 44.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3367,8 +3367,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Steelers",
+    "favorite_code": "PIT",
+    "line": 3.0,
+    "display": "PIT -3"
+   },
+   "total": 38.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -3425,8 +3430,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Colts",
+    "favorite_code": "IND",
+    "line": 4.5,
+    "display": "IND -4.5"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3483,8 +3493,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Ravens",
+    "favorite_code": "BAL",
+    "line": 10.5,
+    "display": "BAL -10.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3541,8 +3556,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bills",
+    "favorite_code": "BUF",
+    "line": 5.5,
+    "display": "BUF -5.5"
+   },
+   "total": 49.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -3599,8 +3619,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bears",
+    "favorite_code": "CHI",
+    "line": 3.0,
+    "display": "CHI -3"
+   },
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3657,8 +3682,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bengals",
+    "favorite_code": "CIN",
+    "line": 3.0,
+    "display": "CIN -3"
+   },
+   "total": 49.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3715,8 +3745,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Texans",
+    "favorite_code": "HOU",
+    "line": 3.0,
+    "display": "HOU -3"
+   },
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3773,8 +3808,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Giants",
+    "favorite_code": "NYG",
+    "line": 2.5,
+    "display": "NYG -2.5"
+   },
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3831,8 +3871,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Rams",
+    "favorite_code": "LA",
+    "line": 1.5,
+    "display": "LA -1.5"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3947,8 +3992,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Vikings",
+    "favorite_code": "MIN",
+    "line": 10.5,
+    "display": "MIN -10.5"
+   },
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4005,8 +4055,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Chiefs",
+    "favorite_code": "KC",
+    "line": 6.0,
+    "display": "KC -6"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -4063,8 +4118,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Seahawks",
+    "favorite_code": "SEA",
+    "line": 6.5,
+    "display": "SEA -6.5"
+   },
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4121,8 +4181,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "49ers",
+    "favorite_code": "SF",
+    "line": 4.5,
+    "display": "SF -4.5"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4179,8 +4244,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Lions",
+    "favorite_code": "DET",
+    "line": 3.0,
+    "display": "DET -3"
+   },
+   "total": 49.5,
    "overtime": false,
    "div_game": false,
    "away": {
