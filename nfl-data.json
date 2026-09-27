@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-27T01:02:16Z",
+  "updated": "2026-09-27T07:24:41Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 3
@@ -2438,7 +2438,7 @@
     "line": 7.0,
     "display": "BUF -7"
    },
-   "total": 49.5,
+   "total": 50.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2690,7 +2690,7 @@
     "line": 3.0,
     "display": "JAX -3"
    },
-   "total": 46.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -2939,8 +2939,8 @@
    "spread": {
     "favorite": "Seahawks",
     "favorite_code": "SEA",
-    "line": 7.5,
-    "display": "SEA -7.5"
+    "line": 8.5,
+    "display": "SEA -8.5"
    },
    "total": 40.5,
    "overtime": false,
@@ -3005,7 +3005,7 @@
     "line": 7.5,
     "display": "SF -7.5"
    },
-   "total": 47.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -3128,8 +3128,8 @@
    "spread": {
     "favorite": "Ravens",
     "favorite_code": "BAL",
-    "line": 3.0,
-    "display": "BAL -3"
+    "line": 3.5,
+    "display": "BAL -3.5"
    },
    "total": 53.5,
    "overtime": false,
@@ -3257,7 +3257,7 @@
     "line": 2.5,
     "display": "LA -2.5"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
