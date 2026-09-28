@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-28T14:47:48Z",
+  "updated": "2026-09-28T20:58:14Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 3
@@ -3520,10 +3520,10 @@
    "spread": {
     "favorite": "Steelers",
     "favorite_code": "PIT",
-    "line": 2.5,
-    "display": "PIT -2.5"
+    "line": 3.0,
+    "display": "PIT -3"
    },
-   "total": 37.5,
+   "total": 38.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -3583,8 +3583,8 @@
    "spread": {
     "favorite": "Colts",
     "favorite_code": "IND",
-    "line": 3.0,
-    "display": "IND -3"
+    "line": 3.5,
+    "display": "IND -3.5"
    },
    "total": 47.5,
    "overtime": false,
@@ -3775,7 +3775,7 @@
     "line": 3.0,
     "display": "CHI -3"
    },
-   "total": 42.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3835,8 +3835,8 @@
    "spread": {
     "favorite": "Bengals",
     "favorite_code": "CIN",
-    "line": 2.5,
-    "display": "CIN -2.5"
+    "line": 3.0,
+    "display": "CIN -3"
    },
    "total": 51.5,
    "overtime": false,
@@ -4027,7 +4027,7 @@
     "line": 1.5,
     "display": "LA -1.5"
    },
-   "total": 46.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4150,10 +4150,10 @@
    "spread": {
     "favorite": "Vikings",
     "favorite_code": "MIN",
-    "line": 10.0,
-    "display": "MIN -10"
+    "line": 10.5,
+    "display": "MIN -10.5"
    },
-   "total": 39.5,
+   "total": 38.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4213,8 +4213,8 @@
    "spread": {
     "favorite": "Chiefs",
     "favorite_code": "KC",
-    "line": 5.5,
-    "display": "KC -5.5"
+    "line": 4.5,
+    "display": "KC -4.5"
    },
    "total": 47.5,
    "overtime": false,
@@ -4339,8 +4339,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 3.0,
-    "display": "SF -3"
+    "line": 2.5,
+    "display": "SF -2.5"
    },
    "total": 46.5,
    "overtime": false,
