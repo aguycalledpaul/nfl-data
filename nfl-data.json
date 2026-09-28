@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-28T06:10:29Z",
+  "updated": "2026-09-28T14:47:48Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 3
@@ -3523,7 +3523,7 @@
     "line": 2.5,
     "display": "PIT -2.5"
    },
-   "total": 38.5,
+   "total": 37.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -4024,8 +4024,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 2.5,
-    "display": "LA -2.5"
+    "line": 1.5,
+    "display": "LA -1.5"
    },
    "total": 46.5,
    "overtime": false,
@@ -4402,8 +4402,8 @@
    "spread": {
     "favorite": "Lions",
     "favorite_code": "DET",
-    "line": 3.0,
-    "display": "DET -3"
+    "line": 3.5,
+    "display": "DET -3.5"
    },
    "total": 50.5,
    "overtime": false,
@@ -4465,8 +4465,8 @@
    "spread": {
     "favorite": "Saints",
     "favorite_code": "NO",
-    "line": 3.0,
-    "display": "NO -3"
+    "line": 2.5,
+    "display": "NO -2.5"
    },
    "total": 48.5,
    "overtime": false,
