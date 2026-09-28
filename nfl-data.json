@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-28T00:11:00Z",
+  "updated": "2026-09-28T06:10:29Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 3
@@ -129,7 +129,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 7,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": [
      0,
      7,
@@ -1127,7 +1127,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 10,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": [
      7,
      0,
@@ -1885,7 +1885,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 20,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": [
      0,
      3,
@@ -2325,7 +2325,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 28,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": [
      7,
      7,
@@ -3374,7 +3374,7 @@
    "game_id": "2026_03_LA_DEN",
    "season": 2026,
    "week": 3,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-09-27T20:20:00-04:00",
    "weekday": "Sunday",
    "venue": "Empower Field at Mile High",
@@ -3382,53 +3382,63 @@
    "network": "",
    "recap_url": "",
    "spread": {
-    "favorite": "Rams",
-    "favorite_code": "LA",
+    "favorite": "Broncos",
+    "favorite_code": "DEN",
     "line": 1.5,
-    "display": "LA -1.5"
+    "display": "DEN -1.5"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "LA",
     "name": "Rams",
-    "score": null,
-    "record": "1-1",
-    "linescore": null,
+    "score": 26,
+    "record": "1-2",
+    "linescore": [
+     7,
+     9,
+     0,
+     10
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "M. Stafford",
+      "line": "390 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. Williams",
+      "line": "88 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Adams",
+      "line": "7 rec, 137 yds"
      }
     }
    },
    "home": {
     "code": "DEN",
     "name": "Broncos",
-    "score": null,
-    "record": "1-1",
-    "linescore": null,
+    "score": 30,
+    "record": "2-1",
+    "linescore": [
+     0,
+     0,
+     16,
+     14
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "B. Nix",
+      "line": "186 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Dobbins",
+      "line": "49 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "C. Sutton",
+      "line": "3 rec, 46 yds"
      }
     }
    }
@@ -3447,8 +3457,8 @@
    "spread": {
     "favorite": "Eagles",
     "favorite_code": "PHI",
-    "line": 4.5,
-    "display": "PHI -4.5"
+    "line": 3.5,
+    "display": "PHI -3.5"
    },
    "total": 41.5,
    "overtime": false,
@@ -3573,10 +3583,10 @@
    "spread": {
     "favorite": "Colts",
     "favorite_code": "IND",
-    "line": 3.5,
-    "display": "IND -3.5"
+    "line": 3.0,
+    "display": "IND -3"
    },
-   "total": 46.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3828,7 +3838,7 @@
     "line": 2.5,
     "display": "CIN -2.5"
    },
-   "total": 49.5,
+   "total": 51.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3891,7 +3901,7 @@
     "line": 2.5,
     "display": "HOU -2.5"
    },
-   "total": 46.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3949,12 +3959,12 @@
    "network": "",
    "recap_url": "",
    "spread": {
-    "favorite": "Giants",
-    "favorite_code": "NYG",
-    "line": 2.5,
-    "display": "NYG -2.5"
+    "favorite": "Cardinals",
+    "favorite_code": "ARI",
+    "line": 1.5,
+    "display": "ARI -1.5"
    },
-   "total": 43.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4017,14 +4027,14 @@
     "line": 2.5,
     "display": "LA -2.5"
    },
-   "total": 45.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4074,8 +4084,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Packers",
+    "favorite_code": "GB",
+    "line": 3.5,
+    "display": "GB -3.5"
+   },
+   "total": 39.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4135,10 +4150,10 @@
    "spread": {
     "favorite": "Vikings",
     "favorite_code": "MIN",
-    "line": 10.5,
-    "display": "MIN -10.5"
+    "line": 10.0,
+    "display": "MIN -10"
    },
-   "total": 42.5,
+   "total": 39.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4201,7 +4216,7 @@
     "line": 5.5,
     "display": "KC -5.5"
    },
-   "total": 45.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -4327,14 +4342,14 @@
     "line": 3.0,
     "display": "SF -3"
    },
-   "total": 45.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4390,7 +4405,7 @@
     "line": 3.0,
     "display": "DET -3"
    },
-   "total": 49.5,
+   "total": 50.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4450,10 +4465,10 @@
    "spread": {
     "favorite": "Saints",
     "favorite_code": "NO",
-    "line": 2.5,
-    "display": "NO -2.5"
+    "line": 3.0,
+    "display": "NO -3"
    },
-   "total": 46.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5040,7 +5055,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5351,7 +5366,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5409,7 +5424,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5931,7 +5946,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6722,7 +6737,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6838,7 +6853,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7555,7 +7570,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7613,7 +7628,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7940,7 +7955,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8288,7 +8303,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9216,7 +9231,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10049,7 +10064,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10281,7 +10296,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10492,7 +10507,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11209,7 +11224,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11731,7 +11746,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12348,7 +12363,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12696,7 +12711,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13587,7 +13602,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13624,7 +13639,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13935,7 +13950,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13972,7 +13987,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15190,7 +15205,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15306,7 +15321,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15965,7 +15980,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16255,7 +16270,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "1-1",
+    "record": "1-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16611,18 +16626,18 @@
    "conference": "NFC",
    "division": "NFC West",
    "wins": 1,
-   "losses": 1,
+   "losses": 2,
    "ties": 0,
-   "pct": 0.5,
-   "pf": 35,
-   "pa": 33,
-   "net": 2,
+   "pct": 0.333,
+   "pf": 61,
+   "pa": 63,
+   "net": -2,
    "home": "1-1",
-   "road": "0-0",
+   "road": "0-1",
    "div": "0-1",
    "conf": "1-1",
-   "streak": "W1",
-   "record": "1-1",
+   "streak": "L1",
+   "record": "1-2",
    "rank_div": 3
   },
   {
@@ -17190,19 +17205,19 @@
    "name": "Broncos",
    "conference": "AFC",
    "division": "AFC West",
-   "wins": 1,
+   "wins": 2,
    "losses": 1,
    "ties": 0,
-   "pct": 0.5,
-   "pf": 30,
-   "pa": 44,
-   "net": -14,
-   "home": "1-0",
+   "pct": 0.667,
+   "pf": 60,
+   "pa": 70,
+   "net": -10,
+   "home": "2-0",
    "road": "0-1",
    "div": "0-1",
    "conf": "1-1",
-   "streak": "W1",
-   "record": "1-1",
+   "streak": "W2",
+   "record": "2-1",
    "rank_div": 3
   }
  ]
