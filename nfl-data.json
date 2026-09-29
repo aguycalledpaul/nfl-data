@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-29T00:50:33Z",
+  "updated": "2026-09-29T14:55:16Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 3
@@ -176,7 +176,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 59,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": [
      14,
      17,
@@ -1007,7 +1007,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": 24,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": [
      0,
      14,
@@ -1445,7 +1445,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 3,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": [
      3,
      0,
@@ -1786,7 +1786,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": 24,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": [
      0,
      14,
@@ -3447,7 +3447,7 @@
    "game_id": "2026_03_PHI_CHI",
    "season": 2026,
    "week": 3,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-09-28T20:15:00-04:00",
    "weekday": "Monday",
    "venue": "Soldier Field",
@@ -3466,42 +3466,52 @@
    "away": {
     "code": "PHI",
     "name": "Eagles",
-    "score": null,
-    "record": "2-0",
-    "linescore": null,
+    "score": 7,
+    "record": "2-1",
+    "linescore": [
+     0,
+     7,
+     0,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Hurts",
+      "line": "153 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "S. Barkley",
+      "line": "82 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Smith",
+      "line": "6 rec, 65 yds"
      }
     }
    },
    "home": {
     "code": "CHI",
     "name": "Bears",
-    "score": null,
-    "record": "1-1",
-    "linescore": null,
+    "score": 27,
+    "record": "2-1",
+    "linescore": [
+     7,
+     3,
+     10,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "C. Keenum",
+      "line": "247 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "D. Swift",
+      "line": "84 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "K. Raymond",
+      "line": "6 rec, 90 yds"
      }
     }
    }
@@ -3769,8 +3779,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bears",
+    "favorite_code": "CHI",
+    "line": 3.5,
+    "display": "CHI -3.5"
+   },
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3798,7 +3813,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4016,8 +4031,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Rams",
+    "favorite_code": "LA",
+    "line": 3.0,
+    "display": "LA -3"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4045,7 +4065,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4140,8 +4160,8 @@
    "spread": {
     "favorite": "Vikings",
     "favorite_code": "MIN",
-    "line": 10.5,
-    "display": "MIN -10.5"
+    "line": 11.5,
+    "display": "MIN -11.5"
    },
    "total": 38.5,
    "overtime": false,
@@ -4269,7 +4289,7 @@
     "line": 7.0,
     "display": "SEA -7"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4581,7 +4601,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5161,7 +5181,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5509,7 +5529,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5820,7 +5840,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6226,7 +6246,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6980,7 +7000,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7713,7 +7733,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7771,7 +7791,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8256,7 +8276,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8604,7 +8624,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9706,7 +9726,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10112,7 +10132,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10323,7 +10343,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10381,7 +10401,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11330,7 +11350,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11657,7 +11677,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12295,7 +12315,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12432,7 +12452,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12954,7 +12974,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12991,7 +13011,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13824,7 +13844,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13882,7 +13902,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15506,7 +15526,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15543,7 +15563,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16297,7 +16317,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "1-1",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16471,7 +16491,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-0",
+    "record": "2-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16675,20 +16695,20 @@
    "name": "Bears",
    "conference": "NFC",
    "division": "NFC North",
-   "wins": 1,
+   "wins": 2,
    "losses": 1,
    "ties": 0,
-   "pct": 0.5,
-   "pf": 62,
-   "pa": 46,
-   "net": 16,
-   "home": "0-1",
+   "pct": 0.667,
+   "pf": 89,
+   "pa": 53,
+   "net": 36,
+   "home": "1-1",
    "road": "1-0",
    "div": "0-1",
-   "conf": "1-1",
-   "streak": "L1",
-   "record": "1-1",
-   "rank_div": 3
+   "conf": "2-1",
+   "streak": "W1",
+   "record": "2-1",
+   "rank_div": 2
   },
   {
    "code": "CIN",
@@ -16748,7 +16768,7 @@
    "conf": "1-0",
    "streak": "W1",
    "record": "2-1",
-   "rank_div": 2
+   "rank_div": 3
   },
   {
    "code": "NO",
@@ -17096,19 +17116,19 @@
    "conference": "NFC",
    "division": "NFC East",
    "wins": 2,
-   "losses": 0,
+   "losses": 1,
    "ties": 0,
-   "pct": 1.0,
-   "pf": 48,
-   "pa": 42,
-   "net": 6,
+   "pct": 0.667,
+   "pf": 55,
+   "pa": 69,
+   "net": -14,
    "home": "1-0",
-   "road": "1-0",
+   "road": "1-1",
    "div": "1-0",
-   "conf": "1-0",
-   "streak": "W2",
-   "record": "2-0",
-   "rank_div": 1
+   "conf": "1-1",
+   "streak": "L1",
+   "record": "2-1",
+   "rank_div": 2
   },
   {
    "code": "WAS",
@@ -17148,7 +17168,7 @@
    "conf": "1-1",
    "streak": "W1",
    "record": "2-1",
-   "rank_div": 2
+   "rank_div": 1
   },
   {
    "code": "DAL",
