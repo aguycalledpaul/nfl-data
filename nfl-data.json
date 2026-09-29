@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-09-28T20:58:14Z",
+  "updated": "2026-09-29T00:50:33Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 3
@@ -3460,7 +3460,7 @@
     "line": 3.5,
     "display": "PHI -3.5"
    },
-   "total": 41.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3520,8 +3520,8 @@
    "spread": {
     "favorite": "Steelers",
     "favorite_code": "PIT",
-    "line": 3.0,
-    "display": "PIT -3"
+    "line": 2.5,
+    "display": "PIT -2.5"
    },
    "total": 38.5,
    "overtime": false,
@@ -3769,13 +3769,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Bears",
-    "favorite_code": "CHI",
-    "line": 3.0,
-    "display": "CHI -3"
-   },
-   "total": 43.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3835,8 +3830,8 @@
    "spread": {
     "favorite": "Bengals",
     "favorite_code": "CIN",
-    "line": 3.0,
-    "display": "CIN -3"
+    "line": 2.5,
+    "display": "CIN -2.5"
    },
    "total": 51.5,
    "overtime": false,
@@ -4021,13 +4016,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Rams",
-    "favorite_code": "LA",
-    "line": 1.5,
-    "display": "LA -1.5"
-   },
-   "total": 45.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4276,8 +4266,8 @@
    "spread": {
     "favorite": "Seahawks",
     "favorite_code": "SEA",
-    "line": 6.5,
-    "display": "SEA -6.5"
+    "line": 7.0,
+    "display": "SEA -7"
    },
    "total": 43.5,
    "overtime": false,
@@ -4339,8 +4329,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 2.5,
-    "display": "SF -2.5"
+    "line": 3.0,
+    "display": "SF -3"
    },
    "total": 46.5,
    "overtime": false,
@@ -4465,8 +4455,8 @@
    "spread": {
     "favorite": "Saints",
     "favorite_code": "NO",
-    "line": 2.5,
-    "display": "NO -2.5"
+    "line": 3.0,
+    "display": "NO -3"
    },
    "total": 48.5,
    "overtime": false,
