@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-02T16:26:41Z",
+  "updated": "2026-10-02T21:07:07Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 4
@@ -3603,10 +3603,10 @@
    "spread": {
     "favorite": "Colts",
     "favorite_code": "IND",
-    "line": 3.5,
-    "display": "IND -3.5"
+    "line": 4.5,
+    "display": "IND -4.5"
    },
-   "total": 48.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3732,7 +3732,7 @@
     "line": 7.0,
     "display": "BUF -7"
    },
-   "total": 48.5,
+   "total": 49.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -4110,7 +4110,7 @@
     "line": 3.5,
     "display": "GB -3.5"
    },
-   "total": 38.5,
+   "total": 39.5,
    "overtime": false,
    "div_game": false,
    "away": {
