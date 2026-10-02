@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-02T03:24:56Z",
+  "updated": "2026-10-02T10:12:20Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 4
@@ -543,7 +543,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": 10,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": [
      0,
      0,
@@ -642,7 +642,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 20,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": [
      3,
      10,
@@ -1565,7 +1565,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 3,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": [
      0,
      3,
@@ -1713,7 +1713,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": 23,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": [
      3,
      3,
@@ -2544,7 +2544,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": 21,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": [
      0,
      10,
@@ -2982,7 +2982,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 30,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": [
      14,
      3,
@@ -3520,7 +3520,7 @@
    "game_id": "2026_04_PIT_CLE",
    "season": 2026,
    "week": 4,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-01T20:15:00-04:00",
    "weekday": "Thursday",
    "venue": "Huntington Bank Field",
@@ -3539,42 +3539,52 @@
    "away": {
     "code": "PIT",
     "name": "Steelers",
-    "score": null,
-    "record": "2-1",
-    "linescore": null,
+    "score": 24,
+    "record": "2-2",
+    "linescore": [
+     7,
+     3,
+     0,
+     14
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "A. Rodgers",
+      "line": "299 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Warren",
+      "line": "93 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Metcalf",
+      "line": "5 rec, 115 yds"
      }
     }
    },
    "home": {
     "code": "CLE",
     "name": "Browns",
-    "score": null,
-    "record": "2-1",
-    "linescore": null,
+    "score": 27,
+    "record": "3-1",
+    "linescore": [
+     0,
+     21,
+     0,
+     6
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Watson",
+      "line": "268 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "Q. Judkins",
+      "line": "53 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Boston",
+      "line": "4 rec, 89 yds"
      }
     }
    }
@@ -4913,15 +4923,20 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Jets",
+    "favorite_code": "NYJ",
+    "line": 1.5,
+    "display": "NYJ -1.5"
+   },
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4971,8 +4986,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Steelers",
+    "favorite_code": "PIT",
+    "line": 1.5,
+    "display": "PIT -1.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5000,7 +5020,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5673,7 +5693,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5942,7 +5962,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6348,7 +6368,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6754,7 +6774,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7508,7 +7528,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7529,7 +7549,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8262,7 +8282,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8979,7 +8999,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9480,7 +9500,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10176,7 +10196,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10603,7 +10623,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10719,7 +10739,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11473,7 +11493,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11995,7 +12015,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12285,7 +12305,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12902,7 +12922,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13308,7 +13328,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13387,7 +13407,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14178,7 +14198,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14547,7 +14567,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15011,7 +15031,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15454,7 +15474,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15802,7 +15822,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15976,7 +15996,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16793,7 +16813,7 @@
    "conf": "1-1",
    "streak": "L1",
    "record": "2-1",
-   "rank_div": 1
+   "rank_div": 2
   },
   {
    "code": "TB",
@@ -16933,7 +16953,7 @@
    "conf": "1-0",
    "streak": "W1",
    "record": "2-1",
-   "rank_div": 2
+   "rank_div": 3
   },
   {
    "code": "JAX",
@@ -16960,20 +16980,20 @@
    "name": "Browns",
    "conference": "AFC",
    "division": "AFC North",
-   "wins": 2,
+   "wins": 3,
    "losses": 1,
    "ties": 0,
-   "pct": 0.667,
-   "pf": 54,
-   "pa": 71,
-   "net": -17,
-   "home": "1-0",
+   "pct": 0.75,
+   "pf": 81,
+   "pa": 95,
+   "net": -14,
+   "home": "2-0",
    "road": "1-1",
-   "div": "0-0",
-   "conf": "0-1",
-   "streak": "W2",
-   "record": "2-1",
-   "rank_div": 4
+   "div": "1-0",
+   "conf": "1-1",
+   "streak": "W3",
+   "record": "3-1",
+   "rank_div": 1
   },
   {
    "code": "PIT",
@@ -16981,19 +17001,19 @@
    "conference": "AFC",
    "division": "AFC North",
    "wins": 2,
-   "losses": 1,
+   "losses": 2,
    "ties": 0,
-   "pct": 0.667,
-   "pf": 53,
-   "pa": 60,
-   "net": -7,
+   "pct": 0.5,
+   "pf": 77,
+   "pa": 87,
+   "net": -10,
    "home": "2-0",
-   "road": "0-1",
-   "div": "1-0",
-   "conf": "1-1",
-   "streak": "W1",
-   "record": "2-1",
-   "rank_div": 3
+   "road": "0-2",
+   "div": "1-1",
+   "conf": "1-2",
+   "streak": "L1",
+   "record": "2-2",
+   "rank_div": 4
   },
   {
    "code": "ATL",
