@@ -1,9 +1,9 @@
 {
  "meta": {
-  "updated": "2026-09-29T14:55:16Z",
+  "updated": "2026-10-02T03:24:56Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
-  "current_week": 3
+  "current_week": 4
  },
  "games": [
   {
@@ -3596,7 +3596,7 @@
     "line": 3.5,
     "display": "IND -3.5"
    },
-   "total": 47.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3659,7 +3659,7 @@
     "line": 11.5,
     "display": "BAL -11.5"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3785,7 +3785,7 @@
     "line": 3.5,
     "display": "CHI -3.5"
    },
-   "total": 42.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3908,10 +3908,10 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 2.5,
-    "display": "HOU -2.5"
+    "line": 3.0,
+    "display": "HOU -3"
    },
-   "total": 47.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -3971,8 +3971,8 @@
    "spread": {
     "favorite": "Cardinals",
     "favorite_code": "ARI",
-    "line": 1.5,
-    "display": "ARI -1.5"
+    "line": 2.5,
+    "display": "ARI -2.5"
    },
    "total": 44.5,
    "overtime": false,
@@ -4034,10 +4034,10 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 3.0,
-    "display": "LA -3"
+    "line": 3.5,
+    "display": "LA -3.5"
    },
-   "total": 45.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4100,7 +4100,7 @@
     "line": 3.5,
     "display": "GB -3.5"
    },
-   "total": 39.5,
+   "total": 38.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4160,8 +4160,8 @@
    "spread": {
     "favorite": "Vikings",
     "favorite_code": "MIN",
-    "line": 11.5,
-    "display": "MIN -11.5"
+    "line": 10.5,
+    "display": "MIN -10.5"
    },
    "total": 38.5,
    "overtime": false,
@@ -4352,7 +4352,7 @@
     "line": 3.0,
     "display": "SF -3"
    },
-   "total": 46.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4475,10 +4475,10 @@
    "spread": {
     "favorite": "Saints",
     "favorite_code": "NO",
-    "line": 3.0,
-    "display": "NO -3"
+    "line": 2.5,
+    "display": "NO -2.5"
    },
-   "total": 48.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -4535,8 +4535,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Cowboys",
+    "favorite_code": "DAL",
+    "line": 9.5,
+    "display": "DAL -9.5"
+   },
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4593,8 +4598,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Jaguars",
+    "favorite_code": "JAX",
+    "line": 3.0,
+    "display": "JAX -3"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4641,6 +4651,69 @@
    }
   },
   {
+   "game_id": "2026_05_CHI_GB",
+   "season": 2026,
+   "week": 5,
+   "status": "scheduled",
+   "kickoff": "2026-10-11T13:00:00-04:00",
+   "weekday": "Sunday",
+   "venue": "Lambeau Field",
+   "roof": "outdoors",
+   "network": "",
+   "recap_url": "",
+   "spread": {
+    "favorite": "Packers",
+    "favorite_code": "GB",
+    "line": 2.5,
+    "display": "GB -2.5"
+   },
+   "total": 45.5,
+   "overtime": false,
+   "div_game": true,
+   "away": {
+    "code": "CHI",
+    "name": "Bears",
+    "score": null,
+    "record": "2-1",
+    "linescore": null,
+    "leaders": {
+     "passing": {
+      "player": "",
+      "line": ""
+     },
+     "rushing": {
+      "player": "",
+      "line": ""
+     },
+     "receiving": {
+      "player": "",
+      "line": ""
+     }
+    }
+   },
+   "home": {
+    "code": "GB",
+    "name": "Packers",
+    "score": null,
+    "record": "1-2",
+    "linescore": null,
+    "leaders": {
+     "passing": {
+      "player": "",
+      "line": ""
+     },
+     "rushing": {
+      "player": "",
+      "line": ""
+     },
+     "receiving": {
+      "player": "",
+      "line": ""
+     }
+    }
+   }
+  },
+  {
    "game_id": "2026_05_CIN_MIA",
    "season": 2026,
    "week": 5,
@@ -4651,8 +4724,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bengals",
+    "favorite_code": "CIN",
+    "line": 8.5,
+    "display": "CIN -8.5"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4709,8 +4787,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Patriots",
+    "favorite_code": "NE",
+    "line": 3.5,
+    "display": "NE -3.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4767,8 +4850,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Vikings",
+    "favorite_code": "MIN",
+    "line": 2.5,
+    "display": "MIN -2.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4941,8 +5029,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Texans",
+    "favorite_code": "HOU",
+    "line": 6.5,
+    "display": "HOU -6.5"
+   },
+   "total": 39.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -4999,8 +5092,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Commanders",
+    "favorite_code": "WAS",
+    "line": 2.5,
+    "display": "WAS -2.5"
+   },
+   "total": 43.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5057,8 +5155,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Broncos",
+    "favorite_code": "DEN",
+    "line": 2.5,
+    "display": "DEN -2.5"
+   },
+   "total": 43.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5115,8 +5218,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Lions",
+    "favorite_code": "DET",
+    "line": 5.5,
+    "display": "DET -5.5"
+   },
+   "total": 52.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5163,64 +5271,6 @@
    }
   },
   {
-   "game_id": "2026_05_CHI_GB",
-   "season": 2026,
-   "week": 5,
-   "status": "scheduled",
-   "kickoff": "2026-10-11T16:25:00-04:00",
-   "weekday": "Sunday",
-   "venue": "Lambeau Field",
-   "roof": "outdoors",
-   "network": "",
-   "recap_url": "",
-   "spread": null,
-   "total": null,
-   "overtime": false,
-   "div_game": true,
-   "away": {
-    "code": "CHI",
-    "name": "Bears",
-    "score": null,
-    "record": "2-1",
-    "linescore": null,
-    "leaders": {
-     "passing": {
-      "player": "",
-      "line": ""
-     },
-     "rushing": {
-      "player": "",
-      "line": ""
-     },
-     "receiving": {
-      "player": "",
-      "line": ""
-     }
-    }
-   },
-   "home": {
-    "code": "GB",
-    "name": "Packers",
-    "score": null,
-    "record": "1-2",
-    "linescore": null,
-    "leaders": {
-     "passing": {
-      "player": "",
-      "line": ""
-     },
-     "rushing": {
-      "player": "",
-      "line": ""
-     },
-     "receiving": {
-      "player": "",
-      "line": ""
-     }
-    }
-   }
-  },
-  {
    "game_id": "2026_05_SF_SEA",
    "season": 2026,
    "week": 5,
@@ -5231,8 +5281,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Seahawks",
+    "favorite_code": "SEA",
+    "line": 3.0,
+    "display": "SEA -3"
+   },
+   "total": 47.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5289,8 +5344,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Ravens",
+    "favorite_code": "BAL",
+    "line": 6.0,
+    "display": "BAL -6"
+   },
+   "total": 49.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5347,8 +5407,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Rams",
+    "favorite_code": "LA",
+    "line": 2.5,
+    "display": "LA -2.5"
+   },
+   "total": 52.5,
    "overtime": false,
    "div_game": false,
    "away": {
