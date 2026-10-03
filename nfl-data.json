@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-02T21:07:07Z",
+  "updated": "2026-10-03T00:51:24Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 4
@@ -4107,8 +4107,8 @@
    "spread": {
     "favorite": "Packers",
     "favorite_code": "GB",
-    "line": 3.5,
-    "display": "GB -3.5"
+    "line": 3.0,
+    "display": "GB -3"
    },
    "total": 39.5,
    "overtime": false,
@@ -4170,8 +4170,8 @@
    "spread": {
     "favorite": "Vikings",
     "favorite_code": "MIN",
-    "line": 10.5,
-    "display": "MIN -10.5"
+    "line": 10.0,
+    "display": "MIN -10"
    },
    "total": 38.5,
    "overtime": false,
