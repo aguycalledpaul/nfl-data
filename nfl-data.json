@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-04T20:43:29Z",
+  "updated": "2026-10-04T23:45:35Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 4
@@ -835,7 +835,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 13,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": [
      0,
      6,
@@ -934,7 +934,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 39,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": [
      3,
      7,
@@ -1419,7 +1419,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 9,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": [
      3,
      3,
@@ -2151,7 +2151,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 13,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": [
      0,
      6,
@@ -2836,7 +2836,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 10,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": [
      7,
      0,
@@ -3175,7 +3175,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 23,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": [
      10,
      7,
@@ -3614,19 +3614,24 @@
     "name": "Colts",
     "score": 30,
     "record": "2-2",
-    "linescore": null,
+    "linescore": [
+     0,
+     10,
+     10,
+     10
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Jones",
+      "line": "143 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Taylor",
+      "line": "95 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "L. Treadwell",
+      "line": "5 rec, 42 yds"
      }
     }
    },
@@ -3635,19 +3640,24 @@
     "name": "Commanders",
     "score": 13,
     "record": "1-3",
-    "linescore": null,
+    "linescore": [
+     6,
+     0,
+     7,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "A. Kaliakmanis",
+      "line": "186 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "M. Mariota",
+      "line": "35 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Brown",
+      "line": "3 rec, 65 yds"
      }
     }
    }
@@ -3677,19 +3687,24 @@
     "name": "Titans",
     "score": 18,
     "record": "0-4",
-    "linescore": null,
+    "linescore": [
+     7,
+     0,
+     3,
+     8
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "C. Ward",
+      "line": "222 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "T. Pollard",
+      "line": "48 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "C. Tate",
+      "line": "9 rec, 145 yds"
      }
     }
    },
@@ -3698,19 +3713,24 @@
     "name": "Ravens",
     "score": 24,
     "record": "3-1",
-    "linescore": null,
+    "linescore": [
+     7,
+     17,
+     0,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "L. Jackson",
+      "line": "222 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "D. Henry",
+      "line": "73 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "Z. Flowers",
+      "line": "8 rec, 118 yds"
      }
     }
    }
@@ -3740,19 +3760,24 @@
     "name": "Patriots",
     "score": 29,
     "record": "2-2",
-    "linescore": null,
+    "linescore": [
+     7,
+     7,
+     7,
+     8
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Maye",
+      "line": "269 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "D. Maye",
+      "line": "54 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "H. Henry",
+      "line": "5 rec, 62 yds"
      }
     }
    },
@@ -3761,19 +3786,24 @@
     "name": "Bills",
     "score": 26,
     "record": "3-1",
-    "linescore": null,
+    "linescore": [
+     0,
+     17,
+     0,
+     9
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Allen",
+      "line": "253 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Cook",
+      "line": "75 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "K. Coleman",
+      "line": "6 rec, 116 yds"
      }
     }
    }
@@ -3803,19 +3833,24 @@
     "name": "Jets",
     "score": 12,
     "record": "1-3",
-    "linescore": null,
+    "linescore": [
+     0,
+     3,
+     3,
+     6
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "G. Smith",
+      "line": "119 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Allen",
+      "line": "59 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "I. Williams",
+      "line": "2 rec, 73 yds"
      }
     }
    },
@@ -3824,19 +3859,24 @@
     "name": "Bears",
     "score": 23,
     "record": "3-1",
-    "linescore": null,
+    "linescore": [
+     7,
+     6,
+     7,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "T. Bagent",
+      "line": "268 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. Monangai",
+      "line": "146 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "R. Odunze",
+      "line": "6 rec, 94 yds"
      }
     }
    }
@@ -3866,19 +3906,24 @@
     "name": "Jaguars",
     "score": 22,
     "record": "3-1",
-    "linescore": null,
+    "linescore": [
+     3,
+     10,
+     3,
+     6
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "T. Lawrence",
+      "line": "227 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Tuten",
+      "line": "73 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "B. Strange",
+      "line": "7 rec, 95 yds"
      }
     }
    },
@@ -3887,19 +3932,24 @@
     "name": "Bengals",
     "score": 17,
     "record": "2-2",
-    "linescore": null,
+    "linescore": [
+     0,
+     3,
+     7,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Burrow",
+      "line": "428 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. Brown",
+      "line": "10 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "T. Higgins",
+      "line": "11 rec, 157 yds"
      }
     }
    }
@@ -3929,19 +3979,24 @@
     "name": "Cowboys",
     "score": 34,
     "record": "2-2",
-    "linescore": null,
+    "linescore": [
+     3,
+     3,
+     14,
+     14
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Prescott",
+      "line": "335 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Williams",
+      "line": "62 yds, 3 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "C. Lamb",
+      "line": "17 rec, 189 yds"
      }
     }
    },
@@ -3950,19 +4005,24 @@
     "name": "Texans",
     "score": 30,
     "record": "0-4",
-    "linescore": null,
+    "linescore": [
+     10,
+     6,
+     7,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "C. Stroud",
+      "line": "347 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "D. Montgomery",
+      "line": "24 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "N. Collins",
+      "line": "7 rec, 118 yds"
      }
     }
    }
@@ -3992,19 +4052,24 @@
     "name": "Cardinals",
     "score": 24,
     "record": "1-3",
-    "linescore": null,
+    "linescore": [
+     14,
+     3,
+     7,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Brissett",
+      "line": "166 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Love",
+      "line": "63 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Wilson",
+      "line": "7 rec, 95 yds"
      }
     }
    },
@@ -4013,19 +4078,24 @@
     "name": "Giants",
     "score": 36,
     "record": "3-1",
-    "linescore": null,
+    "linescore": [
+     3,
+     16,
+     8,
+     9
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Winston",
+      "line": "250 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. Skattebo",
+      "line": "58 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Nabers",
+      "line": "6 rec, 112 yds"
      }
     }
    }
@@ -4055,19 +4125,24 @@
     "name": "Rams",
     "score": 24,
     "record": "2-2",
-    "linescore": null,
+    "linescore": [
+     3,
+     7,
+     0,
+     14
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "M. Stafford",
+      "line": "317 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. Williams",
+      "line": "80 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "P. Nacua",
+      "line": "9 rec, 125 yds"
      }
     }
    },
@@ -4076,19 +4151,24 @@
     "name": "Eagles",
     "score": 20,
     "record": "2-2",
-    "linescore": null,
+    "linescore": [
+     3,
+     17,
+     0,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Hurts",
+      "line": "93 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "T. Bigsby",
+      "line": "55 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Cooper",
+      "line": "3 rec, 33 yds"
      }
     }
    }
@@ -4118,19 +4198,24 @@
     "name": "Packers",
     "score": 17,
     "record": "2-2",
-    "linescore": null,
+    "linescore": [
+     0,
+     10,
+     7,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Love",
+      "line": "197 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. Johnson",
+      "line": "42 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "C. Watson",
+      "line": "3 rec, 47 yds"
      }
     }
    },
@@ -4139,19 +4224,24 @@
     "name": "Buccaneers",
     "score": 14,
     "record": "0-4",
-    "linescore": null,
+    "linescore": [
+     0,
+     7,
+     0,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Daniels",
+      "line": "148 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Irving",
+      "line": "61 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "C. Otton",
+      "line": "4 rec, 37 yds"
      }
     }
    }
@@ -4160,7 +4250,7 @@
    "game_id": "2026_04_MIA_MIN",
    "season": 2026,
    "week": 4,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-04T16:05:00-04:00",
    "weekday": "Sunday",
    "venue": "U.S. Bank Stadium",
@@ -4179,8 +4269,8 @@
    "away": {
     "code": "MIA",
     "name": "Dolphins",
-    "score": null,
-    "record": "0-3",
+    "score": 10,
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4200,8 +4290,8 @@
    "home": {
     "code": "MIN",
     "name": "Vikings",
-    "score": null,
-    "record": "3-0",
+    "score": 15,
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4422,8 +4512,8 @@
    "spread": {
     "favorite": "Lions",
     "favorite_code": "DET",
-    "line": 3.5,
-    "display": "DET -3.5"
+    "line": 4.5,
+    "display": "DET -4.5"
    },
    "total": 51.5,
    "overtime": false,
@@ -4545,8 +4635,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Cowboys",
+    "favorite_code": "DAL",
+    "line": 10.0,
+    "display": "DAL -10"
+   },
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4603,8 +4698,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Jaguars",
+    "favorite_code": "JAX",
+    "line": 3.5,
+    "display": "JAX -3.5"
+   },
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4661,8 +4761,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bears",
+    "favorite_code": "CHI",
+    "line": 1.5,
+    "display": "CHI -1.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -4719,8 +4824,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bengals",
+    "favorite_code": "CIN",
+    "line": 7.5,
+    "display": "CIN -7.5"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4748,7 +4858,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4777,8 +4887,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Patriots",
+    "favorite_code": "NE",
+    "line": 3.5,
+    "display": "NE -3.5"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4835,15 +4950,20 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Vikings",
+    "favorite_code": "MIN",
+    "line": 1.5,
+    "display": "MIN -1.5"
+   },
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4893,8 +5013,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Jets",
+    "favorite_code": "NYJ",
+    "line": 1.5,
+    "display": "NYJ -1.5"
+   },
+   "total": 39.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4951,8 +5076,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Steelers",
+    "favorite_code": "PIT",
+    "line": 2.5,
+    "display": "PIT -2.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5009,8 +5139,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Texans",
+    "favorite_code": "HOU",
+    "line": 6.5,
+    "display": "HOU -6.5"
+   },
+   "total": 40.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5067,8 +5202,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Commanders",
+    "favorite_code": "WAS",
+    "line": 3.0,
+    "display": "WAS -3"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5125,8 +5265,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Broncos",
+    "favorite_code": "DEN",
+    "line": 3.5,
+    "display": "DEN -3.5"
+   },
+   "total": 42.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5183,8 +5328,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Lions",
+    "favorite_code": "DET",
+    "line": 5.5,
+    "display": "DET -5.5"
+   },
+   "total": 53.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5241,8 +5391,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Seahawks",
+    "favorite_code": "SEA",
+    "line": 3.0,
+    "display": "SEA -3"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5299,8 +5454,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Ravens",
+    "favorite_code": "BAL",
+    "line": 3.5,
+    "display": "BAL -3.5"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5357,8 +5517,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Rams",
+    "favorite_code": "LA",
+    "line": 2.5,
+    "display": "LA -2.5"
+   },
+   "total": 53.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6604,7 +6769,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6641,7 +6806,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7279,7 +7444,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7706,7 +7871,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8170,7 +8335,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8692,7 +8857,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8961,7 +9126,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9019,7 +9184,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9599,7 +9764,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10179,7 +10344,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10838,7 +11003,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10896,7 +11061,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11745,7 +11910,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11824,7 +11989,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12035,7 +12200,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12346,7 +12511,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13137,7 +13302,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13738,7 +13903,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14260,7 +14425,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14318,7 +14483,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15188,7 +15353,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15283,7 +15448,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16348,7 +16513,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16385,7 +16550,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17066,18 +17231,18 @@
    "conference": "AFC",
    "division": "AFC East",
    "wins": 0,
-   "losses": 3,
+   "losses": 4,
    "ties": 0,
    "pct": 0.0,
-   "pf": 36,
-   "pa": 86,
-   "net": -50,
+   "pf": 46,
+   "pa": 101,
+   "net": -55,
    "home": "0-1",
-   "road": "0-2",
+   "road": "0-3",
    "div": "0-0",
    "conf": "0-2",
-   "streak": "L3",
-   "record": "0-3",
+   "streak": "L4",
+   "record": "0-4",
    "rank_div": 4
   },
   {
@@ -17085,19 +17250,19 @@
    "name": "Vikings",
    "conference": "NFC",
    "division": "NFC North",
-   "wins": 3,
+   "wins": 4,
    "losses": 0,
    "ties": 0,
    "pct": 1.0,
-   "pf": 71,
-   "pa": 41,
-   "net": 30,
-   "home": "1-0",
+   "pf": 86,
+   "pa": 51,
+   "net": 35,
+   "home": "2-0",
    "road": "2-0",
    "div": "2-0",
    "conf": "3-0",
-   "streak": "W3",
-   "record": "3-0",
+   "streak": "W4",
+   "record": "4-0",
    "rank_div": 1
   },
   {
