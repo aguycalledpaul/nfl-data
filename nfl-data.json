@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-04T12:59:12Z",
+  "updated": "2026-10-04T17:20:41Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 4
@@ -496,7 +496,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 23,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": [
      6,
      7,
@@ -981,7 +981,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 22,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": [
      3,
      6,
@@ -2078,7 +2078,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 20,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": [
      0,
      10,
@@ -2224,7 +2224,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 30,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": [
      7,
      13,
@@ -2690,7 +2690,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 19,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": [
      3,
      10,
@@ -3055,7 +3055,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 33,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": [
      7,
      10,
@@ -3593,7 +3593,7 @@
    "game_id": "2026_04_IND_WAS",
    "season": 2026,
    "week": 4,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-04T09:30:00-04:00",
    "weekday": "Sunday",
    "venue": "Tottenham Hotspur Stadium",
@@ -3612,8 +3612,8 @@
    "away": {
     "code": "IND",
     "name": "Colts",
-    "score": null,
-    "record": "1-2",
+    "score": 30,
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -3633,8 +3633,8 @@
    "home": {
     "code": "WAS",
     "name": "Commanders",
-    "score": null,
-    "record": "1-2",
+    "score": 13,
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4545,13 +4545,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Cowboys",
-    "favorite_code": "DAL",
-    "line": 9.5,
-    "display": "DAL -9.5"
-   },
-   "total": 47.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4608,13 +4603,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Jaguars",
-    "favorite_code": "JAX",
-    "line": 3.0,
-    "display": "JAX -3"
-   },
-   "total": 44.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4671,13 +4661,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Packers",
-    "favorite_code": "GB",
-    "line": 2.5,
-    "display": "GB -2.5"
-   },
-   "total": 45.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -4734,13 +4719,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Bengals",
-    "favorite_code": "CIN",
-    "line": 8.5,
-    "display": "CIN -8.5"
-   },
-   "total": 46.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4797,13 +4777,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Patriots",
-    "favorite_code": "NE",
-    "line": 3.5,
-    "display": "NE -3.5"
-   },
-   "total": 44.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4860,13 +4835,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Vikings",
-    "favorite_code": "MIN",
-    "line": 2.5,
-    "display": "MIN -2.5"
-   },
-   "total": 44.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4923,13 +4893,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Jets",
-    "favorite_code": "NYJ",
-    "line": 1.5,
-    "display": "NYJ -1.5"
-   },
-   "total": 40.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4986,20 +4951,15 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Steelers",
-    "favorite_code": "PIT",
-    "line": 1.5,
-    "display": "PIT -1.5"
-   },
-   "total": 44.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5049,13 +5009,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Texans",
-    "favorite_code": "HOU",
-    "line": 6.5,
-    "display": "HOU -6.5"
-   },
-   "total": 39.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5112,13 +5067,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Commanders",
-    "favorite_code": "WAS",
-    "line": 2.5,
-    "display": "WAS -2.5"
-   },
-   "total": 43.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5146,7 +5096,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5175,13 +5125,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Broncos",
-    "favorite_code": "DEN",
-    "line": 2.5,
-    "display": "DEN -2.5"
-   },
-   "total": 43.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5238,13 +5183,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Lions",
-    "favorite_code": "DET",
-    "line": 5.5,
-    "display": "DET -5.5"
-   },
-   "total": 52.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5301,13 +5241,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Seahawks",
-    "favorite_code": "SEA",
-    "line": 3.0,
-    "display": "SEA -3"
-   },
-   "total": 47.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5364,13 +5299,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Ravens",
-    "favorite_code": "BAL",
-    "line": 6.0,
-    "display": "BAL -6"
-   },
-   "total": 49.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5427,13 +5357,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Rams",
-    "favorite_code": "LA",
-    "line": 2.5,
-    "display": "LA -2.5"
-   },
-   "total": 52.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5751,7 +5676,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6252,7 +6177,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6658,7 +6583,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7412,7 +7337,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7839,7 +7764,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8129,7 +8054,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8419,7 +8344,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8804,7 +8729,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9115,7 +9040,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9616,7 +9541,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10333,7 +10258,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10855,7 +10780,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11066,7 +10991,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11704,7 +11629,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12516,7 +12441,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12595,7 +12520,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13502,7 +13427,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13581,7 +13506,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14277,7 +14202,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14372,7 +14297,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15010,7 +14935,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15126,7 +15051,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16249,7 +16174,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16655,7 +16580,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16920,19 +16845,19 @@
    "name": "Colts",
    "conference": "AFC",
    "division": "AFC South",
-   "wins": 1,
+   "wins": 2,
    "losses": 2,
    "ties": 0,
-   "pct": 0.333,
-   "pf": 72,
-   "pa": 91,
-   "net": -19,
+   "pct": 0.5,
+   "pf": 102,
+   "pa": 104,
+   "net": -2,
    "home": "1-1",
-   "road": "0-1",
+   "road": "1-1",
    "div": "1-0",
    "conf": "1-2",
-   "streak": "W1",
-   "record": "1-2",
+   "streak": "W2",
+   "record": "2-2",
    "rank_div": 2
   },
   {
@@ -17221,18 +17146,18 @@
    "conference": "NFC",
    "division": "NFC East",
    "wins": 1,
-   "losses": 2,
+   "losses": 3,
    "ties": 0,
-   "pct": 0.333,
-   "pf": 75,
-   "pa": 92,
-   "net": -17,
-   "home": "1-0",
+   "pct": 0.25,
+   "pf": 88,
+   "pa": 122,
+   "net": -34,
+   "home": "1-1",
    "road": "0-2",
    "div": "0-2",
    "conf": "1-2",
-   "streak": "W1",
-   "record": "1-2",
+   "streak": "L1",
+   "record": "1-3",
    "rank_div": 4
   },
   {
