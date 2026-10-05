@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-04T23:45:35Z",
+  "updated": "2026-10-05T03:20:20Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 4
@@ -56,7 +56,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 13,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": [
      0,
      0,
@@ -103,7 +103,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 27,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": [
      3,
      7,
@@ -788,7 +788,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 14,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": [
      7,
      0,
@@ -861,7 +861,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 27,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": [
      7,
      10,
@@ -1127,7 +1127,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 10,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": [
      7,
      0,
@@ -1153,7 +1153,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 31,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": [
      7,
      7,
@@ -1885,7 +1885,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 20,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": [
      0,
      3,
@@ -1932,7 +1932,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 26,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": [
      0,
      10,
@@ -1958,7 +1958,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 14,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": [
      0,
      7,
@@ -2005,7 +2005,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 31,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": [
      7,
      0,
@@ -2177,7 +2177,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 35,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": [
      7,
      7,
@@ -2251,7 +2251,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 33,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": [
      10,
      7,
@@ -2445,7 +2445,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 16,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": [
      10,
      0,
@@ -2810,7 +2810,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 24,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": [
      7,
      7,
@@ -3029,7 +3029,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 31,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": [
      0,
      10,
@@ -3128,7 +3128,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 36,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": [
      7,
      10,
@@ -3321,7 +3321,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 35,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": [
      3,
      13,
@@ -3420,7 +3420,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 30,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": [
      0,
      0,
@@ -4271,19 +4271,24 @@
     "name": "Dolphins",
     "score": 10,
     "record": "0-4",
-    "linescore": null,
+    "linescore": [
+     0,
+     0,
+     10,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "M. Willis",
+      "line": "85 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "O. II",
+      "line": "100 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Washington",
+      "line": "5 rec, 67 yds"
      }
     }
    },
@@ -4292,19 +4297,24 @@
     "name": "Vikings",
     "score": 15,
     "record": "4-0",
-    "linescore": null,
+    "linescore": [
+     3,
+     6,
+     3,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "K. Murray",
+      "line": "247 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "A. Jones",
+      "line": "94 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "T. Hockenson",
+      "line": "13 rec, 119 yds"
      }
     }
    }
@@ -4313,7 +4323,7 @@
    "game_id": "2026_04_KC_LV",
    "season": 2026,
    "week": 4,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-04T16:25:00-04:00",
    "weekday": "Sunday",
    "venue": "Allegiant Stadium",
@@ -4332,42 +4342,52 @@
    "away": {
     "code": "KC",
     "name": "Chiefs",
-    "score": null,
-    "record": "3-0",
-    "linescore": null,
+    "score": 30,
+    "record": "4-0",
+    "linescore": [
+     7,
+     3,
+     0,
+     20
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "P. Mahomes",
+      "line": "225 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. III",
+      "line": "177 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "T. Thornton",
+      "line": "5 rec, 111 yds"
      }
     }
    },
    "home": {
     "code": "LV",
     "name": "Raiders",
-    "score": null,
-    "record": "3-0",
-    "linescore": null,
+    "score": 27,
+    "record": "3-1",
+    "linescore": [
+     7,
+     6,
+     0,
+     14
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "K. Cousins",
+      "line": "365 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "A. Jeanty",
+      "line": "58 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "B. Bowers",
+      "line": "6 rec, 86 yds"
      }
     }
    }
@@ -4376,7 +4396,7 @@
    "game_id": "2026_04_LAC_SEA",
    "season": 2026,
    "week": 4,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-04T16:25:00-04:00",
    "weekday": "Sunday",
    "venue": "Lumen Field",
@@ -4395,42 +4415,52 @@
    "away": {
     "code": "LAC",
     "name": "Chargers",
-    "score": null,
-    "record": "0-3",
-    "linescore": null,
+    "score": 23,
+    "record": "0-4",
+    "linescore": [
+     3,
+     3,
+     7,
+     10
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Herbert",
+      "line": "189 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "O. Hampton",
+      "line": "45 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "T. Harris",
+      "line": "3 rec, 60 yds"
      }
     }
    },
    "home": {
     "code": "SEA",
     "name": "Seahawks",
-    "score": null,
-    "record": "2-1",
-    "linescore": null,
+    "score": 30,
+    "record": "3-1",
+    "linescore": [
+     7,
+     13,
+     10,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "S. Darnold",
+      "line": "168 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "E. Wilson",
+      "line": "81 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Smith-Njigba",
+      "line": "5 rec, 76 yds"
      }
     }
    }
@@ -4439,7 +4469,7 @@
    "game_id": "2026_04_DEN_SF",
    "season": 2026,
    "week": 4,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-04T16:25:00-04:00",
    "weekday": "Sunday",
    "venue": "Levi's Stadium",
@@ -4458,42 +4488,52 @@
    "away": {
     "code": "DEN",
     "name": "Broncos",
-    "score": null,
-    "record": "2-1",
-    "linescore": null,
+    "score": 14,
+    "record": "2-2",
+    "linescore": [
+     3,
+     0,
+     0,
+     11
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "B. Nix",
+      "line": "214 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Dobbins",
+      "line": "40 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "R. Harvey",
+      "line": "10 rec, 68 yds"
      }
     }
    },
    "home": {
     "code": "SF",
     "name": "49ers",
-    "score": null,
-    "record": "3-0",
-    "linescore": null,
+    "score": 24,
+    "record": "4-0",
+    "linescore": [
+     0,
+     3,
+     7,
+     14
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "B. Purdy",
+      "line": "218 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. McCaffrey",
+      "line": "52 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Evans",
+      "line": "5 rec, 76 yds"
      }
     }
    }
@@ -4515,7 +4555,7 @@
     "line": 4.5,
     "display": "DET -4.5"
    },
-   "total": 51.5,
+   "total": 52.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4701,8 +4741,8 @@
    "spread": {
     "favorite": "Jaguars",
     "favorite_code": "JAX",
-    "line": 3.5,
-    "display": "JAX -3.5"
+    "line": 4.5,
+    "display": "JAX -4.5"
    },
    "total": 42.5,
    "overtime": false,
@@ -4764,8 +4804,8 @@
    "spread": {
     "favorite": "Bears",
     "favorite_code": "CHI",
-    "line": 1.5,
-    "display": "CHI -1.5"
+    "line": 2.5,
+    "display": "CHI -2.5"
    },
    "total": 44.5,
    "overtime": false,
@@ -4830,7 +4870,7 @@
     "line": 7.5,
     "display": "CIN -7.5"
    },
-   "total": 45.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4900,7 +4940,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4956,7 +4996,7 @@
     "line": 1.5,
     "display": "MIN -1.5"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5016,8 +5056,8 @@
    "spread": {
     "favorite": "Jets",
     "favorite_code": "NYJ",
-    "line": 1.5,
-    "display": "NYJ -1.5"
+    "line": 2.5,
+    "display": "NYJ -2.5"
    },
    "total": 39.5,
    "overtime": false,
@@ -5082,7 +5122,7 @@
     "line": 2.5,
     "display": "PIT -2.5"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5145,7 +5185,7 @@
     "line": 6.5,
     "display": "HOU -6.5"
    },
-   "total": 40.5,
+   "total": 39.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5208,7 +5248,7 @@
     "line": 3.0,
     "display": "WAS -3"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5271,14 +5311,14 @@
     "line": 3.5,
     "display": "DEN -3.5"
    },
-   "total": 42.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": true,
    "away": {
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5299,7 +5339,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5328,13 +5368,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Lions",
-    "favorite_code": "DET",
-    "line": 5.5,
-    "display": "DET -5.5"
-   },
-   "total": 53.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5404,7 +5439,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5425,7 +5460,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5520,8 +5555,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 2.5,
-    "display": "LA -2.5"
+    "line": 3.0,
+    "display": "LA -3"
    },
    "total": 53.5,
    "overtime": false,
@@ -5588,7 +5623,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5609,7 +5644,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6168,7 +6203,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6189,7 +6224,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6247,7 +6282,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6363,7 +6398,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6516,7 +6551,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6922,7 +6957,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7059,7 +7094,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7096,7 +7131,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7117,7 +7152,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7560,7 +7595,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7734,7 +7769,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7792,7 +7827,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7813,7 +7848,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7987,7 +8022,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8140,7 +8175,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8277,7 +8312,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8567,7 +8602,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8604,7 +8639,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8625,7 +8660,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8741,7 +8776,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9010,7 +9045,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9474,7 +9509,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9495,7 +9530,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9532,7 +9567,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9648,7 +9683,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10075,7 +10110,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10191,7 +10226,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10228,7 +10263,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10249,7 +10284,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10365,7 +10400,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10634,7 +10669,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10692,7 +10727,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10808,7 +10843,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11214,7 +11249,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11235,7 +11270,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11293,7 +11328,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11388,7 +11423,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11678,7 +11713,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11736,7 +11771,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11931,7 +11966,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12163,7 +12198,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12548,7 +12583,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12722,7 +12757,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12743,7 +12778,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12780,7 +12815,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12859,7 +12894,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12917,7 +12952,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13070,7 +13105,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13091,7 +13126,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13128,7 +13163,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13824,7 +13859,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13845,7 +13880,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13961,7 +13996,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14135,7 +14170,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14193,7 +14228,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14404,7 +14439,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14715,7 +14750,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14752,7 +14787,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14773,7 +14808,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15042,7 +15077,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15274,7 +15309,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15295,7 +15330,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15390,7 +15425,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15622,7 +15657,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15759,7 +15794,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15854,7 +15889,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16144,7 +16179,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-3",
+    "record": "0-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16165,7 +16200,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16376,7 +16411,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "3-0",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16397,7 +16432,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "3-0",
+    "record": "4-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16434,7 +16469,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "2-1",
+    "record": "3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16770,19 +16805,19 @@
    "name": "Seahawks",
    "conference": "NFC",
    "division": "NFC West",
-   "wins": 2,
+   "wins": 3,
    "losses": 1,
    "ties": 0,
-   "pct": 0.667,
-   "pf": 75,
-   "pa": 50,
-   "net": 25,
-   "home": "1-0",
+   "pct": 0.75,
+   "pf": 105,
+   "pa": 73,
+   "net": 32,
+   "home": "2-0",
    "road": "1-1",
    "div": "1-0",
    "conf": "1-1",
-   "streak": "L1",
-   "record": "2-1",
+   "streak": "W1",
+   "record": "3-1",
    "rank_div": 2
   },
   {
@@ -16830,19 +16865,19 @@
    "name": "49ers",
    "conference": "NFC",
    "division": "NFC West",
-   "wins": 3,
+   "wins": 4,
    "losses": 0,
    "ties": 0,
    "pct": 1.0,
-   "pf": 98,
-   "pa": 50,
-   "net": 48,
-   "home": "2-0",
+   "pf": 122,
+   "pa": 64,
+   "net": 58,
+   "home": "3-0",
    "road": "1-0",
    "div": "2-0",
    "conf": "2-0",
-   "streak": "W3",
-   "record": "3-0",
+   "streak": "W4",
+   "record": "4-0",
    "rank_div": 1
   },
   {
@@ -17171,18 +17206,18 @@
    "conference": "AFC",
    "division": "AFC West",
    "wins": 0,
-   "losses": 3,
+   "losses": 4,
    "ties": 0,
    "pct": 0.0,
-   "pf": 44,
-   "pa": 76,
-   "net": -32,
+   "pf": 67,
+   "pa": 106,
+   "net": -39,
    "home": "0-2",
-   "road": "0-1",
+   "road": "0-2",
    "div": "0-1",
    "conf": "0-2",
-   "streak": "L3",
-   "record": "0-3",
+   "streak": "L4",
+   "record": "0-4",
    "rank_div": 4
   },
   {
@@ -17211,18 +17246,18 @@
    "conference": "AFC",
    "division": "AFC West",
    "wins": 3,
-   "losses": 0,
+   "losses": 1,
    "ties": 0,
-   "pct": 1.0,
-   "pf": 88,
-   "pa": 54,
-   "net": 34,
-   "home": "1-0",
+   "pct": 0.75,
+   "pf": 115,
+   "pa": 84,
+   "net": 31,
+   "home": "1-1",
    "road": "2-0",
-   "div": "1-0",
-   "conf": "2-0",
-   "streak": "W3",
-   "record": "3-0",
+   "div": "1-1",
+   "conf": "2-1",
+   "streak": "L1",
+   "record": "3-1",
    "rank_div": 2
   },
   {
@@ -17370,19 +17405,19 @@
    "name": "Chiefs",
    "conference": "AFC",
    "division": "AFC West",
-   "wins": 3,
+   "wins": 4,
    "losses": 0,
    "ties": 0,
    "pct": 1.0,
-   "pf": 88,
-   "pa": 50,
-   "net": 38,
+   "pf": 118,
+   "pa": 77,
+   "net": 41,
    "home": "2-0",
-   "road": "1-0",
-   "div": "1-0",
-   "conf": "3-0",
-   "streak": "W3",
-   "record": "3-0",
+   "road": "2-0",
+   "div": "2-0",
+   "conf": "4-0",
+   "streak": "W4",
+   "record": "4-0",
    "rank_div": 1
   },
   {
@@ -17391,18 +17426,18 @@
    "conference": "AFC",
    "division": "AFC West",
    "wins": 2,
-   "losses": 1,
+   "losses": 2,
    "ties": 0,
-   "pct": 0.667,
-   "pf": 60,
-   "pa": 70,
-   "net": -10,
+   "pct": 0.5,
+   "pf": 74,
+   "pa": 94,
+   "net": -20,
    "home": "2-0",
-   "road": "0-1",
+   "road": "0-2",
    "div": "0-1",
    "conf": "1-1",
-   "streak": "W2",
-   "record": "2-1",
+   "streak": "L1",
+   "record": "2-2",
    "rank_div": 3
   }
  ]
