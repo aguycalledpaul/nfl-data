@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-05T03:20:20Z",
+  "updated": "2026-10-05T11:02:53Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 4
@@ -202,7 +202,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": 37,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": [
      7,
      17,
@@ -349,7 +349,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 31,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": [
      7,
      0,
@@ -1200,7 +1200,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 31,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": [
      0,
      10,
@@ -1273,7 +1273,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": 34,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": [
      10,
      10,
@@ -2518,7 +2518,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": 18,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": [
      0,
      3,
@@ -2617,7 +2617,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 31,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": [
      0,
      10,
@@ -4542,7 +4542,7 @@
    "game_id": "2026_04_DET_CAR",
    "season": 2026,
    "week": 4,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-04T20:20:00-04:00",
    "weekday": "Sunday",
    "venue": "Bank of America Stadium",
@@ -4561,42 +4561,52 @@
    "away": {
     "code": "DET",
     "name": "Lions",
-    "score": null,
-    "record": "2-1",
-    "linescore": null,
+    "score": 26,
+    "record": "2-2",
+    "linescore": [
+     3,
+     13,
+     3,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Goff",
+      "line": "412 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Gibbs",
+      "line": "46 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Williams",
+      "line": "6 rec, 102 yds"
      }
     }
    },
    "home": {
     "code": "CAR",
     "name": "Panthers",
-    "score": null,
-    "record": "1-2",
-    "linescore": null,
+    "score": 32,
+    "record": "2-2",
+    "linescore": [
+     7,
+     9,
+     13,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "B. Young",
+      "line": "329 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. Hubbard",
+      "line": "122 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "T. McMillan",
+      "line": "14 rec, 192 yds"
      }
     }
    }
@@ -4744,7 +4754,7 @@
     "line": 4.5,
     "display": "JAX -4.5"
    },
-   "total": 42.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4867,10 +4877,10 @@
    "spread": {
     "favorite": "Bengals",
     "favorite_code": "CIN",
-    "line": 7.5,
-    "display": "CIN -7.5"
+    "line": 7.0,
+    "display": "CIN -7"
    },
-   "total": 42.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4933,7 +4943,7 @@
     "line": 3.5,
     "display": "NE -3.5"
    },
-   "total": 45.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5059,7 +5069,7 @@
     "line": 2.5,
     "display": "NYJ -2.5"
    },
-   "total": 39.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5122,7 +5132,7 @@
     "line": 2.5,
     "display": "PIT -2.5"
    },
-   "total": 43.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5368,15 +5378,20 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Lions",
+    "favorite_code": "DET",
+    "line": 5.5,
+    "display": "DET -5.5"
+   },
+   "total": 54.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5429,8 +5444,8 @@
    "spread": {
     "favorite": "Seahawks",
     "favorite_code": "SEA",
-    "line": 3.0,
-    "display": "SEA -3"
+    "line": 2.5,
+    "display": "SEA -2.5"
    },
    "total": 46.5,
    "overtime": false,
@@ -5555,8 +5570,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 3.0,
-    "display": "LA -3"
+    "line": 2.5,
+    "display": "LA -2.5"
    },
    "total": 53.5,
    "overtime": false,
@@ -6029,7 +6044,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6688,7 +6703,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7036,7 +7051,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7247,7 +7262,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7500,7 +7515,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8196,7 +8211,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8349,7 +8364,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9008,7 +9023,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9277,7 +9292,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9878,7 +9893,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10052,7 +10067,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10574,7 +10589,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11365,7 +11380,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11481,7 +11496,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12003,7 +12018,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12372,7 +12387,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12488,7 +12503,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13300,7 +13315,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13917,7 +13932,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14671,7 +14686,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14924,7 +14939,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15098,7 +15113,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15715,7 +15730,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16084,7 +16099,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16237,7 +16252,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "2-1",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16885,19 +16900,19 @@
    "name": "Panthers",
    "conference": "NFC",
    "division": "NFC South",
-   "wins": 1,
+   "wins": 2,
    "losses": 2,
    "ties": 0,
-   "pct": 0.333,
-   "pf": 89,
-   "pa": 83,
-   "net": 6,
-   "home": "0-1",
+   "pct": 0.5,
+   "pf": 121,
+   "pa": 109,
+   "net": 12,
+   "home": "1-1",
    "road": "1-1",
    "div": "1-0",
-   "conf": "1-1",
-   "streak": "L1",
-   "record": "1-2",
+   "conf": "2-1",
+   "streak": "W1",
+   "record": "2-2",
    "rank_div": 1
   },
   {
@@ -16966,18 +16981,18 @@
    "conference": "NFC",
    "division": "NFC North",
    "wins": 2,
-   "losses": 1,
+   "losses": 2,
    "ties": 0,
-   "pct": 0.667,
-   "pf": 93,
-   "pa": 95,
-   "net": -2,
+   "pct": 0.5,
+   "pf": 119,
+   "pa": 127,
+   "net": -8,
    "home": "2-0",
-   "road": "0-1",
+   "road": "0-2",
    "div": "0-0",
-   "conf": "1-0",
-   "streak": "W1",
-   "record": "2-1",
+   "conf": "1-1",
+   "streak": "L1",
+   "record": "2-2",
    "rank_div": 3
   },
   {
