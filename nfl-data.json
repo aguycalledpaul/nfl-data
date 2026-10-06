@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-05T11:02:53Z",
+  "updated": "2026-10-06T01:42:02Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 4
@@ -4688,8 +4688,8 @@
    "spread": {
     "favorite": "Cowboys",
     "favorite_code": "DAL",
-    "line": 10.0,
-    "display": "DAL -10"
+    "line": 9.5,
+    "display": "DAL -9.5"
    },
    "total": 47.5,
    "overtime": false,
@@ -4751,10 +4751,10 @@
    "spread": {
     "favorite": "Jaguars",
     "favorite_code": "JAX",
-    "line": 4.5,
-    "display": "JAX -4.5"
+    "line": 6.5,
+    "display": "JAX -6.5"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4814,10 +4814,10 @@
    "spread": {
     "favorite": "Bears",
     "favorite_code": "CHI",
-    "line": 2.5,
-    "display": "CHI -2.5"
+    "line": 3.0,
+    "display": "CHI -3"
    },
-   "total": 44.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -4880,7 +4880,7 @@
     "line": 7.0,
     "display": "CIN -7"
    },
-   "total": 41.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4943,7 +4943,7 @@
     "line": 3.5,
     "display": "NE -3.5"
    },
-   "total": 44.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5000,13 +5000,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Vikings",
-    "favorite_code": "MIN",
-    "line": 1.5,
-    "display": "MIN -1.5"
-   },
-   "total": 42.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5069,7 +5064,7 @@
     "line": 2.5,
     "display": "NYJ -2.5"
    },
-   "total": 40.5,
+   "total": 39.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5192,8 +5187,8 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 6.5,
-    "display": "HOU -6.5"
+    "line": 7.0,
+    "display": "HOU -7"
    },
    "total": 39.5,
    "overtime": false,
@@ -5321,7 +5316,7 @@
     "line": 3.5,
     "display": "DEN -3.5"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5381,8 +5376,8 @@
    "spread": {
     "favorite": "Lions",
     "favorite_code": "DET",
-    "line": 5.5,
-    "display": "DET -5.5"
+    "line": 4.5,
+    "display": "DET -4.5"
    },
    "total": 54.5,
    "overtime": false,
@@ -5447,7 +5442,7 @@
     "line": 2.5,
     "display": "SEA -2.5"
    },
-   "total": 46.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5504,13 +5499,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Ravens",
-    "favorite_code": "BAL",
-    "line": 3.5,
-    "display": "BAL -3.5"
-   },
-   "total": 46.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5573,7 +5563,7 @@
     "line": 2.5,
     "display": "LA -2.5"
    },
-   "total": 53.5,
+   "total": 54.5,
    "overtime": false,
    "div_game": false,
    "away": {
