@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-06T01:42:02Z",
+  "updated": "2026-10-06T15:20:05Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 4
@@ -322,7 +322,7 @@
     "code": "NO",
     "name": "Saints",
     "score": 30,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": [
      0,
      0,
@@ -616,7 +616,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 13,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": [
      7,
      0,
@@ -1299,7 +1299,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 3,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": [
      0,
      3,
@@ -1346,7 +1346,7 @@
     "code": "NO",
     "name": "Saints",
     "score": 24,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": [
      0,
      6,
@@ -2372,7 +2372,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 35,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": [
      7,
      10,
@@ -3347,7 +3347,7 @@
     "code": "NO",
     "name": "Saints",
     "score": 27,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": [
      6,
      7,
@@ -4615,7 +4615,7 @@
    "game_id": "2026_04_ATL_NO",
    "season": 2026,
    "week": 4,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-05T20:15:00-04:00",
    "weekday": "Monday",
    "venue": "Caesars Superdome",
@@ -4634,42 +4634,52 @@
    "away": {
     "code": "ATL",
     "name": "Falcons",
-    "score": null,
-    "record": "1-2",
-    "linescore": null,
+    "score": 45,
+    "record": "2-2",
+    "linescore": [
+     14,
+     10,
+     7,
+     14
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "M. Jr.",
+      "line": "223 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Robinson",
+      "line": "145 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. London",
+      "line": "5 rec, 96 yds"
      }
     }
    },
    "home": {
     "code": "NO",
     "name": "Saints",
-    "score": null,
-    "record": "1-2",
-    "linescore": null,
+    "score": 24,
+    "record": "1-3",
+    "linescore": [
+     0,
+     7,
+     3,
+     14
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "T. Shough",
+      "line": "286 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "A. Kamara",
+      "line": "23 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "C. Olave",
+      "line": "8 rec, 116 yds"
      }
     }
    }
@@ -5000,8 +5010,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Vikings",
+    "favorite_code": "MIN",
+    "line": 1.5,
+    "display": "MIN -1.5"
+   },
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5029,7 +5044,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5187,10 +5202,10 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 7.0,
-    "display": "HOU -7"
+    "line": 6.5,
+    "display": "HOU -6.5"
    },
-   "total": 39.5,
+   "total": 38.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5439,8 +5454,8 @@
    "spread": {
     "favorite": "Seahawks",
     "favorite_code": "SEA",
-    "line": 2.5,
-    "display": "SEA -2.5"
+    "line": 3.0,
+    "display": "SEA -3"
    },
    "total": 47.5,
    "overtime": false,
@@ -5499,8 +5514,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Falcons",
+    "favorite_code": "ATL",
+    "line": 3.0,
+    "display": "ATL -3"
+   },
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5528,7 +5548,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5765,7 +5785,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5976,7 +5996,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6519,7 +6539,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6577,7 +6597,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7716,7 +7736,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8143,7 +8163,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8433,7 +8453,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9071,7 +9091,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9303,7 +9323,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9920,7 +9940,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10790,7 +10810,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11080,7 +11100,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11507,7 +11527,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11681,7 +11701,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12356,7 +12376,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12414,7 +12434,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13574,7 +13594,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13690,7 +13710,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14291,7 +14311,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14581,7 +14601,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15024,7 +15044,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15045,7 +15065,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16068,7 +16088,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "1-2",
+    "record": "2-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16669,7 +16689,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "1-2",
+    "record": "1-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16991,19 +17011,19 @@
    "conference": "NFC",
    "division": "NFC South",
    "wins": 1,
-   "losses": 2,
+   "losses": 3,
    "ties": 0,
-   "pct": 0.333,
-   "pf": 81,
-   "pa": 83,
-   "net": -2,
-   "home": "0-1",
+   "pct": 0.25,
+   "pf": 105,
+   "pa": 128,
+   "net": -23,
+   "home": "0-2",
    "road": "1-1",
-   "div": "0-0",
-   "conf": "0-1",
-   "streak": "L1",
-   "record": "1-2",
-   "rank_div": 2
+   "div": "0-1",
+   "conf": "0-2",
+   "streak": "L2",
+   "record": "1-3",
+   "rank_div": 3
   },
   {
    "code": "HOU",
@@ -17150,20 +17170,20 @@
    "name": "Falcons",
    "conference": "NFC",
    "division": "NFC South",
-   "wins": 1,
+   "wins": 2,
    "losses": 2,
    "ties": 0,
-   "pct": 0.333,
-   "pf": 51,
-   "pa": 68,
-   "net": -17,
+   "pct": 0.5,
+   "pf": 96,
+   "pa": 92,
+   "net": 4,
    "home": "0-1",
-   "road": "1-1",
-   "div": "0-1",
-   "conf": "1-1",
-   "streak": "W1",
-   "record": "1-2",
-   "rank_div": 3
+   "road": "2-1",
+   "div": "1-1",
+   "conf": "2-1",
+   "streak": "W2",
+   "record": "2-2",
+   "rank_div": 2
   },
   {
    "code": "TEN",
