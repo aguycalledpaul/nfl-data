@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-09T03:54:48Z",
+  "updated": "2026-10-09T11:03:28Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 5
@@ -4709,19 +4709,24 @@
     "name": "Buccaneers",
     "score": 24,
     "record": "1-4",
-    "linescore": null,
+    "linescore": [
+     0,
+     7,
+     17,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Daniels",
+      "line": "189 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Irving",
+      "line": "165 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "T. Johnson",
+      "line": "1 rec, 64 yds"
      }
     }
    },
@@ -4730,19 +4735,24 @@
     "name": "Cowboys",
     "score": 16,
     "record": "2-3",
-    "linescore": null,
+    "linescore": [
+     7,
+     3,
+     0,
+     6
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Prescott",
+      "line": "316 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Williams",
+      "line": "45 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "G. Pickens",
+      "line": "9 rec, 130 yds"
      }
     }
    }
@@ -6144,8 +6154,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Steelers",
+    "favorite_code": "PIT",
+    "line": 2.5,
+    "display": "PIT -2.5"
+   },
+   "total": 39.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6391,8 +6406,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Cowboys",
+    "favorite_code": "DAL",
+    "line": 1.5,
+    "display": "DAL -1.5"
+   },
+   "total": 50.5,
    "overtime": false,
    "div_game": false,
    "away": {
