@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-09T17:48:12Z",
+  "updated": "2026-10-09T22:04:31Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 5
@@ -4897,8 +4897,8 @@
    "spread": {
     "favorite": "Bengals",
     "favorite_code": "CIN",
-    "line": 6.5,
-    "display": "CIN -6.5"
+    "line": 7.0,
+    "display": "CIN -7"
    },
    "total": 43.5,
    "overtime": false,
@@ -5149,8 +5149,8 @@
    "spread": {
     "favorite": "Steelers",
     "favorite_code": "PIT",
-    "line": 2.5,
-    "display": "PIT -2.5"
+    "line": 3.0,
+    "display": "PIT -3"
    },
    "total": 43.5,
    "overtime": false,
@@ -5212,8 +5212,8 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 7.5,
-    "display": "HOU -7.5"
+    "line": 7.0,
+    "display": "HOU -7"
    },
    "total": 37.5,
    "overtime": false,
@@ -5527,8 +5527,8 @@
    "spread": {
     "favorite": "Falcons",
     "favorite_code": "ATL",
-    "line": 3.0,
-    "display": "ATL -3"
+    "line": 3.5,
+    "display": "ATL -3.5"
    },
    "total": 43.5,
    "overtime": false,
