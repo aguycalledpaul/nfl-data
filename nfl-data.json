@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-09T11:03:28Z",
+  "updated": "2026-10-09T17:48:12Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 5
@@ -4900,7 +4900,7 @@
     "line": 6.5,
     "display": "CIN -6.5"
    },
-   "total": 42.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5152,7 +5152,7 @@
     "line": 2.5,
     "display": "PIT -2.5"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5275,10 +5275,10 @@
    "spread": {
     "favorite": "Commanders",
     "favorite_code": "WAS",
-    "line": 3.5,
-    "display": "WAS -3.5"
+    "line": 4.5,
+    "display": "WAS -4.5"
    },
-   "total": 42.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
