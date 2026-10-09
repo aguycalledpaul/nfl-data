@@ -1,9 +1,9 @@
 {
  "meta": {
-  "updated": "2026-10-06T15:20:05Z",
+  "updated": "2026-10-09T03:54:48Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
-  "current_week": 4
+  "current_week": 5
  },
  "games": [
   {
@@ -249,7 +249,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": 27,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": [
      3,
      7,
@@ -1054,7 +1054,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 20,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": [
      0,
      7,
@@ -1739,7 +1739,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": 19,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": [
      6,
      3,
@@ -2104,7 +2104,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 37,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": [
      10,
      7,
@@ -3201,7 +3201,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": 16,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": [
      7,
      3,
@@ -3274,7 +3274,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 31,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": [
      10,
      3,
@@ -3978,7 +3978,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 34,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": [
      3,
      3,
@@ -4223,7 +4223,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": 14,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": [
      0,
      7,
@@ -4688,11 +4688,11 @@
    "game_id": "2026_05_TB_DAL",
    "season": 2026,
    "week": 5,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-08T20:15:00-04:00",
    "weekday": "Thursday",
    "venue": "AT&T Stadium",
-   "roof": null,
+   "roof": "closed",
    "network": "",
    "recap_url": "",
    "spread": {
@@ -4701,14 +4701,14 @@
     "line": 9.5,
     "display": "DAL -9.5"
    },
-   "total": 47.5,
+   "total": 49.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "TB",
     "name": "Buccaneers",
-    "score": null,
-    "record": "0-4",
+    "score": 24,
+    "record": "1-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4728,8 +4728,8 @@
    "home": {
     "code": "DAL",
     "name": "Cowboys",
-    "score": null,
-    "record": "2-2",
+    "score": 16,
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -4761,10 +4761,10 @@
    "spread": {
     "favorite": "Jaguars",
     "favorite_code": "JAX",
-    "line": 6.5,
-    "display": "JAX -6.5"
+    "line": 7.5,
+    "display": "JAX -7.5"
    },
-   "total": 42.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -4824,8 +4824,8 @@
    "spread": {
     "favorite": "Bears",
     "favorite_code": "CHI",
-    "line": 3.0,
-    "display": "CHI -3"
+    "line": 1.5,
+    "display": "CHI -1.5"
    },
    "total": 45.5,
    "overtime": false,
@@ -4887,8 +4887,8 @@
    "spread": {
     "favorite": "Bengals",
     "favorite_code": "CIN",
-    "line": 7.0,
-    "display": "CIN -7"
+    "line": 6.5,
+    "display": "CIN -6.5"
    },
    "total": 42.5,
    "overtime": false,
@@ -5013,10 +5013,10 @@
    "spread": {
     "favorite": "Vikings",
     "favorite_code": "MIN",
-    "line": 1.5,
-    "display": "MIN -1.5"
+    "line": 2.5,
+    "display": "MIN -2.5"
    },
-   "total": 42.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5202,10 +5202,10 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 6.5,
-    "display": "HOU -6.5"
+    "line": 7.5,
+    "display": "HOU -7.5"
    },
-   "total": 38.5,
+   "total": 37.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5265,10 +5265,10 @@
    "spread": {
     "favorite": "Commanders",
     "favorite_code": "WAS",
-    "line": 3.0,
-    "display": "WAS -3"
+    "line": 3.5,
+    "display": "WAS -3.5"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5331,7 +5331,7 @@
     "line": 3.5,
     "display": "DEN -3.5"
    },
-   "total": 42.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5391,8 +5391,8 @@
    "spread": {
     "favorite": "Lions",
     "favorite_code": "DET",
-    "line": 4.5,
-    "display": "DET -4.5"
+    "line": 5.5,
+    "display": "DET -5.5"
    },
    "total": 54.5,
    "overtime": false,
@@ -5457,7 +5457,7 @@
     "line": 3.0,
     "display": "SEA -3"
    },
-   "total": 47.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5580,8 +5580,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 2.5,
-    "display": "LA -2.5"
+    "line": 3.0,
+    "display": "LA -3"
    },
    "total": 54.5,
    "overtime": false,
@@ -5640,8 +5640,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Seahawks",
+    "favorite_code": "SEA",
+    "line": 1.5,
+    "display": "SEA -1.5"
+   },
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5698,8 +5703,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Jaguars",
+    "favorite_code": "JAX",
+    "line": 3.0,
+    "display": "JAX -3"
+   },
+   "total": 43.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5756,8 +5766,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bears",
+    "favorite_code": "CHI",
+    "line": 1.5,
+    "display": "CHI -1.5"
+   },
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5814,8 +5829,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Ravens",
+    "favorite_code": "BAL",
+    "line": 3.0,
+    "display": "BAL -3"
+   },
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5872,8 +5892,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Colts",
+    "favorite_code": "IND",
+    "line": 6.5,
+    "display": "IND -6.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5930,8 +5955,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Patriots",
+    "favorite_code": "NE",
+    "line": 7.0,
+    "display": "NE -7"
+   },
+   "total": 43.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5988,8 +6018,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Saints",
+    "favorite_code": "NO",
+    "line": 1.5,
+    "display": "NO -1.5"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6046,8 +6081,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Eagles",
+    "favorite_code": "PHI",
+    "line": 2.5,
+    "display": "PHI -2.5"
+   },
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6133,7 +6173,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6162,8 +6202,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Rams",
+    "favorite_code": "LA",
+    "line": 10.5,
+    "display": "LA -10.5"
+   },
+   "total": 51.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -6220,8 +6265,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Chiefs",
+    "favorite_code": "KC",
+    "line": 7.5,
+    "display": "KC -7.5"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -6278,8 +6328,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bills",
+    "favorite_code": "BUF",
+    "line": 4.5,
+    "display": "BUF -4.5"
+   },
+   "total": 51.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6344,7 +6399,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6394,8 +6449,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "49ers",
+    "favorite_code": "SF",
+    "line": 7.5,
+    "display": "SF -7.5"
+   },
+   "total": 50.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6692,7 +6752,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7214,7 +7274,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7467,7 +7527,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7757,7 +7817,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8258,7 +8318,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8838,7 +8898,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9613,7 +9673,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10019,7 +10079,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10056,7 +10116,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10657,7 +10717,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11411,7 +11471,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11817,7 +11877,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12202,7 +12262,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12318,7 +12378,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13615,7 +13675,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13826,7 +13886,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14290,7 +14350,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14891,7 +14951,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15239,7 +15299,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15587,7 +15647,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16668,7 +16728,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "0-4",
+    "record": "1-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16784,7 +16844,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16970,19 +17030,19 @@
    "name": "Buccaneers",
    "conference": "NFC",
    "division": "NFC South",
-   "wins": 0,
+   "wins": 1,
    "losses": 4,
    "ties": 0,
-   "pct": 0.0,
-   "pf": 76,
-   "pa": 96,
-   "net": -20,
+   "pct": 0.2,
+   "pf": 100,
+   "pa": 112,
+   "net": -12,
    "home": "0-3",
-   "road": "0-1",
+   "road": "1-1",
    "div": "0-0",
-   "conf": "0-2",
-   "streak": "L4",
-   "record": "0-4",
+   "conf": "1-2",
+   "streak": "W1",
+   "record": "1-4",
    "rank_div": 4
   },
   {
@@ -17363,7 +17423,7 @@
    "conf": "1-2",
    "streak": "L2",
    "record": "2-2",
-   "rank_div": 3
+   "rank_div": 2
   },
   {
    "code": "WAS",
@@ -17411,19 +17471,19 @@
    "conference": "NFC",
    "division": "NFC East",
    "wins": 2,
-   "losses": 2,
+   "losses": 3,
    "ties": 0,
-   "pct": 0.5,
-   "pf": 122,
-   "pa": 112,
-   "net": 10,
-   "home": "1-1",
+   "pct": 0.4,
+   "pf": 138,
+   "pa": 136,
+   "net": 2,
+   "home": "1-2",
    "road": "1-1",
    "div": "1-1",
-   "conf": "1-1",
-   "streak": "W1",
-   "record": "2-2",
-   "rank_div": 2
+   "conf": "1-2",
+   "streak": "L1",
+   "record": "2-3",
+   "rank_div": 3
   },
   {
    "code": "KC",
