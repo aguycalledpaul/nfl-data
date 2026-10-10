@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-10T19:39:27Z",
+  "updated": "2026-10-10T23:07:17Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 5
@@ -5215,7 +5215,7 @@
     "line": 7.0,
     "display": "HOU -7"
    },
-   "total": 38.5,
+   "total": 37.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5590,8 +5590,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 3.0,
-    "display": "LA -3"
+    "line": 3.5,
+    "display": "LA -3.5"
    },
    "total": 54.5,
    "overtime": false,
