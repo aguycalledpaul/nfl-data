@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-10T09:15:39Z",
+  "updated": "2026-10-10T15:39:05Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 5
@@ -4837,7 +4837,7 @@
     "line": 1.5,
     "display": "CHI -1.5"
    },
-   "total": 45.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5527,8 +5527,8 @@
    "spread": {
     "favorite": "Falcons",
     "favorite_code": "ATL",
-    "line": 3.5,
-    "display": "ATL -3.5"
+    "line": 3.0,
+    "display": "ATL -3"
    },
    "total": 43.5,
    "overtime": false,
