@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-10T02:00:38Z",
+  "updated": "2026-10-10T09:15:39Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 5
@@ -5215,7 +5215,7 @@
     "line": 7.0,
     "display": "HOU -7"
    },
-   "total": 37.5,
+   "total": 38.5,
    "overtime": false,
    "div_game": true,
    "away": {
