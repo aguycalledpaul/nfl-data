@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-11T03:11:48Z",
+  "updated": "2026-10-11T10:28:29Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 5
@@ -5149,8 +5149,8 @@
    "spread": {
     "favorite": "Steelers",
     "favorite_code": "PIT",
-    "line": 3.0,
-    "display": "PIT -3"
+    "line": 2.5,
+    "display": "PIT -2.5"
    },
    "total": 43.5,
    "overtime": false,
