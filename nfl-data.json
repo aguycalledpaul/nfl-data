@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-12T06:49:52Z",
+  "updated": "2026-10-12T16:22:12Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 5
@@ -5722,8 +5722,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 3.0,
-    "display": "LA -3"
+    "line": 3.5,
+    "display": "LA -3.5"
    },
    "total": 54.5,
    "overtime": false,
@@ -5788,7 +5788,7 @@
     "line": 3.0,
     "display": "SEA -3"
    },
-   "total": 41.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5914,7 +5914,7 @@
     "line": 3.0,
     "display": "CHI -3"
    },
-   "total": 47.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5974,8 +5974,8 @@
    "spread": {
     "favorite": "Ravens",
     "favorite_code": "BAL",
-    "line": 3.5,
-    "display": "BAL -3.5"
+    "line": 4.5,
+    "display": "BAL -4.5"
    },
    "total": 40.5,
    "overtime": false,
@@ -6040,7 +6040,7 @@
     "line": 7.0,
     "display": "IND -7"
    },
-   "total": 43.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -6103,7 +6103,7 @@
     "line": 7.0,
     "display": "NE -7"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -6229,7 +6229,7 @@
     "line": 1.5,
     "display": "PHI -1.5"
    },
-   "total": 42.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6418,7 +6418,7 @@
     "line": 8.5,
     "display": "KC -8.5"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": true,
    "away": {
