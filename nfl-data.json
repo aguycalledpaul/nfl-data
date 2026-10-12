@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-12T16:22:12Z",
+  "updated": "2026-10-12T23:24:25Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 5
@@ -5725,7 +5725,7 @@
     "line": 3.5,
     "display": "LA -3.5"
    },
-   "total": 54.5,
+   "total": 55.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5851,7 +5851,7 @@
     "line": 3.0,
     "display": "JAX -3"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -5914,7 +5914,7 @@
     "line": 3.0,
     "display": "CHI -3"
    },
-   "total": 48.5,
+   "total": 49.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6161,10 +6161,10 @@
    "network": "",
    "recap_url": "",
    "spread": {
-    "favorite": "Saints",
-    "favorite_code": "NO",
+    "favorite": "Giants",
+    "favorite_code": "NYG",
     "line": 1.5,
-    "display": "NO -1.5"
+    "display": "NYG -1.5"
    },
    "total": 45.5,
    "overtime": false,
