@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-12T00:07:57Z",
+  "updated": "2026-10-12T06:49:52Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 5
@@ -470,7 +470,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": 41,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": [
      14,
      17,
@@ -616,7 +616,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 13,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": [
      7,
      0,
@@ -1299,7 +1299,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 3,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": [
      0,
      3,
@@ -1372,7 +1372,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": 17,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": [
      7,
      7,
@@ -2372,7 +2372,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 35,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": [
      7,
      10,
@@ -3248,7 +3248,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": 34,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": [
      7,
      10,
@@ -3712,7 +3712,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": 24,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": [
      7,
      17,
@@ -4635,7 +4635,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 45,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": [
      14,
      10,
@@ -5637,61 +5637,73 @@
    "game_id": "2026_05_BAL_ATL",
    "season": 2026,
    "week": 5,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-11T20:20:00-04:00",
    "weekday": "Sunday",
    "venue": "Mercedes-Benz Stadium",
-   "roof": null,
+   "roof": "open",
    "network": "",
    "recap_url": "",
    "spread": {
     "favorite": "Falcons",
     "favorite_code": "ATL",
-    "line": 3.0,
-    "display": "ATL -3"
+    "line": 3.5,
+    "display": "ATL -3.5"
    },
-   "total": 43.5,
-   "overtime": false,
+   "total": 44.5,
+   "overtime": true,
    "div_game": false,
    "away": {
     "code": "BAL",
     "name": "Ravens",
-    "score": null,
-    "record": "3-1",
-    "linescore": null,
+    "score": 30,
+    "record": "4-1",
+    "linescore": [
+     3,
+     6,
+     6,
+     8,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "T. Huntley",
+      "line": "201 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "D. Henry",
+      "line": "102 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "R. Bateman",
+      "line": "5 rec, 62 yds"
      }
     }
    },
    "home": {
     "code": "ATL",
     "name": "Falcons",
-    "score": null,
-    "record": "2-2",
-    "linescore": null,
+    "score": 23,
+    "record": "2-3",
+    "linescore": [
+     7,
+     7,
+     3,
+     6,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "M. Jr.",
+      "line": "240 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Robinson",
+      "line": "86 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. London",
+      "line": "7 rec, 118 yds"
      }
     }
    }
@@ -5710,8 +5722,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 3.5,
-    "display": "LA -3.5"
+    "line": 3.0,
+    "display": "LA -3"
    },
    "total": 54.5,
    "overtime": false,
@@ -5773,10 +5785,10 @@
    "spread": {
     "favorite": "Seahawks",
     "favorite_code": "SEA",
-    "line": 2.5,
-    "display": "SEA -2.5"
+    "line": 3.0,
+    "display": "SEA -3"
    },
-   "total": 42.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -5897,10 +5909,10 @@
    "network": "",
    "recap_url": "",
    "spread": {
-    "favorite": "Falcons",
-    "favorite_code": "ATL",
-    "line": 1.5,
-    "display": "ATL -1.5"
+    "favorite": "Bears",
+    "favorite_code": "CHI",
+    "line": 3.0,
+    "display": "CHI -3"
    },
    "total": 47.5,
    "overtime": false,
@@ -5930,7 +5942,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5972,7 +5984,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6028,7 +6040,7 @@
     "line": 7.0,
     "display": "IND -7"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -6088,8 +6100,8 @@
    "spread": {
     "favorite": "Patriots",
     "favorite_code": "NE",
-    "line": 7.5,
-    "display": "NE -7.5"
+    "line": 7.0,
+    "display": "NE -7"
    },
    "total": 44.5,
    "overtime": false,
@@ -6149,10 +6161,10 @@
    "network": "",
    "recap_url": "",
    "spread": {
-    "favorite": "Giants",
-    "favorite_code": "NYG",
+    "favorite": "Saints",
+    "favorite_code": "NO",
     "line": 1.5,
-    "display": "NYG -1.5"
+    "display": "NO -1.5"
    },
    "total": 45.5,
    "overtime": false,
@@ -6217,7 +6229,7 @@
     "line": 1.5,
     "display": "PHI -1.5"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6403,10 +6415,10 @@
    "spread": {
     "favorite": "Chiefs",
     "favorite_code": "KC",
-    "line": 7.5,
-    "display": "KC -7.5"
+    "line": 8.5,
+    "display": "KC -8.5"
    },
-   "total": 45.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -6469,7 +6481,7 @@
     "line": 6.0,
     "display": "BUF -6"
    },
-   "total": 53.5,
+   "total": 52.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6527,12 +6539,12 @@
    "network": "",
    "recap_url": "",
    "spread": {
-    "favorite": "Cowboys",
-    "favorite_code": "DAL",
+    "favorite": "Packers",
+    "favorite_code": "GB",
     "line": 1.5,
-    "display": "DAL -1.5"
+    "display": "GB -1.5"
    },
-   "total": 51.5,
+   "total": 52.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6797,7 +6809,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6855,7 +6867,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7530,7 +7542,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7936,7 +7948,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8305,7 +8317,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8363,7 +8375,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9291,7 +9303,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9929,7 +9941,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10082,7 +10094,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11126,7 +11138,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11300,7 +11312,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11727,7 +11739,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12539,7 +12551,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12634,7 +12646,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13736,7 +13748,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13910,7 +13922,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14511,7 +14523,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14569,7 +14581,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15186,7 +15198,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15265,7 +15277,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16193,7 +16205,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16288,7 +16300,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17290,19 +17302,19 @@
    "name": "Ravens",
    "conference": "AFC",
    "division": "AFC North",
-   "wins": 3,
+   "wins": 4,
    "losses": 1,
    "ties": 0,
-   "pct": 0.75,
-   "pf": 116,
-   "pa": 96,
-   "net": 20,
+   "pct": 0.8,
+   "pf": 146,
+   "pa": 119,
+   "net": 27,
    "home": "1-1",
-   "road": "2-0",
+   "road": "3-0",
    "div": "0-0",
    "conf": "2-0",
-   "streak": "W2",
-   "record": "3-1",
+   "streak": "W3",
+   "record": "4-1",
    "rank_div": 1
   },
   {
@@ -17371,18 +17383,18 @@
    "conference": "NFC",
    "division": "NFC South",
    "wins": 2,
-   "losses": 2,
+   "losses": 3,
    "ties": 0,
-   "pct": 0.5,
-   "pf": 96,
-   "pa": 92,
-   "net": 4,
-   "home": "0-1",
+   "pct": 0.4,
+   "pf": 119,
+   "pa": 122,
+   "net": -3,
+   "home": "0-2",
    "road": "2-1",
    "div": "1-1",
    "conf": "2-1",
-   "streak": "W2",
-   "record": "2-2",
+   "streak": "L1",
+   "record": "2-3",
    "rank_div": 2
   },
   {
