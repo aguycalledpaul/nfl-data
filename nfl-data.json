@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-12T23:24:25Z",
+  "updated": "2026-10-13T16:10:30Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 5
@@ -129,7 +129,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 7,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": [
      0,
      7,
@@ -397,7 +397,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 36,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": [
      3,
      21,
@@ -1226,7 +1226,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 41,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": [
      14,
      13,
@@ -2325,7 +2325,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 28,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": [
      7,
      7,
@@ -2471,7 +2471,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 24,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": [
      0,
      10,
@@ -3394,7 +3394,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 26,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": [
      7,
      9,
@@ -3785,7 +3785,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 26,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": [
      0,
      17,
@@ -4124,7 +4124,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 24,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": [
      3,
      7,
@@ -5712,7 +5712,7 @@
    "game_id": "2026_05_BUF_LA",
    "season": 2026,
    "week": 5,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-12T20:15:00-04:00",
    "weekday": "Monday",
    "venue": "SoFi Stadium",
@@ -5726,47 +5726,59 @@
     "display": "LA -3.5"
    },
    "total": 55.5,
-   "overtime": false,
+   "overtime": true,
    "div_game": false,
    "away": {
     "code": "BUF",
     "name": "Bills",
-    "score": null,
-    "record": "3-1",
-    "linescore": null,
+    "score": 37,
+    "record": "4-1",
+    "linescore": [
+     6,
+     7,
+     6,
+     15,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Allen",
+      "line": "210 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Allen",
+      "line": "121 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "K. Shakir",
+      "line": "3 rec, 80 yds"
      }
     }
    },
    "home": {
     "code": "LA",
     "name": "Rams",
-    "score": null,
-    "record": "2-2",
-    "linescore": null,
+    "score": 34,
+    "record": "2-3",
+    "linescore": [
+     0,
+     7,
+     7,
+     20,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "M. Stafford",
+      "line": "383 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. Williams",
+      "line": "49 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "P. Nacua",
+      "line": "17 rec, 138 yds"
      }
     }
    }
@@ -5977,7 +5989,7 @@
     "line": 4.5,
     "display": "BAL -4.5"
    },
-   "total": 40.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -6100,8 +6112,8 @@
    "spread": {
     "favorite": "Patriots",
     "favorite_code": "NE",
-    "line": 7.0,
-    "display": "NE -7"
+    "line": 7.5,
+    "display": "NE -7.5"
    },
    "total": 43.5,
    "overtime": false,
@@ -6161,10 +6173,10 @@
    "network": "",
    "recap_url": "",
    "spread": {
-    "favorite": "Giants",
-    "favorite_code": "NYG",
+    "favorite": "Saints",
+    "favorite_code": "NO",
     "line": 1.5,
-    "display": "NYG -1.5"
+    "display": "NO -1.5"
    },
    "total": 45.5,
    "overtime": false,
@@ -6289,8 +6301,8 @@
    "spread": {
     "favorite": "Steelers",
     "favorite_code": "PIT",
-    "line": 3.0,
-    "display": "PIT -3"
+    "line": 2.5,
+    "display": "PIT -2.5"
    },
    "total": 40.5,
    "overtime": false,
@@ -6383,7 +6395,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6478,17 +6490,17 @@
    "spread": {
     "favorite": "Bills",
     "favorite_code": "BUF",
-    "line": 6.0,
-    "display": "BUF -6"
+    "line": 5.5,
+    "display": "BUF -5.5"
    },
-   "total": 52.5,
+   "total": 53.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7310,7 +7322,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7563,7 +7575,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8027,7 +8039,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8760,7 +8772,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9108,7 +9120,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9572,7 +9584,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9688,7 +9700,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10057,7 +10069,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10753,7 +10765,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10927,7 +10939,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11681,7 +11693,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12298,7 +12310,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13168,7 +13180,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13226,7 +13238,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13479,7 +13491,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14059,7 +14071,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14386,7 +14398,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14444,7 +14456,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15604,7 +15616,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15778,7 +15790,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16263,7 +16275,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "3-1",
+    "record": "4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16727,7 +16739,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "2-2",
+    "record": "2-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17083,18 +17095,18 @@
    "conference": "NFC",
    "division": "NFC West",
    "wins": 2,
-   "losses": 2,
+   "losses": 3,
    "ties": 0,
-   "pct": 0.5,
-   "pf": 85,
-   "pa": 83,
-   "net": 2,
-   "home": "1-1",
+   "pct": 0.4,
+   "pf": 119,
+   "pa": 120,
+   "net": -1,
+   "home": "1-2",
    "road": "1-1",
    "div": "0-1",
    "conf": "2-1",
-   "streak": "W1",
-   "record": "2-2",
+   "streak": "L1",
+   "record": "2-3",
    "rank_div": 3
   },
   {
@@ -17262,19 +17274,19 @@
    "name": "Bills",
    "conference": "AFC",
    "division": "AFC East",
-   "wins": 3,
+   "wins": 4,
    "losses": 1,
    "ties": 0,
-   "pct": 0.75,
-   "pf": 127,
-   "pa": 107,
-   "net": 20,
+   "pct": 0.8,
+   "pf": 164,
+   "pa": 141,
+   "net": 23,
    "home": "2-1",
-   "road": "1-0",
+   "road": "2-0",
    "div": "0-1",
    "conf": "2-1",
-   "streak": "L1",
-   "record": "3-1",
+   "streak": "W1",
+   "record": "4-1",
    "rank_div": 1
   },
   {
