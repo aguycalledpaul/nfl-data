@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-16T17:07:39Z",
+  "updated": "2026-10-16T20:20:47Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 6
@@ -5998,10 +5998,10 @@
    "spread": {
     "favorite": "Ravens",
     "favorite_code": "BAL",
-    "line": 3.5,
-    "display": "BAL -3.5"
+    "line": 3.0,
+    "display": "BAL -3"
    },
-   "total": 40.5,
+   "total": 39.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -6190,7 +6190,7 @@
     "line": 1.5,
     "display": "NO -1.5"
    },
-   "total": 45.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6253,7 +6253,7 @@
     "line": 3.5,
     "display": "CAR -3.5"
    },
-   "total": 38.5,
+   "total": 39.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6502,8 +6502,8 @@
    "spread": {
     "favorite": "Bills",
     "favorite_code": "BUF",
-    "line": 5.5,
-    "display": "BUF -5.5"
+    "line": 4.5,
+    "display": "BUF -4.5"
    },
    "total": 53.5,
    "overtime": false,
