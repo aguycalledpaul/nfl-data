@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-16T12:54:53Z",
+  "updated": "2026-10-16T17:07:39Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 6
@@ -6502,8 +6502,8 @@
    "spread": {
     "favorite": "Bills",
     "favorite_code": "BUF",
-    "line": 4.5,
-    "display": "BUF -4.5"
+    "line": 5.5,
+    "display": "BUF -5.5"
    },
    "total": 53.5,
    "overtime": false,
