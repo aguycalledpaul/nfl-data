@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-16T02:31:14Z",
+  "updated": "2026-10-16T07:45:17Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 6
@@ -56,7 +56,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 13,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": [
      0,
      0,
@@ -1127,7 +1127,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 10,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      7,
      0,
@@ -1885,7 +1885,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 20,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      0,
      3,
@@ -2005,7 +2005,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 31,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": [
      7,
      0,
@@ -3029,7 +3029,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 31,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": [
      0,
      10,
@@ -3420,7 +3420,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 30,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      0,
      0,
@@ -4442,7 +4442,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 30,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": [
      7,
      13,
@@ -4489,7 +4489,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 14,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      3,
      0,
@@ -5438,7 +5438,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 23,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      7,
      3,
@@ -5610,7 +5610,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 29,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": [
      7,
      6,
@@ -5787,7 +5787,7 @@
    "game_id": "2026_06_SEA_DEN",
    "season": 2026,
    "week": 6,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-15T20:15:00-04:00",
    "weekday": "Thursday",
    "venue": "Empower Field at Mile High",
@@ -5801,47 +5801,59 @@
     "display": "SEA -2.5"
    },
    "total": 40.5,
-   "overtime": false,
+   "overtime": true,
    "div_game": false,
    "away": {
     "code": "SEA",
     "name": "Seahawks",
-    "score": null,
-    "record": "3-2",
-    "linescore": null,
+    "score": 14,
+    "record": "3-3",
+    "linescore": [
+     3,
+     0,
+     0,
+     11,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "S. Darnold",
+      "line": "278 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "E. Wilson",
+      "line": "52 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Smith-Njigba",
+      "line": "12 rec, 134 yds"
      }
     }
    },
    "home": {
     "code": "DEN",
     "name": "Broncos",
-    "score": null,
-    "record": "3-2",
-    "linescore": null,
+    "score": 17,
+    "record": "4-2",
+    "linescore": [
+     0,
+     14,
+     0,
+     0,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "B. Nix",
+      "line": "107 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Dobbins",
+      "line": "41 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "R. Harvey",
+      "line": "3 rec, 31 yds"
      }
     }
    }
@@ -6427,8 +6439,8 @@
    "spread": {
     "favorite": "Chiefs",
     "favorite_code": "KC",
-    "line": 8.5,
-    "display": "KC -8.5"
+    "line": 7.5,
+    "display": "KC -7.5"
    },
    "total": 41.5,
    "overtime": false,
@@ -7243,15 +7255,20 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Broncos",
+    "favorite_code": "DEN",
+    "line": 5.5,
+    "display": "DEN -5.5"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7427,8 +7444,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Seahawks",
+    "favorite_code": "SEA",
+    "line": 2.5,
+    "display": "SEA -2.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7456,7 +7478,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8152,7 +8174,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8326,7 +8348,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8479,7 +8501,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9080,7 +9102,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9813,7 +9835,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10588,7 +10610,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11031,7 +11053,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11553,7 +11575,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12270,7 +12292,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12502,7 +12524,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12887,7 +12909,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13198,7 +13220,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13467,7 +13489,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14163,7 +14185,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14474,7 +14496,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14532,7 +14554,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15381,7 +15403,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15729,7 +15751,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16504,7 +16526,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16773,7 +16795,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-2",
+    "record": "3-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17110,18 +17132,18 @@
    "conference": "NFC",
    "division": "NFC West",
    "wins": 3,
-   "losses": 2,
+   "losses": 3,
    "ties": 0,
-   "pct": 0.6,
-   "pf": 134,
-   "pa": 105,
-   "net": 29,
+   "pct": 0.5,
+   "pf": 148,
+   "pa": 122,
+   "net": 26,
    "home": "2-1",
-   "road": "1-1",
+   "road": "1-2",
    "div": "1-1",
    "conf": "1-2",
-   "streak": "L1",
-   "record": "3-2",
+   "streak": "L2",
+   "record": "3-3",
    "rank_div": 2
   },
   {
@@ -17562,7 +17584,7 @@
    "conf": "2-2",
    "streak": "L2",
    "record": "3-2",
-   "rank_div": 2
+   "rank_div": 3
   },
   {
    "code": "MIA",
@@ -17729,20 +17751,20 @@
    "name": "Broncos",
    "conference": "AFC",
    "division": "AFC West",
-   "wins": 3,
+   "wins": 4,
    "losses": 2,
    "ties": 0,
-   "pct": 0.6,
-   "pf": 97,
-   "pa": 111,
-   "net": -14,
-   "home": "2-0",
+   "pct": 0.667,
+   "pf": 114,
+   "pa": 125,
+   "net": -11,
+   "home": "3-0",
    "road": "1-2",
    "div": "1-1",
    "conf": "2-1",
-   "streak": "W1",
-   "record": "3-2",
-   "rank_div": 3
+   "streak": "W2",
+   "record": "4-2",
+   "rank_div": 2
   }
  ]
 }
