@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-16T23:11:12Z",
+  "updated": "2026-10-17T02:23:45Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 6
@@ -6250,8 +6250,8 @@
    "spread": {
     "favorite": "Panthers",
     "favorite_code": "CAR",
-    "line": 3.5,
-    "display": "CAR -3.5"
+    "line": 3.0,
+    "display": "CAR -3"
    },
    "total": 39.5,
    "overtime": false,
@@ -6316,7 +6316,7 @@
     "line": 2.5,
     "display": "PIT -2.5"
    },
-   "total": 39.5,
+   "total": 38.5,
    "overtime": false,
    "div_game": false,
    "away": {
