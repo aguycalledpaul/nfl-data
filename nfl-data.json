@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-18T12:20:27Z",
+  "updated": "2026-10-18T16:16:41Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 6
@@ -5938,7 +5938,7 @@
     "line": 1.5,
     "display": "CHI -1.5"
    },
-   "total": 52.5,
+   "total": 51.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6064,7 +6064,7 @@
     "line": 6.5,
     "display": "IND -6.5"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -6313,8 +6313,8 @@
    "spread": {
     "favorite": "Steelers",
     "favorite_code": "PIT",
-    "line": 2.5,
-    "display": "PIT -2.5"
+    "line": 1.5,
+    "display": "PIT -1.5"
    },
    "total": 38.5,
    "overtime": false,
@@ -6694,7 +6694,7 @@
     "line": 1.5,
     "display": "CHI -1.5"
    },
-   "total": 48.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7006,8 +7006,8 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 7.0,
-    "display": "HOU -7"
+    "line": 7.5,
+    "display": "HOU -7.5"
    },
    "total": 41.5,
    "overtime": false,
