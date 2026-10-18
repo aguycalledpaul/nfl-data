@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-18T02:23:59Z",
+  "updated": "2026-10-18T07:37:36Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 6
@@ -6061,8 +6061,8 @@
    "spread": {
     "favorite": "Colts",
     "favorite_code": "IND",
-    "line": 7.0,
-    "display": "IND -7"
+    "line": 6.5,
+    "display": "IND -6.5"
    },
    "total": 44.5,
    "overtime": false,
