@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-18T16:16:41Z",
+  "updated": "2026-10-18T19:08:23Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 6
@@ -423,7 +423,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 31,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": [
      7,
      14,
@@ -569,7 +569,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": 34,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": [
      14,
      10,
@@ -1518,7 +1518,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 6,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": [
      0,
      3,
@@ -1859,7 +1859,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": 13,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": [
      0,
      10,
@@ -2664,7 +2664,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 17,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": [
      0,
      7,
@@ -2763,7 +2763,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": 35,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": [
      0,
      14,
@@ -3905,7 +3905,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": 22,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": [
      3,
      10,
@@ -4004,7 +4004,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 30,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": [
      10,
      6,
@@ -4807,7 +4807,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": 19,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": [
      7,
      0,
@@ -5292,7 +5292,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 26,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": [
      3,
      9,
@@ -5862,7 +5862,7 @@
    "game_id": "2026_06_HOU_JAX",
    "season": 2026,
    "week": 6,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-18T09:30:00-04:00",
    "weekday": "Sunday",
    "venue": "Wembley Stadium",
@@ -5881,8 +5881,8 @@
    "away": {
     "code": "HOU",
     "name": "Texans",
-    "score": null,
-    "record": "1-4",
+    "score": 34,
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -5902,8 +5902,8 @@
    "home": {
     "code": "JAX",
     "name": "Jaguars",
-    "score": null,
-    "record": "4-1",
+    "score": 31,
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -6313,8 +6313,8 @@
    "spread": {
     "favorite": "Steelers",
     "favorite_code": "PIT",
-    "line": 1.5,
-    "display": "PIT -1.5"
+    "line": 2.5,
+    "display": "PIT -2.5"
    },
    "total": 38.5,
    "overtime": false,
@@ -6688,13 +6688,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Bears",
-    "favorite_code": "CHI",
-    "line": 1.5,
-    "display": "CHI -1.5"
-   },
-   "total": 47.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6751,13 +6746,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Steelers",
-    "favorite_code": "PIT",
-    "line": 2.5,
-    "display": "PIT -2.5"
-   },
-   "total": 44.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6814,13 +6804,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "49ers",
-    "favorite_code": "SF",
-    "line": 4.5,
-    "display": "SF -4.5"
-   },
-   "total": 49.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6877,13 +6862,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Ravens",
-    "favorite_code": "BAL",
-    "line": 3.5,
-    "display": "BAL -3.5"
-   },
-   "total": 50.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -6940,13 +6920,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Panthers",
-    "favorite_code": "CAR",
-    "line": 3.0,
-    "display": "CAR -3"
-   },
-   "total": 44.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -7003,13 +6978,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Texans",
-    "favorite_code": "HOU",
-    "line": 7.5,
-    "display": "HOU -7.5"
-   },
-   "total": 41.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7037,7 +7007,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7066,13 +7036,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Vikings",
-    "favorite_code": "MIN",
-    "line": 5.5,
-    "display": "MIN -5.5"
-   },
-   "total": 43.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7129,13 +7094,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Jets",
-    "favorite_code": "NYJ",
-    "line": 4.5,
-    "display": "NYJ -4.5"
-   },
-   "total": 38.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -7192,13 +7152,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Browns",
-    "favorite_code": "CLE",
-    "line": 1.5,
-    "display": "CLE -1.5"
-   },
-   "total": 37.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7255,13 +7210,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Broncos",
-    "favorite_code": "DEN",
-    "line": 5.5,
-    "display": "DEN -5.5"
-   },
-   "total": 45.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7318,13 +7268,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Lions",
-    "favorite_code": "DET",
-    "line": 3.0,
-    "display": "DET -3"
-   },
-   "total": 52.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -7381,13 +7326,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Rams",
-    "favorite_code": "LA",
-    "line": 7.0,
-    "display": "LA -7"
-   },
-   "total": 48.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7444,13 +7384,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Seahawks",
-    "favorite_code": "SEA",
-    "line": 2.5,
-    "display": "SEA -2.5"
-   },
-   "total": 44.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7884,7 +7819,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8385,7 +8320,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8907,7 +8842,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9429,7 +9364,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9719,7 +9654,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10088,7 +10023,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10473,7 +10408,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11248,7 +11183,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11480,7 +11415,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11865,7 +11800,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12445,7 +12380,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13025,7 +12960,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13394,7 +13329,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13721,7 +13656,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13742,7 +13677,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14359,7 +14294,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15171,7 +15106,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15598,7 +15533,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16157,7 +16092,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16642,7 +16577,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "1-4",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16679,7 +16614,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "4-1",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17331,19 +17266,19 @@
    "name": "Texans",
    "conference": "AFC",
    "division": "AFC South",
-   "wins": 1,
+   "wins": 2,
    "losses": 4,
    "ties": 0,
-   "pct": 0.2,
-   "pf": 110,
-   "pa": 112,
-   "net": -2,
+   "pct": 0.333,
+   "pf": 144,
+   "pa": 143,
+   "net": 1,
    "home": "0-3",
-   "road": "1-1",
-   "div": "1-1",
-   "conf": "1-3",
-   "streak": "W1",
-   "record": "1-4",
+   "road": "2-1",
+   "div": "2-1",
+   "conf": "2-3",
+   "streak": "W2",
+   "record": "2-4",
    "rank_div": 3
   },
   {
@@ -17412,18 +17347,18 @@
    "conference": "AFC",
    "division": "AFC South",
    "wins": 4,
-   "losses": 1,
+   "losses": 2,
    "ties": 0,
-   "pct": 0.8,
-   "pf": 123,
-   "pa": 70,
-   "net": 53,
-   "home": "3-0",
+   "pct": 0.667,
+   "pf": 154,
+   "pa": 104,
+   "net": 50,
+   "home": "3-1",
    "road": "1-1",
-   "div": "0-0",
-   "conf": "3-1",
-   "streak": "W3",
-   "record": "4-1",
+   "div": "0-1",
+   "conf": "3-2",
+   "streak": "L1",
+   "record": "4-2",
    "rank_div": 1
   },
   {
