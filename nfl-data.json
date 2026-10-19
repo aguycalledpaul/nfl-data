@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-19T05:32:57Z",
+  "updated": "2026-10-19T11:42:48Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 6
@@ -6753,7 +6753,7 @@
     "line": 7.5,
     "display": "SF -7.5"
    },
-   "total": 52.5,
+   "total": 51.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6813,8 +6813,8 @@
    "spread": {
     "favorite": "Bears",
     "favorite_code": "CHI",
-    "line": 2.5,
-    "display": "CHI -2.5"
+    "line": 3.0,
+    "display": "CHI -3"
    },
    "total": 49.5,
    "overtime": false,
@@ -7065,8 +7065,8 @@
    "spread": {
     "favorite": "Panthers",
     "favorite_code": "CAR",
-    "line": 3.0,
-    "display": "CAR -3"
+    "line": 3.5,
+    "display": "CAR -3.5"
    },
    "total": 44.5,
    "overtime": false,
@@ -7194,7 +7194,7 @@
     "line": 5.5,
     "display": "MIN -5.5"
    },
-   "total": 42.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7383,7 +7383,7 @@
     "line": 4.5,
     "display": "DEN -4.5"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7509,7 +7509,7 @@
     "line": 5.5,
     "display": "LA -5.5"
    },
-   "total": 46.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
