@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-19T18:04:03Z",
+  "updated": "2026-10-19T22:42:56Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 6
@@ -6753,7 +6753,7 @@
     "line": 7.5,
     "display": "SF -7.5"
    },
-   "total": 51.5,
+   "total": 52.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7002,8 +7002,8 @@
    "spread": {
     "favorite": "Ravens",
     "favorite_code": "BAL",
-    "line": 3.0,
-    "display": "BAL -3"
+    "line": 2.5,
+    "display": "BAL -2.5"
    },
    "total": 51.5,
    "overtime": false,
@@ -7065,8 +7065,8 @@
    "spread": {
     "favorite": "Panthers",
     "favorite_code": "CAR",
-    "line": 3.0,
-    "display": "CAR -3"
+    "line": 3.5,
+    "display": "CAR -3.5"
    },
    "total": 44.5,
    "overtime": false,
@@ -7506,8 +7506,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 5.5,
-    "display": "LA -5.5"
+    "line": 4.5,
+    "display": "LA -4.5"
    },
    "total": 47.5,
    "overtime": false,
