@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-19T00:39:29Z",
+  "updated": "2026-10-19T05:32:57Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 6
@@ -908,7 +908,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 22,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      9,
      10,
@@ -1054,7 +1054,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 20,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": [
      0,
      7,
@@ -1638,7 +1638,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 20,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      0,
      7,
@@ -2104,7 +2104,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 37,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": [
      10,
      7,
@@ -2398,7 +2398,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 14,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      7,
      0,
@@ -3274,7 +3274,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 31,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": [
      10,
      3,
@@ -3978,7 +3978,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 34,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": [
      3,
      3,
@@ -4197,7 +4197,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 17,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      0,
      10,
@@ -4734,7 +4734,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 16,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": [
      7,
      3,
@@ -4880,7 +4880,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 31,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      7,
      7,
@@ -6667,7 +6667,7 @@
    "game_id": "2026_06_DAL_GB",
    "season": 2026,
    "week": 6,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-18T20:20:00-04:00",
    "weekday": "Sunday",
    "venue": "Lambeau Field",
@@ -6686,42 +6686,52 @@
    "away": {
     "code": "DAL",
     "name": "Cowboys",
-    "score": null,
-    "record": "2-3",
-    "linescore": null,
+    "score": 13,
+    "record": "2-4",
+    "linescore": [
+     0,
+     0,
+     7,
+     6
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Prescott",
+      "line": "258 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Williams",
+      "line": "41 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "G. Pickens",
+      "line": "6 rec, 73 yds"
      }
     }
    },
    "home": {
     "code": "GB",
     "name": "Packers",
-    "score": null,
-    "record": "3-2",
-    "linescore": null,
+    "score": 23,
+    "record": "4-2",
+    "linescore": [
+     7,
+     10,
+     3,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Love",
+      "line": "276 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "P. Strong",
+      "line": "28 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Golden",
+      "line": "6 rec, 104 yds"
      }
     }
    }
@@ -6869,7 +6879,7 @@
     "line": 2.5,
     "display": "PIT -2.5"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7058,7 +7068,7 @@
     "line": 3.0,
     "display": "CAR -3"
    },
-   "total": 43.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -7181,8 +7191,8 @@
    "spread": {
     "favorite": "Vikings",
     "favorite_code": "MIN",
-    "line": 6.0,
-    "display": "MIN -6"
+    "line": 5.5,
+    "display": "MIN -5.5"
    },
    "total": 42.5,
    "overtime": false,
@@ -7443,7 +7453,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7496,10 +7506,10 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 6.0,
-    "display": "LA -6"
+    "line": 5.5,
+    "display": "LA -5.5"
    },
-   "total": 47.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7559,8 +7569,8 @@
    "spread": {
     "favorite": "Seahawks",
     "favorite_code": "SEA",
-    "line": 1.5,
-    "display": "SEA -1.5"
+    "line": 2.5,
+    "display": "SEA -2.5"
    },
    "total": 42.5,
    "overtime": false,
@@ -7622,8 +7632,8 @@
    "spread": {
     "favorite": "Cowboys",
     "favorite_code": "DAL",
-    "line": 5.5,
-    "display": "DAL -5.5"
+    "line": 4.5,
+    "display": "DAL -4.5"
    },
    "total": 44.5,
    "overtime": false,
@@ -7632,7 +7642,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7711,7 +7721,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7885,7 +7895,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8676,7 +8686,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9140,7 +9150,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9625,7 +9635,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10031,7 +10041,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10437,7 +10447,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10938,7 +10948,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11075,7 +11085,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12098,7 +12108,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12620,7 +12630,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13453,7 +13463,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13801,7 +13811,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14244,7 +14254,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14534,7 +14544,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15309,7 +15319,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15657,7 +15667,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16295,7 +16305,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16701,7 +16711,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17202,7 +17212,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "2-3",
+    "record": "2-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17421,7 +17431,7 @@
    "conf": "2-1",
    "streak": "W1",
    "record": "3-2",
-   "rank_div": 3
+   "rank_div": 4
   },
   {
    "code": "NO",
@@ -17748,20 +17758,20 @@
    "name": "Packers",
    "conference": "NFC",
    "division": "NFC North",
-   "wins": 3,
+   "wins": 4,
    "losses": 2,
    "ties": 0,
-   "pct": 0.6,
-   "pf": 104,
-   "pa": 112,
-   "net": -8,
-   "home": "1-1",
+   "pct": 0.667,
+   "pf": 127,
+   "pa": 125,
+   "net": 2,
+   "home": "2-1",
    "road": "2-1",
    "div": "1-1",
-   "conf": "2-2",
-   "streak": "W2",
-   "record": "3-2",
-   "rank_div": 4
+   "conf": "3-2",
+   "streak": "W3",
+   "record": "4-2",
+   "rank_div": 3
   },
   {
    "code": "PHI",
@@ -17829,18 +17839,18 @@
    "conference": "NFC",
    "division": "NFC East",
    "wins": 2,
-   "losses": 3,
+   "losses": 4,
    "ties": 0,
-   "pct": 0.4,
-   "pf": 138,
-   "pa": 136,
-   "net": 2,
+   "pct": 0.333,
+   "pf": 151,
+   "pa": 159,
+   "net": -8,
    "home": "1-2",
-   "road": "1-1",
+   "road": "1-2",
    "div": "1-1",
-   "conf": "1-2",
-   "streak": "L1",
-   "record": "2-3",
+   "conf": "1-3",
+   "streak": "L2",
+   "record": "2-4",
    "rank_div": 2
   },
   {
