@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-20T01:24:30Z",
+  "updated": "2026-10-20T11:51:53Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 6
@@ -103,7 +103,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 27,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": [
      3,
      7,
@@ -981,7 +981,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 22,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": [
      3,
      6,
@@ -2078,7 +2078,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 20,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": [
      0,
      10,
@@ -2177,7 +2177,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 35,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": [
      7,
      7,
@@ -3055,7 +3055,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 33,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": [
      7,
      10,
@@ -3128,7 +3128,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 36,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": [
      7,
      10,
@@ -3639,7 +3639,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 13,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": [
      6,
      0,
@@ -4515,7 +4515,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 24,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": [
      0,
      3,
@@ -5391,7 +5391,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 27,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": [
      6,
      6,
@@ -5584,7 +5584,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 32,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": [
      7,
      14,
@@ -6740,7 +6740,7 @@
    "game_id": "2026_06_WAS_SF",
    "season": 2026,
    "week": 6,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-19T20:15:00-04:00",
    "weekday": "Monday",
    "venue": "Levi's Stadium",
@@ -6759,42 +6759,52 @@
    "away": {
     "code": "WAS",
     "name": "Commanders",
-    "score": null,
-    "record": "1-3-1",
-    "linescore": null,
+    "score": 17,
+    "record": "1-4-1",
+    "linescore": [
+     3,
+     0,
+     7,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Daniels",
+      "line": "300 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "R. White",
+      "line": "27 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "C. Okonkwo",
+      "line": "7 rec, 69 yds"
      }
     }
    },
    "home": {
     "code": "SF",
     "name": "49ers",
-    "score": null,
-    "record": "5-0",
-    "linescore": null,
+    "score": 23,
+    "record": "6-0",
+    "linescore": [
+     13,
+     7,
+     3,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "B. Purdy",
+      "line": "264 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. McCaffrey",
+      "line": "64 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Evans",
+      "line": "3 rec, 94 yds"
      }
     }
    }
@@ -6876,8 +6886,8 @@
    "spread": {
     "favorite": "Steelers",
     "favorite_code": "PIT",
-    "line": 3.0,
-    "display": "PIT -3"
+    "line": 3.5,
+    "display": "PIT -3.5"
    },
    "total": 44.5,
    "overtime": false,
@@ -6936,15 +6946,20 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "49ers",
+    "favorite_code": "SF",
+    "line": 3.5,
+    "display": "SF -3.5"
+   },
+   "total": 50.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7123,8 +7138,8 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 9.5,
-    "display": "HOU -9.5"
+    "line": 10.0,
+    "display": "HOU -10"
    },
    "total": 42.5,
    "overtime": false,
@@ -7186,8 +7201,8 @@
    "spread": {
     "favorite": "Vikings",
     "favorite_code": "MIN",
-    "line": 6.0,
-    "display": "MIN -6"
+    "line": 6.5,
+    "display": "MIN -6.5"
    },
    "total": 41.5,
    "overtime": false,
@@ -7441,7 +7456,7 @@
     "line": 3.0,
     "display": "DET -3"
    },
-   "total": 52.5,
+   "total": 53.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -8412,7 +8427,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8992,7 +9007,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9108,7 +9123,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9377,7 +9392,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10015,7 +10030,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10848,7 +10863,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10906,7 +10921,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11639,7 +11654,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11718,7 +11733,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12161,7 +12176,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12277,7 +12292,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13168,7 +13183,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13400,7 +13415,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13553,7 +13568,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14154,7 +14169,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14945,7 +14960,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15235,7 +15250,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15699,7 +15714,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16242,7 +16257,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16337,7 +16352,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "5-0",
+    "record": "6-0",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17228,7 +17243,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-3-1",
+    "record": "1-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17313,19 +17328,19 @@
    "name": "49ers",
    "conference": "NFC",
    "division": "NFC West",
-   "wins": 5,
+   "wins": 6,
    "losses": 0,
    "ties": 0,
    "pct": 1.0,
-   "pf": 154,
-   "pa": 93,
-   "net": 61,
-   "home": "3-0",
+   "pf": 177,
+   "pa": 110,
+   "net": 67,
+   "home": "4-0",
    "road": "2-0",
    "div": "3-0",
-   "conf": "3-0",
-   "streak": "W5",
-   "record": "5-0",
+   "conf": "4-0",
+   "streak": "W6",
+   "record": "6-0",
    "rank_div": 1
   },
   {
@@ -17794,18 +17809,18 @@
    "conference": "NFC",
    "division": "NFC East",
    "wins": 1,
-   "losses": 3,
+   "losses": 4,
    "ties": 1,
-   "pct": 0.3,
-   "pf": 115,
-   "pa": 149,
-   "net": -34,
+   "pct": 0.25,
+   "pf": 132,
+   "pa": 172,
+   "net": -40,
    "home": "1-1-1",
-   "road": "0-2",
+   "road": "0-3",
    "div": "0-2-1",
-   "conf": "1-2-1",
-   "streak": "T1",
-   "record": "1-3-1",
+   "conf": "1-3-1",
+   "streak": "L1",
+   "record": "1-4-1",
    "rank_div": 4
   },
   {
