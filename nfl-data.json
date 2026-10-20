@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-19T22:42:56Z",
+  "updated": "2026-10-20T01:24:30Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 6
@@ -6753,7 +6753,7 @@
     "line": 7.5,
     "display": "SF -7.5"
    },
-   "total": 52.5,
+   "total": 51.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6936,13 +6936,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "49ers",
-    "favorite_code": "SF",
-    "line": 4.5,
-    "display": "SF -4.5"
-   },
-   "total": 50.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7191,8 +7186,8 @@
    "spread": {
     "favorite": "Vikings",
     "favorite_code": "MIN",
-    "line": 5.5,
-    "display": "MIN -5.5"
+    "line": 6.0,
+    "display": "MIN -6"
    },
    "total": 41.5,
    "overtime": false,
