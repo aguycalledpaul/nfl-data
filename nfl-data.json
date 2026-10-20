@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-20T11:51:53Z",
+  "updated": "2026-10-20T13:42:40Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 6
@@ -7012,8 +7012,8 @@
    "spread": {
     "favorite": "Ravens",
     "favorite_code": "BAL",
-    "line": 2.5,
-    "display": "BAL -2.5"
+    "line": 3.0,
+    "display": "BAL -3"
    },
    "total": 51.5,
    "overtime": false,
