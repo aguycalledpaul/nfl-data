@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-23T18:10:01Z",
+  "updated": "2026-10-23T21:46:51Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 7
@@ -7020,10 +7020,10 @@
    "network": "",
    "recap_url": "",
    "spread": {
-    "favorite": "Ravens",
-    "favorite_code": "BAL",
+    "favorite": "Bengals",
+    "favorite_code": "CIN",
     "line": 1.5,
-    "display": "BAL -1.5"
+    "display": "CIN -1.5"
    },
    "total": 48.5,
    "overtime": false,
@@ -7337,8 +7337,8 @@
    "spread": {
     "favorite": "Browns",
     "favorite_code": "CLE",
-    "line": 1.5,
-    "display": "CLE -1.5"
+    "line": 2.5,
+    "display": "CLE -2.5"
    },
    "total": 37.5,
    "overtime": false,
@@ -7526,8 +7526,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 3.5,
-    "display": "LA -3.5"
+    "line": 3.0,
+    "display": "LA -3"
    },
    "total": 48.5,
    "overtime": false,
@@ -7589,8 +7589,8 @@
    "spread": {
     "favorite": "Seahawks",
     "favorite_code": "SEA",
-    "line": 3.0,
-    "display": "SEA -3"
+    "line": 2.5,
+    "display": "SEA -2.5"
    },
    "total": 42.5,
    "overtime": false,
