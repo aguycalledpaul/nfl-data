@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-25T10:28:46Z",
+  "updated": "2026-10-25T14:42:40Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 7
@@ -7211,8 +7211,8 @@
    "spread": {
     "favorite": "Vikings",
     "favorite_code": "MIN",
-    "line": 6.5,
-    "display": "MIN -6.5"
+    "line": 7.0,
+    "display": "MIN -7"
    },
    "total": 41.5,
    "overtime": false,
@@ -7274,8 +7274,8 @@
    "spread": {
     "favorite": "Jets",
     "favorite_code": "NYJ",
-    "line": 4.5,
-    "display": "NYJ -4.5"
+    "line": 3.5,
+    "display": "NYJ -3.5"
    },
    "total": 39.5,
    "overtime": false,
@@ -7337,8 +7337,8 @@
    "spread": {
     "favorite": "Browns",
     "favorite_code": "CLE",
-    "line": 1.5,
-    "display": "CLE -1.5"
+    "line": 2.5,
+    "display": "CLE -2.5"
    },
    "total": 36.5,
    "overtime": false,
@@ -7403,7 +7403,7 @@
     "line": 4.5,
     "display": "DEN -4.5"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7526,8 +7526,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 3.0,
-    "display": "LA -3"
+    "line": 3.5,
+    "display": "LA -3.5"
    },
    "total": 48.5,
    "overtime": false,
@@ -8153,13 +8153,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Steelers",
-    "favorite_code": "PIT",
-    "line": 4.5,
-    "display": "PIT -4.5"
-   },
-   "total": 38.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
