@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-24T22:48:31Z",
+  "updated": "2026-10-25T00:43:10Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 7
@@ -6899,7 +6899,7 @@
     "line": 3.0,
     "display": "PIT -3"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -6962,7 +6962,7 @@
     "line": 2.5,
     "display": "SF -2.5"
    },
-   "total": 49.5,
+   "total": 50.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7022,8 +7022,8 @@
    "spread": {
     "favorite": "Bengals",
     "favorite_code": "CIN",
-    "line": 2.5,
-    "display": "CIN -2.5"
+    "line": 3.0,
+    "display": "CIN -3"
    },
    "total": 46.5,
    "overtime": false,
@@ -7463,10 +7463,10 @@
    "spread": {
     "favorite": "Lions",
     "favorite_code": "DET",
-    "line": 3.0,
-    "display": "DET -3"
+    "line": 3.5,
+    "display": "DET -3.5"
    },
-   "total": 53.5,
+   "total": 54.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -7655,7 +7655,7 @@
     "line": 4.5,
     "display": "DAL -4.5"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": true,
    "away": {
