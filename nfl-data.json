@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-25T21:19:57Z",
+  "updated": "2026-10-25T23:41:50Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 7
@@ -349,7 +349,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 31,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      7,
      0,
@@ -762,7 +762,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 26,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": [
      7,
      6,
@@ -908,7 +908,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 22,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": [
      9,
      10,
@@ -1127,7 +1127,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 10,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": [
      7,
      0,
@@ -1200,7 +1200,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 31,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      0,
      10,
@@ -1638,7 +1638,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 20,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": [
      0,
      7,
@@ -1885,7 +1885,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 20,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": [
      0,
      3,
@@ -2031,7 +2031,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 7,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": [
      0,
      7,
@@ -2398,7 +2398,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 14,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": [
      7,
      0,
@@ -2617,7 +2617,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 31,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      0,
      10,
@@ -3102,7 +3102,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 30,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": [
      0,
      6,
@@ -3420,7 +3420,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 30,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": [
      0,
      0,
@@ -4051,7 +4051,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 24,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": [
      14,
      3,
@@ -4197,7 +4197,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 17,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": [
      0,
      10,
@@ -4489,7 +4489,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 14,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": [
      3,
      0,
@@ -4562,7 +4562,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 26,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      3,
      13,
@@ -4880,7 +4880,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 31,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": [
      7,
      7,
@@ -5438,7 +5438,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 23,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": [
      7,
      3,
@@ -5511,7 +5511,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 45,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": [
      0,
      24,
@@ -5537,7 +5537,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 21,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": [
      7,
      0,
@@ -5834,7 +5834,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 17,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": [
      0,
      14,
@@ -6468,7 +6468,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 18,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": [
      3,
      6,
@@ -6713,7 +6713,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 23,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": [
      7,
      10,
@@ -7472,7 +7472,7 @@
    "game_id": "2026_07_DEN_ARI",
    "season": 2026,
    "week": 7,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-25T16:05:00-04:00",
    "weekday": "Sunday",
    "venue": "State Farm Stadium",
@@ -7491,8 +7491,8 @@
    "away": {
     "code": "DEN",
     "name": "Broncos",
-    "score": null,
-    "record": "4-2",
+    "score": 30,
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7512,8 +7512,8 @@
    "home": {
     "code": "ARI",
     "name": "Cardinals",
-    "score": null,
-    "record": "2-4",
+    "score": 16,
+    "record": "2-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7535,7 +7535,7 @@
    "game_id": "2026_07_GB_DET",
    "season": 2026,
    "week": 7,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-25T16:25:00-04:00",
    "weekday": "Sunday",
    "venue": "Ford Field",
@@ -7554,8 +7554,8 @@
    "away": {
     "code": "GB",
     "name": "Packers",
-    "score": null,
-    "record": "4-2",
+    "score": 17,
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7575,8 +7575,8 @@
    "home": {
     "code": "DET",
     "name": "Lions",
-    "score": null,
-    "record": "3-2",
+    "score": 20,
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7674,7 +7674,7 @@
     "line": 3.0,
     "display": "SEA -3"
    },
-   "total": 42.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7794,8 +7794,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Packers",
+    "favorite_code": "GB",
+    "line": 3.5,
+    "display": "GB -3.5"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7823,7 +7828,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -7852,8 +7857,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bills",
+    "favorite_code": "BUF",
+    "line": 3.0,
+    "display": "BUF -3"
+   },
+   "total": 52.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -7973,15 +7983,20 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Cowboys",
+    "favorite_code": "DAL",
+    "line": 6.5,
+    "display": "DAL -6.5"
+   },
+   "total": 52.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8031,8 +8046,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Lions",
+    "favorite_code": "DET",
+    "line": 3.0,
+    "display": "DET -3"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -8060,7 +8080,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8152,8 +8172,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Jets",
+    "favorite_code": "NYJ",
+    "line": 1.5,
+    "display": "NYJ -1.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -8279,7 +8304,7 @@
     "line": 1.5,
     "display": "TB -1.5"
    },
-   "total": 43.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -8336,8 +8361,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Rams",
+    "favorite_code": "LA",
+    "line": 7.5,
+    "display": "LA -7.5"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -8394,8 +8424,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Chiefs",
+    "favorite_code": "KC",
+    "line": 1.5,
+    "display": "KC -1.5"
+   },
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -8423,7 +8458,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8452,8 +8487,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Patriots",
+    "favorite_code": "NE",
+    "line": 7.5,
+    "display": "NE -7.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -8510,8 +8550,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Commanders",
+    "favorite_code": "WAS",
+    "line": 3.5,
+    "display": "WAS -3.5"
+   },
+   "total": 40.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -8568,8 +8613,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Seahawks",
+    "favorite_code": "SEA",
+    "line": 3.0,
+    "display": "SEA -3"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -8750,7 +8800,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8924,7 +8974,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9272,7 +9322,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9330,7 +9380,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9583,7 +9633,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9757,7 +9807,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10047,7 +10097,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10627,7 +10677,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10664,7 +10714,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10859,7 +10909,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11070,7 +11120,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11149,7 +11199,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11302,7 +11352,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11787,7 +11837,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12056,7 +12106,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12230,7 +12280,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12483,7 +12533,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12541,7 +12591,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13063,7 +13113,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13158,7 +13208,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13585,7 +13635,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13933,7 +13983,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14339,7 +14389,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14434,7 +14484,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14492,7 +14542,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14666,7 +14716,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14745,7 +14795,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15130,7 +15180,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15499,7 +15549,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16000,7 +16050,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16253,7 +16303,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16290,7 +16340,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16427,7 +16477,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16485,7 +16535,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "2-4",
+    "record": "2-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16775,7 +16825,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "4-2",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16812,7 +16862,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "3-2",
+    "record": "4-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16833,7 +16883,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "4-2",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17540,20 +17590,20 @@
    "name": "Lions",
    "conference": "NFC",
    "division": "NFC North",
-   "wins": 3,
+   "wins": 4,
    "losses": 2,
    "ties": 0,
-   "pct": 0.6,
-   "pf": 164,
-   "pa": 148,
-   "net": 16,
-   "home": "2-0",
+   "pct": 0.667,
+   "pf": 184,
+   "pa": 165,
+   "net": 19,
+   "home": "3-0",
    "road": "1-2",
-   "div": "0-0",
-   "conf": "2-1",
-   "streak": "W1",
-   "record": "3-2",
-   "rank_div": 4
+   "div": "1-0",
+   "conf": "3-1",
+   "streak": "W2",
+   "record": "4-2",
+   "rank_div": 3
   },
   {
    "code": "NO",
@@ -17801,18 +17851,18 @@
    "conference": "NFC",
    "division": "NFC West",
    "wins": 2,
-   "losses": 4,
+   "losses": 5,
    "ties": 0,
-   "pct": 0.333,
-   "pf": 126,
-   "pa": 178,
-   "net": -52,
-   "home": "0-2",
+   "pct": 0.286,
+   "pf": 142,
+   "pa": 208,
+   "net": -66,
+   "home": "0-3",
    "road": "2-2",
    "div": "1-2",
    "conf": "1-4",
-   "streak": "W1",
-   "record": "2-4",
+   "streak": "L1",
+   "record": "2-5",
    "rank_div": 4
   },
   {
@@ -17881,19 +17931,19 @@
    "conference": "NFC",
    "division": "NFC North",
    "wins": 4,
-   "losses": 2,
+   "losses": 3,
    "ties": 0,
-   "pct": 0.667,
-   "pf": 127,
-   "pa": 125,
-   "net": 2,
+   "pct": 0.571,
+   "pf": 144,
+   "pa": 145,
+   "net": -1,
    "home": "2-1",
-   "road": "2-1",
-   "div": "1-1",
-   "conf": "3-2",
-   "streak": "W3",
-   "record": "4-2",
-   "rank_div": 3
+   "road": "2-2",
+   "div": "1-2",
+   "conf": "3-3",
+   "streak": "L1",
+   "record": "4-3",
+   "rank_div": 4
   },
   {
    "code": "PHI",
@@ -18000,19 +18050,19 @@
    "name": "Broncos",
    "conference": "AFC",
    "division": "AFC West",
-   "wins": 4,
+   "wins": 5,
    "losses": 2,
    "ties": 0,
-   "pct": 0.667,
-   "pf": 114,
-   "pa": 125,
-   "net": -11,
+   "pct": 0.714,
+   "pf": 144,
+   "pa": 141,
+   "net": 3,
    "home": "3-0",
-   "road": "1-2",
+   "road": "2-2",
    "div": "1-1",
    "conf": "2-1",
-   "streak": "W2",
-   "record": "4-2",
+   "streak": "W3",
+   "record": "5-2",
    "rank_div": 2
   }
  ]
