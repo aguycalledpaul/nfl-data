@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-26T02:33:11Z",
+  "updated": "2026-10-26T08:20:19Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 7
@@ -56,7 +56,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 13,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": [
      0,
      0,
@@ -1153,7 +1153,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 31,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": [
      7,
      7,
@@ -2005,7 +2005,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 31,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": [
      7,
      0,
@@ -2251,7 +2251,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 33,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": [
      10,
      7,
@@ -2810,7 +2810,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 24,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": [
      7,
      7,
@@ -3029,7 +3029,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 31,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": [
      0,
      10,
@@ -4343,7 +4343,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 30,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": [
      7,
      3,
@@ -4442,7 +4442,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 30,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": [
      7,
      13,
@@ -5610,7 +5610,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 29,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": [
      7,
      6,
@@ -5807,7 +5807,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 14,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": [
      3,
      0,
@@ -6567,7 +6567,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 22,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": [
      9,
      10,
@@ -7691,7 +7691,7 @@
    "game_id": "2026_07_KC_SEA",
    "season": 2026,
    "week": 7,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-10-25T20:20:00-04:00",
    "weekday": "Sunday",
    "venue": "Lumen Field",
@@ -7710,42 +7710,52 @@
    "away": {
     "code": "KC",
     "name": "Chiefs",
-    "score": null,
-    "record": "5-0",
-    "linescore": null,
+    "score": 3,
+    "record": "5-1",
+    "linescore": [
+     0,
+     0,
+     3,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "P. Mahomes",
+      "line": "165 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. III",
+      "line": "36 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "T. Kelce",
+      "line": "4 rec, 44 yds"
      }
     }
    },
    "home": {
     "code": "SEA",
     "name": "Seahawks",
-    "score": null,
-    "record": "3-3",
-    "linescore": null,
+    "score": 20,
+    "record": "4-3",
+    "linescore": [
+     0,
+     10,
+     3,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "S. Darnold",
+      "line": "257 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "E. Wilson",
+      "line": "100 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Smith-Njigba",
+      "line": "9 rec, 150 yds"
      }
     }
    }
@@ -7827,8 +7837,8 @@
    "spread": {
     "favorite": "Packers",
     "favorite_code": "GB",
-    "line": 4.5,
-    "display": "GB -4.5"
+    "line": 3.5,
+    "display": "GB -3.5"
    },
    "total": 47.5,
    "overtime": false,
@@ -7956,7 +7966,7 @@
     "line": 10.0,
     "display": "CIN -10"
    },
-   "total": 47.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -8019,7 +8029,7 @@
     "line": 6.5,
     "display": "DAL -6.5"
    },
-   "total": 52.5,
+   "total": 53.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -8271,7 +8281,7 @@
     "line": 3.5,
     "display": "PIT -3.5"
    },
-   "total": 39.5,
+   "total": 38.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -8334,7 +8344,7 @@
     "line": 1.5,
     "display": "TB -1.5"
    },
-   "total": 45.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -8397,7 +8407,7 @@
     "line": 7.0,
     "display": "LA -7"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -8454,15 +8464,20 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Chiefs",
+    "favorite_code": "KC",
+    "line": 1.5,
+    "display": "KC -1.5"
+   },
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8638,8 +8653,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Seahawks",
+    "favorite_code": "SEA",
+    "line": 3.0,
+    "display": "SEA -3"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -8667,7 +8687,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8957,7 +8977,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9421,7 +9441,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9690,7 +9710,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10154,7 +10174,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10755,7 +10775,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11314,7 +11334,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11894,7 +11914,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12068,7 +12088,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12843,7 +12863,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13460,7 +13480,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13539,7 +13559,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13808,7 +13828,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14641,7 +14661,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14873,7 +14893,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15453,7 +15473,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15722,7 +15742,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15954,7 +15974,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17077,7 +17097,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-0",
+    "record": "5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17114,7 +17134,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "3-3",
+    "record": "4-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17450,19 +17470,19 @@
    "name": "Seahawks",
    "conference": "NFC",
    "division": "NFC West",
-   "wins": 3,
+   "wins": 4,
    "losses": 3,
    "ties": 0,
-   "pct": 0.5,
-   "pf": 148,
-   "pa": 122,
-   "net": 26,
-   "home": "2-1",
+   "pct": 0.571,
+   "pf": 168,
+   "pa": 125,
+   "net": 43,
+   "home": "3-1",
    "road": "1-2",
    "div": "1-1",
    "conf": "1-2",
-   "streak": "L2",
-   "record": "3-3",
+   "streak": "W1",
+   "record": "4-3",
    "rank_div": 2
   },
   {
@@ -18051,18 +18071,18 @@
    "conference": "AFC",
    "division": "AFC West",
    "wins": 5,
-   "losses": 0,
+   "losses": 1,
    "ties": 0,
-   "pct": 1.0,
-   "pf": 140,
-   "pa": 83,
-   "net": 57,
+   "pct": 0.833,
+   "pf": 143,
+   "pa": 103,
+   "net": 40,
    "home": "3-0",
-   "road": "2-0",
+   "road": "2-1",
    "div": "3-0",
    "conf": "5-0",
-   "streak": "W5",
-   "record": "5-0",
+   "streak": "L1",
+   "record": "5-1",
    "rank_div": 1
   },
   {
