@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-26T08:20:19Z",
+  "updated": "2026-10-26T15:40:47Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 7
@@ -8213,10 +8213,10 @@
    "network": "",
    "recap_url": "",
    "spread": {
-    "favorite": "Jets",
-    "favorite_code": "NYJ",
+    "favorite": "Raiders",
+    "favorite_code": "LV",
     "line": 1.5,
-    "display": "NYJ -1.5"
+    "display": "LV -1.5"
    },
    "total": 44.5,
    "overtime": false,
@@ -8341,10 +8341,10 @@
    "spread": {
     "favorite": "Buccaneers",
     "favorite_code": "TB",
-    "line": 1.5,
-    "display": "TB -1.5"
+    "line": 2.5,
+    "display": "TB -2.5"
    },
-   "total": 44.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -8530,8 +8530,8 @@
    "spread": {
     "favorite": "Patriots",
     "favorite_code": "NE",
-    "line": 7.5,
-    "display": "NE -7.5"
+    "line": 7.0,
+    "display": "NE -7"
    },
    "total": 44.5,
    "overtime": false,
