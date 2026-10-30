@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-30T03:47:04Z",
+  "updated": "2026-10-30T10:39:02Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 8
@@ -7858,19 +7858,24 @@
     "name": "Panthers",
     "score": 19,
     "record": "3-4",
-    "linescore": null,
+    "linescore": [
+     3,
+     7,
+     3,
+     6
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "B. Young",
+      "line": "209 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. Hubbard",
+      "line": "81 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "T. McMillan",
+      "line": "6 rec, 58 yds"
      }
     }
    },
@@ -7879,19 +7884,24 @@
     "name": "Packers",
     "score": 27,
     "record": "5-3",
-    "linescore": null,
+    "linescore": [
+     6,
+     14,
+     7,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Love",
+      "line": "288 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Jacobs",
+      "line": "39 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "C. Watson",
+      "line": "8 rec, 113 yds"
      }
     }
    }
@@ -7973,8 +7983,8 @@
    "spread": {
     "favorite": "Bengals",
     "favorite_code": "CIN",
-    "line": 11.5,
-    "display": "CIN -11.5"
+    "line": 12.5,
+    "display": "CIN -12.5"
    },
    "total": 46.5,
    "overtime": false,
@@ -8852,8 +8862,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Broncos",
+    "favorite_code": "DEN",
+    "line": 2.5,
+    "display": "DEN -2.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9414,8 +9429,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Patriots",
+    "favorite_code": "NE",
+    "line": 2.5,
+    "display": "NE -2.5"
+   },
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
