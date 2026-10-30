@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-30T16:54:36Z",
+  "updated": "2026-10-30T21:17:00Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 8
@@ -9369,8 +9369,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 9.5,
-    "display": "SF -9.5"
+    "line": 10.0,
+    "display": "SF -10"
    },
    "total": 48.5,
    "overtime": false,
