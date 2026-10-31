@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-30T21:17:00Z",
+  "updated": "2026-10-31T01:18:22Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 8
@@ -8613,8 +8613,8 @@
    "spread": {
     "favorite": "Commanders",
     "favorite_code": "WAS",
-    "line": 6.0,
-    "display": "WAS -6"
+    "line": 5.5,
+    "display": "WAS -5.5"
    },
    "total": 40.5,
    "overtime": false,
@@ -9432,8 +9432,8 @@
    "spread": {
     "favorite": "Patriots",
     "favorite_code": "NE",
-    "line": 2.5,
-    "display": "NE -2.5"
+    "line": 3.0,
+    "display": "NE -3"
    },
    "total": 47.5,
    "overtime": false,
