@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-10-31T22:13:46Z",
+  "updated": "2026-11-01T01:43:50Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 8
@@ -8238,7 +8238,7 @@
     "line": 1.5,
     "display": "NYJ -1.5"
    },
-   "total": 45.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
