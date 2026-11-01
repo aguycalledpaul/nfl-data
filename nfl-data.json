@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-01T08:29:44Z",
+  "updated": "2026-11-01T15:38:30Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 8
@@ -7920,8 +7920,8 @@
    "spread": {
     "favorite": "Bills",
     "favorite_code": "BUF",
-    "line": 3.5,
-    "display": "BUF -3.5"
+    "line": 3.0,
+    "display": "BUF -3"
    },
    "total": 54.5,
    "overtime": false,
@@ -8301,7 +8301,7 @@
     "line": 3.5,
     "display": "PIT -3.5"
    },
-   "total": 39.5,
+   "total": 38.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -8361,8 +8361,8 @@
    "spread": {
     "favorite": "Buccaneers",
     "favorite_code": "TB",
-    "line": 1.5,
-    "display": "TB -1.5"
+    "line": 2.5,
+    "display": "TB -2.5"
    },
    "total": 43.5,
    "overtime": false,
@@ -8490,7 +8490,7 @@
     "line": 1.5,
     "display": "KC -1.5"
    },
-   "total": 40.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -8553,7 +8553,7 @@
     "line": 7.0,
     "display": "NE -7"
    },
-   "total": 43.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -8613,8 +8613,8 @@
    "spread": {
     "favorite": "Commanders",
     "favorite_code": "WAS",
-    "line": 6.0,
-    "display": "WAS -6"
+    "line": 6.5,
+    "display": "WAS -6.5"
    },
    "total": 40.5,
    "overtime": false,
