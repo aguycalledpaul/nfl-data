@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-02T00:04:41Z",
+  "updated": "2026-11-02T07:00:24Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 8
@@ -30,7 +30,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 10,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": [
      0,
      7,
@@ -835,7 +835,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 13,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": [
      0,
      6,
@@ -981,7 +981,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 22,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": [
      3,
      6,
@@ -1007,7 +1007,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": 24,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": [
      0,
      14,
@@ -1127,7 +1127,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 10,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      7,
      0,
@@ -1153,7 +1153,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 31,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": [
      7,
      7,
@@ -1591,7 +1591,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 20,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": [
      7,
      3,
@@ -1786,7 +1786,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": 24,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": [
      0,
      14,
@@ -1885,7 +1885,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 20,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      0,
      3,
@@ -2078,7 +2078,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 20,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": [
      0,
      10,
@@ -2151,7 +2151,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 13,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": [
      0,
      6,
@@ -2251,7 +2251,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 33,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": [
      10,
      7,
@@ -2737,7 +2737,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 6,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": [
      0,
      3,
@@ -2810,7 +2810,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 24,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": [
      7,
      7,
@@ -2836,7 +2836,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 10,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": [
      7,
      0,
@@ -3055,7 +3055,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 33,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": [
      7,
      10,
@@ -3420,7 +3420,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 30,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      0,
      0,
@@ -3467,7 +3467,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": 7,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": [
      0,
      7,
@@ -3639,7 +3639,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 13,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": [
      6,
      0,
@@ -3759,7 +3759,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 29,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": [
      7,
      7,
@@ -4150,7 +4150,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": 20,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": [
      3,
      17,
@@ -4270,7 +4270,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 10,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": [
      0,
      0,
@@ -4343,7 +4343,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 30,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": [
      7,
      3,
@@ -4489,7 +4489,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 14,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      3,
      0,
@@ -4781,7 +4781,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": 17,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": [
      0,
      14,
@@ -4953,7 +4953,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 24,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": [
      7,
      0,
@@ -5026,7 +5026,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 45,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": [
      14,
      7,
@@ -5391,7 +5391,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 27,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": [
      6,
      6,
@@ -5438,7 +5438,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 23,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      7,
      3,
@@ -5834,7 +5834,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 17,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      0,
      14,
@@ -6200,7 +6200,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 26,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": [
      7,
      10,
@@ -6346,7 +6346,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": 14,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": [
      0,
      7,
@@ -6567,7 +6567,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 22,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": [
      9,
      10,
@@ -6760,7 +6760,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 17,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": [
      3,
      0,
@@ -6833,7 +6833,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 24,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": [
      0,
      14,
@@ -7346,7 +7346,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 28,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": [
      14,
      7,
@@ -7492,7 +7492,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 30,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      6,
      7,
@@ -7711,7 +7711,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 3,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": [
      0,
      0,
@@ -7810,7 +7810,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": 21,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": [
      7,
      7,
@@ -7939,16 +7939,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Fagnano",
+      "line": "91 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "D. Henry",
+      "line": "53 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "R. Bateman",
+      "line": "1 rec, 22 yds"
      }
     }
    },
@@ -7965,16 +7965,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Allen",
+      "line": "289 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Cook",
+      "line": "80 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Kincaid",
+      "line": "4 rec, 86 yds"
      }
     }
    }
@@ -8013,16 +8013,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "C. Ward",
+      "line": "304 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "T. Pollard",
+      "line": "117 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "G. Helm",
+      "line": "5 rec, 76 yds"
      }
     }
    },
@@ -8040,16 +8040,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Burrow",
+      "line": "462 yds, 5 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. Brown",
+      "line": "55 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "T. Higgins",
+      "line": "10 rec, 155 yds"
      }
     }
    }
@@ -8088,16 +8088,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "G. Minshew",
+      "line": "188 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "T. Allgeier",
+      "line": "147 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Wilson",
+      "line": "8 rec, 111 yds"
      }
     }
    },
@@ -8115,16 +8115,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Prescott",
+      "line": "195 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Williams",
+      "line": "56 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "C. Lamb",
+      "line": "7 rec, 58 yds"
      }
     }
    }
@@ -8162,16 +8162,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "K. Murray",
+      "line": "210 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. Murray",
+      "line": "35 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Addison",
+      "line": "3 rec, 66 yds"
      }
     }
    },
@@ -8188,16 +8188,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Goff",
+      "line": "176 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Gibbs",
+      "line": "153 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Williams",
+      "line": "4 rec, 70 yds"
      }
     }
    }
@@ -8235,16 +8235,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Jones",
+      "line": "144 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "D. Giddens",
+      "line": "43 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "K. Allen",
+      "line": "7 rec, 67 yds"
      }
     }
    },
@@ -8261,16 +8261,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "T. Lawrence",
+      "line": "210 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Tuten",
+      "line": "104 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "B. Strange",
+      "line": "2 rec, 55 yds"
      }
     }
    }
@@ -8308,16 +8308,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "K. Cousins",
+      "line": "247 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "M. Jr.",
+      "line": "83 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "B. Bowers",
+      "line": "7 rec, 92 yds"
      }
     }
    },
@@ -8334,16 +8334,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "G. Smith",
+      "line": "290 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Allen",
+      "line": "147 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "A. Mitchell",
+      "line": "7 rec, 142 yds"
      }
     }
    }
@@ -8381,16 +8381,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Watson",
+      "line": "324 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "Q. Judkins",
+      "line": "25 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "H. Jr.",
+      "line": "10 rec, 154 yds"
      }
     }
    },
@@ -8407,16 +8407,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "A. Rodgers",
+      "line": "172 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Warren",
+      "line": "143 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Washington",
+      "line": "3 rec, 94 yds"
      }
     }
    }
@@ -8454,16 +8454,16 @@
     ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "M. Jr.",
+      "line": "125 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Robinson",
+      "line": "76 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Dotson",
+      "line": "2 rec, 95 yds"
      }
     }
    },
@@ -8484,8 +8484,8 @@
       "line": ""
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Irving",
+      "line": "170 yds, 1 TD"
      },
      "receiving": {
       "player": "",
@@ -8519,19 +8519,24 @@
     "name": "Chargers",
     "score": 9,
     "record": "0-7",
-    "linescore": null,
+    "linescore": [
+     3,
+     6,
+     0,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Herbert",
+      "line": "257 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. Vidal",
+      "line": "23 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "L. McConkey",
+      "line": "4 rec, 86 yds"
      }
     }
    },
@@ -8540,19 +8545,24 @@
     "name": "Rams",
     "score": 24,
     "record": "4-4",
-    "linescore": null,
+    "linescore": [
+     3,
+     7,
+     14,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "M. Stafford",
+      "line": "157 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Corum",
+      "line": "73 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "P. Nacua",
+      "line": "11 rec, 80 yds"
      }
     }
    }
@@ -8561,7 +8571,7 @@
    "game_id": "2026_08_KC_DEN",
    "season": 2026,
    "week": 8,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-01T16:25:00-04:00",
    "weekday": "Sunday",
    "venue": "Empower Field at Mile High",
@@ -8580,42 +8590,52 @@
    "away": {
     "code": "KC",
     "name": "Chiefs",
-    "score": null,
-    "record": "5-1",
-    "linescore": null,
+    "score": 24,
+    "record": "5-2",
+    "linescore": [
+     7,
+     10,
+     7,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "P. Mahomes",
+      "line": "321 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. III",
+      "line": "69 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "E. Johnson",
+      "line": "5 rec, 128 yds"
      }
     }
    },
    "home": {
     "code": "DEN",
     "name": "Broncos",
-    "score": null,
-    "record": "5-2",
-    "linescore": null,
+    "score": 28,
+    "record": "6-2",
+    "linescore": [
+     3,
+     10,
+     0,
+     15
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "B. Nix",
+      "line": "222 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Coleman",
+      "line": "41 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Coleman",
+      "line": "4 rec, 63 yds"
      }
     }
    }
@@ -8624,7 +8644,7 @@
    "game_id": "2026_08_NE_MIA",
    "season": 2026,
    "week": 8,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-01T16:25:00-04:00",
    "weekday": "Sunday",
    "venue": "Hard Rock Stadium",
@@ -8643,42 +8663,52 @@
    "away": {
     "code": "NE",
     "name": "Patriots",
-    "score": null,
-    "record": "4-3",
-    "linescore": null,
+    "score": 24,
+    "record": "5-3",
+    "linescore": [
+     3,
+     0,
+     14,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Maye",
+      "line": "199 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "R. Stevenson",
+      "line": "82 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Douglas",
+      "line": "3 rec, 76 yds"
      }
     }
    },
    "home": {
     "code": "MIA",
     "name": "Dolphins",
-    "score": null,
-    "record": "1-5",
-    "linescore": null,
+    "score": 19,
+    "record": "1-6",
+    "linescore": [
+     3,
+     10,
+     0,
+     6
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "M. Willis",
+      "line": "211 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "O. II",
+      "line": "69 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "K. Jr.",
+      "line": "3 rec, 46 yds"
      }
     }
    }
@@ -8687,7 +8717,7 @@
    "game_id": "2026_08_PHI_WAS",
    "season": 2026,
    "week": 8,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-01T20:20:00-04:00",
    "weekday": "Sunday",
    "venue": "Northwest Stadium",
@@ -8706,42 +8736,52 @@
    "away": {
     "code": "PHI",
     "name": "Eagles",
-    "score": null,
-    "record": "2-5",
-    "linescore": null,
+    "score": 10,
+    "record": "2-6",
+    "linescore": [
+     10,
+     0,
+     0,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "T. McKee",
+      "line": "212 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "E. Mitchell",
+      "line": "34 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Lemon",
+      "line": "6 rec, 57 yds"
      }
     }
    },
    "home": {
     "code": "WAS",
     "name": "Commanders",
-    "score": null,
-    "record": "1-4-1",
-    "linescore": null,
+    "score": 27,
+    "record": "2-4-1",
+    "linescore": [
+     3,
+     10,
+     3,
+     11
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Daniels",
+      "line": "217 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "R. White",
+      "line": "55 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "T. Burks",
+      "line": "3 rec, 81 yds"
      }
     }
    }
@@ -8823,8 +8863,8 @@
    "spread": {
     "favorite": "Jaguars",
     "favorite_code": "JAX",
-    "line": 7.5,
-    "display": "JAX -7.5"
+    "line": 8.5,
+    "display": "JAX -8.5"
    },
    "total": 43.5,
    "overtime": false,
@@ -8886,10 +8926,10 @@
    "spread": {
     "favorite": "Bengals",
     "favorite_code": "CIN",
-    "line": 3.5,
-    "display": "CIN -3.5"
+    "line": 3.0,
+    "display": "CIN -3"
    },
-   "total": 49.5,
+   "total": 51.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -8949,17 +8989,17 @@
    "spread": {
     "favorite": "Broncos",
     "favorite_code": "DEN",
-    "line": 2.5,
-    "display": "DEN -2.5"
+    "line": 3.0,
+    "display": "DEN -3"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9012,10 +9052,10 @@
    "spread": {
     "favorite": "Cowboys",
     "favorite_code": "DAL",
-    "line": 5.5,
-    "display": "DAL -5.5"
+    "line": 6.0,
+    "display": "DAL -6"
    },
-   "total": 52.5,
+   "total": 51.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9106,7 +9146,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9169,7 +9209,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9201,8 +9241,8 @@
    "spread": {
     "favorite": "Saints",
     "favorite_code": "NO",
-    "line": 2.5,
-    "display": "NO -2.5"
+    "line": 3.0,
+    "display": "NO -3"
    },
    "total": 43.5,
    "overtime": false,
@@ -9264,8 +9304,8 @@
    "spread": {
     "favorite": "Giants",
     "favorite_code": "NYG",
-    "line": 2.5,
-    "display": "NYG -2.5"
+    "line": 3.0,
+    "display": "NYG -3"
    },
    "total": 40.5,
    "overtime": false,
@@ -9295,7 +9335,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9358,7 +9398,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9390,10 +9430,10 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 3.5,
-    "display": "HOU -3.5"
+    "line": 5.5,
+    "display": "HOU -5.5"
    },
-   "total": 42.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9453,10 +9493,10 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 8.5,
-    "display": "SF -8.5"
+    "line": 9.5,
+    "display": "SF -9.5"
    },
-   "total": 50.5,
+   "total": 51.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9516,8 +9556,8 @@
    "spread": {
     "favorite": "Patriots",
     "favorite_code": "NE",
-    "line": 2.5,
-    "display": "NE -2.5"
+    "line": 3.0,
+    "display": "NE -3"
    },
    "total": 47.5,
    "overtime": false,
@@ -9547,7 +9587,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9642,10 +9682,10 @@
    "spread": {
     "favorite": "Bears",
     "favorite_code": "CHI",
-    "line": 6.0,
-    "display": "CHI -6"
+    "line": 5.5,
+    "display": "CHI -5.5"
    },
-   "total": 46.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9705,8 +9745,8 @@
    "spread": {
     "favorite": "Bills",
     "favorite_code": "BUF",
-    "line": 3.0,
-    "display": "BUF -3"
+    "line": 2.5,
+    "display": "BUF -2.5"
    },
    "total": 46.5,
    "overtime": false,
@@ -9773,7 +9813,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9831,7 +9871,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9889,7 +9929,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10063,7 +10103,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10643,7 +10683,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10954,7 +10994,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11128,7 +11168,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11186,7 +11226,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11302,7 +11342,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11455,7 +11495,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11513,7 +11553,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11571,7 +11611,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11882,7 +11922,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12035,7 +12075,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12151,7 +12191,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12267,7 +12307,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12673,7 +12713,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12731,7 +12771,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12789,7 +12829,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12810,7 +12850,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12926,7 +12966,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13100,7 +13140,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13390,7 +13430,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13427,7 +13467,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13506,7 +13546,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13564,7 +13604,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13659,7 +13699,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14028,7 +14068,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14181,7 +14221,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14550,7 +14590,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14703,7 +14743,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14819,7 +14859,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14840,7 +14880,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14898,7 +14938,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15014,7 +15054,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15304,7 +15344,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15341,7 +15381,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15457,7 +15497,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15652,7 +15692,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16095,7 +16135,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16153,7 +16193,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16232,7 +16272,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16269,7 +16309,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16290,7 +16330,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16617,7 +16657,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17044,7 +17084,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17276,7 +17316,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "5-1",
+    "record": "5-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17429,7 +17469,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-5",
+    "record": "1-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17450,7 +17490,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "4-3",
+    "record": "5-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17545,7 +17585,7 @@
     "code": "PHI",
     "name": "Eagles",
     "score": null,
-    "record": "2-5",
+    "record": "2-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17624,7 +17664,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "1-4-1",
+    "record": "2-4-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17669,19 +17709,19 @@
    "name": "Patriots",
    "conference": "AFC",
    "division": "AFC East",
-   "wins": 4,
+   "wins": 5,
    "losses": 3,
    "ties": 0,
-   "pct": 0.571,
-   "pf": 160,
-   "pa": 143,
-   "net": 17,
+   "pct": 0.625,
+   "pf": 184,
+   "pa": 162,
+   "net": 22,
    "home": "3-0",
-   "road": "1-3",
-   "div": "2-0",
-   "conf": "4-1",
-   "streak": "L1",
-   "record": "4-3",
+   "road": "2-3",
+   "div": "3-0",
+   "conf": "5-1",
+   "streak": "W1",
+   "record": "5-3",
    "rank_div": 2
   },
   {
@@ -18110,18 +18150,18 @@
    "conference": "AFC",
    "division": "AFC East",
    "wins": 1,
-   "losses": 5,
+   "losses": 6,
    "ties": 0,
-   "pct": 0.167,
-   "pf": 98,
-   "pa": 157,
-   "net": -59,
-   "home": "0-2",
+   "pct": 0.143,
+   "pf": 117,
+   "pa": 181,
+   "net": -64,
+   "home": "0-3",
    "road": "1-3",
-   "div": "1-0",
-   "conf": "1-3",
-   "streak": "W1",
-   "record": "1-5",
+   "div": "1-1",
+   "conf": "1-4",
+   "streak": "L1",
+   "record": "1-6",
    "rank_div": 4
   },
   {
@@ -18170,39 +18210,39 @@
    "conference": "NFC",
    "division": "NFC East",
    "wins": 2,
-   "losses": 5,
+   "losses": 6,
    "ties": 0,
-   "pct": 0.286,
-   "pf": 127,
-   "pa": 175,
-   "net": -48,
+   "pct": 0.25,
+   "pf": 137,
+   "pa": 202,
+   "net": -65,
    "home": "1-3",
-   "road": "1-2",
-   "div": "1-1",
-   "conf": "1-4",
-   "streak": "L5",
-   "record": "2-5",
-   "rank_div": 3
+   "road": "1-3",
+   "div": "1-2",
+   "conf": "1-5",
+   "streak": "L6",
+   "record": "2-6",
+   "rank_div": 4
   },
   {
    "code": "WAS",
    "name": "Commanders",
    "conference": "NFC",
    "division": "NFC East",
-   "wins": 1,
+   "wins": 2,
    "losses": 4,
    "ties": 1,
-   "pct": 0.25,
-   "pf": 132,
-   "pa": 172,
-   "net": -40,
-   "home": "1-1-1",
+   "pct": 0.357,
+   "pf": 159,
+   "pa": 182,
+   "net": -23,
+   "home": "2-1-1",
    "road": "0-3",
-   "div": "0-2-1",
-   "conf": "1-3-1",
-   "streak": "L1",
-   "record": "1-4-1",
-   "rank_div": 4
+   "div": "1-2-1",
+   "conf": "2-3-1",
+   "streak": "W1",
+   "record": "2-4-1",
+   "rank_div": 3
   },
   {
    "code": "NYG",
@@ -18250,39 +18290,39 @@
    "conference": "AFC",
    "division": "AFC West",
    "wins": 5,
-   "losses": 1,
+   "losses": 2,
    "ties": 0,
-   "pct": 0.833,
-   "pf": 143,
-   "pa": 103,
-   "net": 40,
+   "pct": 0.714,
+   "pf": 167,
+   "pa": 131,
+   "net": 36,
    "home": "3-0",
-   "road": "2-1",
-   "div": "3-0",
-   "conf": "5-0",
-   "streak": "L1",
-   "record": "5-1",
-   "rank_div": 1
+   "road": "2-2",
+   "div": "3-1",
+   "conf": "5-1",
+   "streak": "L2",
+   "record": "5-2",
+   "rank_div": 2
   },
   {
    "code": "DEN",
    "name": "Broncos",
    "conference": "AFC",
    "division": "AFC West",
-   "wins": 5,
+   "wins": 6,
    "losses": 2,
    "ties": 0,
-   "pct": 0.714,
-   "pf": 144,
-   "pa": 141,
-   "net": 3,
-   "home": "3-0",
+   "pct": 0.75,
+   "pf": 172,
+   "pa": 165,
+   "net": 7,
+   "home": "4-0",
    "road": "2-2",
-   "div": "1-1",
-   "conf": "2-1",
-   "streak": "W3",
-   "record": "5-2",
-   "rank_div": 2
+   "div": "2-1",
+   "conf": "3-1",
+   "streak": "W4",
+   "record": "6-2",
+   "rank_div": 1
   }
  ]
 }
