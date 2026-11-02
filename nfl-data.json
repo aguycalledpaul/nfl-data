@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-02T07:00:24Z",
+  "updated": "2026-11-02T17:37:37Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 8
@@ -9241,8 +9241,8 @@
    "spread": {
     "favorite": "Saints",
     "favorite_code": "NO",
-    "line": 3.0,
-    "display": "NO -3"
+    "line": 2.5,
+    "display": "NO -2.5"
    },
    "total": 43.5,
    "overtime": false,
@@ -9304,8 +9304,8 @@
    "spread": {
     "favorite": "Giants",
     "favorite_code": "NYG",
-    "line": 3.0,
-    "display": "NYG -3"
+    "line": 3.5,
+    "display": "NYG -3.5"
    },
    "total": 40.5,
    "overtime": false,
@@ -9370,7 +9370,7 @@
     "line": 5.5,
     "display": "LA -5.5"
    },
-   "total": 48.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9430,10 +9430,10 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 5.5,
-    "display": "HOU -5.5"
+    "line": 4.5,
+    "display": "HOU -4.5"
    },
-   "total": 41.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
