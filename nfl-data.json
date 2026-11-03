@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-02T17:37:37Z",
+  "updated": "2026-11-03T00:14:43Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 8
@@ -8863,10 +8863,10 @@
    "spread": {
     "favorite": "Jaguars",
     "favorite_code": "JAX",
-    "line": 8.5,
-    "display": "JAX -8.5"
+    "line": 10.0,
+    "display": "JAX -10"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -8929,7 +8929,7 @@
     "line": 3.0,
     "display": "CIN -3"
    },
-   "total": 51.5,
+   "total": 52.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9115,8 +9115,8 @@
    "spread": {
     "favorite": "Chiefs",
     "favorite_code": "KC",
-    "line": 10.0,
-    "display": "KC -10"
+    "line": 9.5,
+    "display": "KC -9.5"
    },
    "total": 46.5,
    "overtime": false,
@@ -9181,7 +9181,7 @@
     "line": 7.0,
     "display": "DET -7"
    },
-   "total": 49.5,
+   "total": 50.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9493,8 +9493,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 9.5,
-    "display": "SF -9.5"
+    "line": 10.0,
+    "display": "SF -10"
    },
    "total": 51.5,
    "overtime": false,
@@ -9559,7 +9559,7 @@
     "line": 3.0,
     "display": "NE -3"
    },
-   "total": 47.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9682,8 +9682,8 @@
    "spread": {
     "favorite": "Bears",
     "favorite_code": "CHI",
-    "line": 5.5,
-    "display": "CHI -5.5"
+    "line": 4.5,
+    "display": "CHI -4.5"
    },
    "total": 47.5,
    "overtime": false,
@@ -9745,8 +9745,8 @@
    "spread": {
     "favorite": "Bills",
     "favorite_code": "BUF",
-    "line": 2.5,
-    "display": "BUF -2.5"
+    "line": 3.5,
+    "display": "BUF -3.5"
    },
    "total": 46.5,
    "overtime": false,
