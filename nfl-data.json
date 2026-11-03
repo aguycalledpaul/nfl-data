@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-03T00:14:43Z",
+  "updated": "2026-11-03T16:22:40Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 8
@@ -56,7 +56,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 13,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": [
      0,
      0,
@@ -176,7 +176,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 59,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      14,
      17,
@@ -1445,7 +1445,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 3,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      3,
      0,
@@ -2005,7 +2005,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 31,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": [
      7,
      0,
@@ -3029,7 +3029,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 31,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": [
      0,
      10,
@@ -3493,7 +3493,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 27,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      7,
      3,
@@ -3858,7 +3858,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 23,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      7,
      6,
@@ -4442,7 +4442,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 30,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": [
      7,
      13,
@@ -4854,7 +4854,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 7,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      0,
      7,
@@ -5610,7 +5610,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 29,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": [
      7,
      6,
@@ -5807,7 +5807,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 14,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": [
      3,
      0,
@@ -5955,7 +5955,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 31,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      14,
      7,
@@ -6859,7 +6859,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 30,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      10,
      10,
@@ -7737,7 +7737,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 20,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": [
      0,
      10,
@@ -8790,7 +8790,7 @@
    "game_id": "2026_08_CHI_SEA",
    "season": 2026,
    "week": 8,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-02T20:15:00-04:00",
    "weekday": "Monday",
    "venue": "Lumen Field",
@@ -8809,42 +8809,52 @@
    "away": {
     "code": "CHI",
     "name": "Bears",
-    "score": null,
-    "record": "5-2",
-    "linescore": null,
+    "score": 34,
+    "record": "6-2",
+    "linescore": [
+     7,
+     6,
+     7,
+     14
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "C. Williams",
+      "line": "247 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "D. Swift",
+      "line": "69 yds, 3 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "R. Odunze",
+      "line": "4 rec, 87 yds"
      }
     }
    },
    "home": {
     "code": "SEA",
     "name": "Seahawks",
-    "score": null,
-    "record": "4-3",
-    "linescore": null,
+    "score": 17,
+    "record": "4-4",
+    "linescore": [
+     0,
+     9,
+     0,
+     8
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "S. Darnold",
+      "line": "188 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Price",
+      "line": "29 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Smith-Njigba",
+      "line": "6 rec, 118 yds"
      }
     }
    }
@@ -8863,8 +8873,8 @@
    "spread": {
     "favorite": "Jaguars",
     "favorite_code": "JAX",
-    "line": 10.0,
-    "display": "JAX -10"
+    "line": 9.5,
+    "display": "JAX -9.5"
    },
    "total": 42.5,
    "overtime": false,
@@ -8989,10 +8999,10 @@
    "spread": {
     "favorite": "Broncos",
     "favorite_code": "DEN",
-    "line": 3.0,
-    "display": "DEN -3"
+    "line": 2.5,
+    "display": "DEN -2.5"
    },
-   "total": 43.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9307,7 +9317,7 @@
     "line": 3.5,
     "display": "NYG -3.5"
    },
-   "total": 40.5,
+   "total": 39.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -9556,8 +9566,8 @@
    "spread": {
     "favorite": "Patriots",
     "favorite_code": "NE",
-    "line": 3.0,
-    "display": "NE -3"
+    "line": 2.5,
+    "display": "NE -2.5"
    },
    "total": 46.5,
    "overtime": false,
@@ -9619,10 +9629,10 @@
    "spread": {
     "favorite": "Seahawks",
     "favorite_code": "SEA",
-    "line": 11.5,
-    "display": "SEA -11.5"
+    "line": 10.5,
+    "display": "SEA -10.5"
    },
-   "total": 44.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -9650,7 +9660,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9682,10 +9692,10 @@
    "spread": {
     "favorite": "Bears",
     "favorite_code": "CHI",
-    "line": 4.5,
-    "display": "CHI -4.5"
+    "line": 6.0,
+    "display": "CHI -6"
    },
-   "total": 47.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9713,7 +9723,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9748,7 +9758,7 @@
     "line": 3.5,
     "display": "BUF -3.5"
    },
-   "total": 46.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10393,7 +10403,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10820,7 +10830,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11437,7 +11447,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12133,7 +12143,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12444,7 +12454,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13082,7 +13092,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13409,7 +13419,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13778,7 +13788,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14047,7 +14057,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14105,7 +14115,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14996,7 +15006,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15112,7 +15122,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15961,7 +15971,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16620,7 +16630,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17353,7 +17363,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-3",
+    "record": "4-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17411,7 +17421,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17690,18 +17700,18 @@
    "conference": "NFC",
    "division": "NFC West",
    "wins": 4,
-   "losses": 3,
+   "losses": 4,
    "ties": 0,
-   "pct": 0.571,
-   "pf": 168,
-   "pa": 125,
-   "net": 43,
-   "home": "3-1",
+   "pct": 0.5,
+   "pf": 185,
+   "pa": 159,
+   "net": 26,
+   "home": "3-2",
    "road": "1-2",
    "div": "1-1",
-   "conf": "1-2",
-   "streak": "W1",
-   "record": "4-3",
+   "conf": "1-3",
+   "streak": "L1",
+   "record": "4-4",
    "rank_div": 2
   },
   {
@@ -17789,19 +17799,19 @@
    "name": "Bears",
    "conference": "NFC",
    "division": "NFC North",
-   "wins": 5,
+   "wins": 6,
    "losses": 2,
    "ties": 0,
-   "pct": 0.714,
-   "pf": 180,
-   "pa": 143,
-   "net": 37,
+   "pct": 0.75,
+   "pf": 214,
+   "pa": 160,
+   "net": 54,
    "home": "3-1",
-   "road": "2-1",
+   "road": "3-1",
    "div": "0-2",
-   "conf": "3-2",
-   "streak": "W2",
-   "record": "5-2",
+   "conf": "4-2",
+   "streak": "W3",
+   "record": "6-2",
    "rank_div": 2
   },
   {
