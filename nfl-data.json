@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-06T12:37:32Z",
+  "updated": "2026-11-06T19:47:01Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 9
@@ -9135,10 +9135,10 @@
    "spread": {
     "favorite": "Chiefs",
     "favorite_code": "KC",
-    "line": 10.0,
-    "display": "KC -10"
+    "line": 9.5,
+    "display": "KC -9.5"
    },
-   "total": 47.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9198,8 +9198,8 @@
    "spread": {
     "favorite": "Lions",
     "favorite_code": "DET",
-    "line": 7.0,
-    "display": "DET -7"
+    "line": 6.5,
+    "display": "DET -6.5"
    },
    "total": 50.5,
    "overtime": false,
@@ -9390,7 +9390,7 @@
     "line": 4.5,
     "display": "LA -4.5"
    },
-   "total": 48.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
