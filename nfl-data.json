@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-06T04:29:48Z",
+  "updated": "2026-11-06T12:37:32Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 9
@@ -8884,19 +8884,24 @@
     "name": "Jaguars",
     "score": 33,
     "record": "6-2",
-    "linescore": null,
+    "linescore": [
+     10,
+     7,
+     3,
+     13
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "T. Lawrence",
+      "line": "242 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "A. Abdullah",
+      "line": "30 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Meyers",
+      "line": "4 rec, 65 yds"
      }
     }
    },
@@ -8905,19 +8910,24 @@
     "name": "Ravens",
     "score": 10,
     "record": "4-5",
-    "linescore": null,
+    "linescore": [
+     3,
+     0,
+     0,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Fagnano",
+      "line": "60 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Hill",
+      "line": "85 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Andrews",
+      "line": "2 rec, 19 yds"
      }
     }
    }
@@ -10319,8 +10329,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Jaguars",
+    "favorite_code": "JAX",
+    "line": 10.0,
+    "display": "JAX -10"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10624,8 +10639,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Ravens",
+    "favorite_code": "BAL",
+    "line": 1.5,
+    "display": "BAL -1.5"
+   },
+   "total": 37.5,
    "overtime": false,
    "div_game": false,
    "away": {
