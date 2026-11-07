@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-06T23:53:33Z",
+  "updated": "2026-11-07T03:56:19Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 9
@@ -9009,8 +9009,8 @@
    "spread": {
     "favorite": "Broncos",
     "favorite_code": "DEN",
-    "line": 2.5,
-    "display": "DEN -2.5"
+    "line": 3.0,
+    "display": "DEN -3"
    },
    "total": 44.5,
    "overtime": false,
@@ -9072,8 +9072,8 @@
    "spread": {
     "favorite": "Cowboys",
     "favorite_code": "DAL",
-    "line": 5.5,
-    "display": "DAL -5.5"
+    "line": 4.5,
+    "display": "DAL -4.5"
    },
    "total": 51.5,
    "overtime": false,
