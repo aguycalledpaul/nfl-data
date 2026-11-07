@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-07T16:41:52Z",
+  "updated": "2026-11-07T20:37:13Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 9
@@ -9009,8 +9009,8 @@
    "spread": {
     "favorite": "Broncos",
     "favorite_code": "DEN",
-    "line": 3.0,
-    "display": "DEN -3"
+    "line": 2.5,
+    "display": "DEN -2.5"
    },
    "total": 44.5,
    "overtime": false,
@@ -9135,10 +9135,10 @@
    "spread": {
     "favorite": "Chiefs",
     "favorite_code": "KC",
-    "line": 8.5,
-    "display": "KC -8.5"
+    "line": 9.5,
+    "display": "KC -9.5"
    },
-   "total": 47.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9261,8 +9261,8 @@
    "spread": {
     "favorite": "Saints",
     "favorite_code": "NO",
-    "line": 3.5,
-    "display": "NO -3.5"
+    "line": 3.0,
+    "display": "NO -3"
    },
    "total": 42.5,
    "overtime": false,
