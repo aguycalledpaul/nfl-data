@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-08T13:59:17Z",
+  "updated": "2026-11-08T18:42:42Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 9
@@ -275,7 +275,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 33,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      14,
      10,
@@ -616,7 +616,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 13,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      7,
      0,
@@ -1299,7 +1299,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 3,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      3,
@@ -1492,7 +1492,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 20,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      0,
      7,
@@ -2372,7 +2372,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 35,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      7,
      10,
@@ -2956,7 +2956,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 27,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      7,
      10,
@@ -3931,7 +3931,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 17,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      0,
      3,
@@ -4635,7 +4635,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 45,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      14,
      10,
@@ -4927,7 +4927,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 31,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      7,
      14,
@@ -5684,7 +5684,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 23,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      7,
      7,
@@ -5981,7 +5981,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 23,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      7,
@@ -7005,7 +7005,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 29,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      3,
      9,
@@ -7052,7 +7052,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 35,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      0,
      0,
@@ -8030,7 +8030,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 43,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": [
      0,
      14,
@@ -8445,7 +8445,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 0,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      0,
@@ -8936,11 +8936,11 @@
    "game_id": "2026_09_CIN_ATL",
    "season": 2026,
    "week": 9,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-08T09:30:00-04:00",
    "weekday": "Sunday",
    "venue": "Bernabeu",
-   "roof": null,
+   "roof": "closed",
    "network": "",
    "recap_url": "",
    "spread": {
@@ -8955,8 +8955,8 @@
    "away": {
     "code": "CIN",
     "name": "Bengals",
-    "score": null,
-    "record": "5-2",
+    "score": 34,
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -8976,8 +8976,8 @@
    "home": {
     "code": "ATL",
     "name": "Falcons",
-    "score": null,
-    "record": "3-5",
+    "score": 17,
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -9009,8 +9009,8 @@
    "spread": {
     "favorite": "Broncos",
     "favorite_code": "DEN",
-    "line": 2.5,
-    "display": "DEN -2.5"
+    "line": 3.0,
+    "display": "DEN -3"
    },
    "total": 44.5,
    "overtime": false,
@@ -9072,8 +9072,8 @@
    "spread": {
     "favorite": "Cowboys",
     "favorite_code": "DAL",
-    "line": 5.5,
-    "display": "DAL -5.5"
+    "line": 4.5,
+    "display": "DAL -4.5"
    },
    "total": 51.5,
    "overtime": false,
@@ -9138,7 +9138,7 @@
     "line": 9.5,
     "display": "KC -9.5"
    },
-   "total": 48.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9201,7 +9201,7 @@
     "line": 6.5,
     "display": "DET -6.5"
    },
-   "total": 50.5,
+   "total": 49.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9261,10 +9261,10 @@
    "spread": {
     "favorite": "Saints",
     "favorite_code": "NO",
-    "line": 3.0,
-    "display": "NO -3"
+    "line": 4.5,
+    "display": "NO -4.5"
    },
-   "total": 42.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9390,7 +9390,7 @@
     "line": 4.5,
     "display": "LA -4.5"
    },
-   "total": 47.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9513,8 +9513,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 9.5,
-    "display": "SF -9.5"
+    "line": 8.5,
+    "display": "SF -8.5"
    },
    "total": 51.5,
    "overtime": false,
@@ -9825,13 +9825,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Giants",
-    "favorite_code": "NYG",
-    "line": 1.5,
-    "display": "NYG -1.5"
-   },
-   "total": 44.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -9888,13 +9883,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Patriots",
-    "favorite_code": "NE",
-    "line": 1.5,
-    "display": "NE -1.5"
-   },
-   "total": 49.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9951,13 +9941,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Chiefs",
-    "favorite_code": "KC",
-    "line": 3.0,
-    "display": "KC -3"
-   },
-   "total": 46.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -9985,7 +9970,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10014,13 +9999,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Texans",
-    "favorite_code": "HOU",
-    "line": 4.5,
-    "display": "HOU -4.5"
-   },
-   "total": 39.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10077,13 +10057,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Packers",
-    "favorite_code": "GB",
-    "line": 3.0,
-    "display": "GB -3"
-   },
-   "total": 40.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10140,13 +10115,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Colts",
-    "favorite_code": "IND",
-    "line": 2.5,
-    "display": "IND -2.5"
-   },
-   "total": 43.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10203,13 +10173,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Panthers",
-    "favorite_code": "CAR",
-    "line": 1.5,
-    "display": "CAR -1.5"
-   },
-   "total": 47.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10266,13 +10231,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Bills",
-    "favorite_code": "BUF",
-    "line": 7.5,
-    "display": "BUF -7.5"
-   },
-   "total": 50.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10329,13 +10289,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Jaguars",
-    "favorite_code": "JAX",
-    "line": 10.0,
-    "display": "JAX -10"
-   },
-   "total": 45.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10392,13 +10347,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Rams",
-    "favorite_code": "LA",
-    "line": 8.5,
-    "display": "LA -8.5"
-   },
-   "total": 47.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10513,13 +10463,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "49ers",
-    "favorite_code": "SF",
-    "line": 3.5,
-    "display": "SF -3.5"
-   },
-   "total": 53.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10576,13 +10521,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Bengals",
-    "favorite_code": "CIN",
-    "line": 3.5,
-    "display": "CIN -3.5"
-   },
-   "total": 47.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10610,7 +10550,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10639,13 +10579,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Ravens",
-    "favorite_code": "BAL",
-    "line": 1.5,
-    "display": "BAL -1.5"
-   },
-   "total": 37.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11406,7 +11341,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11775,7 +11710,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12044,7 +11979,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12471,7 +12406,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12566,7 +12501,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13378,7 +13313,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13805,7 +13740,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14248,7 +14183,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14654,7 +14589,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15255,7 +15190,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15350,7 +15285,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15951,7 +15886,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16009,7 +15944,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17032,7 +16967,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17111,7 +17046,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "5-2",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17894,20 +17829,20 @@
    "name": "Bengals",
    "conference": "AFC",
    "division": "AFC North",
-   "wins": 5,
+   "wins": 6,
    "losses": 2,
    "ties": 0,
-   "pct": 0.714,
-   "pf": 206,
-   "pa": 158,
-   "net": 48,
+   "pct": 0.75,
+   "pf": 240,
+   "pa": 175,
+   "net": 65,
    "home": "2-1",
-   "road": "3-1",
+   "road": "4-1",
    "div": "1-1",
    "conf": "4-2",
-   "streak": "W3",
-   "record": "5-2",
-   "rank_div": 2
+   "streak": "W4",
+   "record": "6-2",
+   "rank_div": 1
   },
   {
    "code": "TB",
@@ -18107,7 +18042,7 @@
    "conf": "3-2",
    "streak": "W4",
    "record": "6-2",
-   "rank_div": 1
+   "rank_div": 2
   },
   {
    "code": "ATL",
@@ -18115,18 +18050,18 @@
    "conference": "NFC",
    "division": "NFC South",
    "wins": 3,
-   "losses": 5,
+   "losses": 6,
    "ties": 0,
-   "pct": 0.375,
-   "pf": 171,
-   "pa": 189,
-   "net": -18,
-   "home": "1-3",
+   "pct": 0.333,
+   "pf": 188,
+   "pa": 223,
+   "net": -35,
+   "home": "1-4",
    "road": "2-2",
    "div": "1-2",
    "conf": "3-3",
-   "streak": "L1",
-   "record": "3-5",
+   "streak": "L2",
+   "record": "3-6",
    "rank_div": 3
   },
   {
