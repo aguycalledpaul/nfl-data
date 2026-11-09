@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-08T22:36:38Z",
+  "updated": "2026-11-09T02:16:14Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 9
@@ -30,7 +30,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 10,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": [
      0,
      7,
@@ -56,7 +56,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 13,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": [
      0,
      0,
@@ -103,7 +103,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 27,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": [
      3,
      7,
@@ -423,7 +423,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 31,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": [
      7,
      14,
@@ -762,7 +762,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 26,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      7,
      6,
@@ -788,7 +788,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 14,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": [
      7,
      0,
@@ -861,7 +861,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 27,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": [
      7,
      10,
@@ -908,7 +908,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 22,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": [
      9,
      10,
@@ -1518,7 +1518,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 6,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": [
      0,
      3,
@@ -1591,7 +1591,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 20,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": [
      7,
      3,
@@ -1638,7 +1638,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 20,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": [
      0,
      7,
@@ -1932,7 +1932,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 26,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": [
      0,
      10,
@@ -1958,7 +1958,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 14,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": [
      0,
      7,
@@ -2005,7 +2005,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 31,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": [
      7,
      0,
@@ -2031,7 +2031,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 7,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      7,
@@ -2177,7 +2177,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 35,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": [
      7,
      7,
@@ -2398,7 +2398,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 14,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": [
      7,
      0,
@@ -2445,7 +2445,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 16,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": [
      10,
      0,
@@ -2664,7 +2664,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 17,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": [
      0,
      7,
@@ -2737,7 +2737,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 6,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": [
      0,
      3,
@@ -3029,7 +3029,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 31,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": [
      0,
      10,
@@ -3102,7 +3102,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 30,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      6,
@@ -3128,7 +3128,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 36,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": [
      7,
      10,
@@ -3321,7 +3321,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 35,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": [
      3,
      13,
@@ -3759,7 +3759,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 29,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": [
      7,
      7,
@@ -4004,7 +4004,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 30,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": [
      10,
      6,
@@ -4051,7 +4051,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 24,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      14,
      3,
@@ -4197,7 +4197,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 17,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": [
      0,
      10,
@@ -4369,7 +4369,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 27,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": [
      7,
      6,
@@ -4416,7 +4416,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 23,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": [
      3,
      3,
@@ -4442,7 +4442,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 30,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": [
      7,
      13,
@@ -4515,7 +4515,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 24,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": [
      0,
      3,
@@ -4880,7 +4880,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 31,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": [
      7,
      7,
@@ -5000,7 +5000,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 17,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": [
      7,
      0,
@@ -5026,7 +5026,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 45,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": [
      14,
      7,
@@ -5292,7 +5292,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 26,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": [
      3,
      9,
@@ -5464,7 +5464,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 17,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": [
      0,
      3,
@@ -5537,7 +5537,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 21,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      7,
      0,
@@ -5584,7 +5584,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 32,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": [
      7,
      14,
@@ -5610,7 +5610,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 29,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": [
      7,
      6,
@@ -5807,7 +5807,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 14,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": [
      3,
      0,
@@ -5882,7 +5882,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 34,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": [
      7,
      10,
@@ -6200,7 +6200,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 26,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": [
      7,
      10,
@@ -6468,7 +6468,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 18,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      3,
      6,
@@ -6541,7 +6541,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 6,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": [
      3,
      0,
@@ -6640,7 +6640,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 30,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": [
      7,
      6,
@@ -6713,7 +6713,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 23,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": [
      7,
      10,
@@ -6786,7 +6786,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 23,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": [
      13,
      7,
@@ -6833,7 +6833,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 24,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": [
      0,
      14,
@@ -6979,7 +6979,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 20,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": [
      7,
      7,
@@ -7225,7 +7225,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 21,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": [
      3,
      11,
@@ -7518,7 +7518,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 16,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      6,
@@ -7565,7 +7565,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 17,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": [
      7,
      0,
@@ -7664,7 +7664,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 21,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": [
      3,
      3,
@@ -7737,7 +7737,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 20,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": [
      0,
      10,
@@ -7883,7 +7883,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 27,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": [
      6,
      14,
@@ -8078,7 +8078,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 33,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      3,
@@ -8299,7 +8299,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 38,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": [
      7,
      7,
@@ -8518,7 +8518,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 9,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": [
      3,
      6,
@@ -8664,7 +8664,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 24,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": [
      3,
      0,
@@ -8836,7 +8836,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 17,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": [
      0,
      9,
@@ -9522,7 +9522,7 @@
    "game_id": "2026_09_HOU_LAC",
    "season": 2026,
    "week": 9,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-08T16:05:00-04:00",
    "weekday": "Sunday",
    "venue": "SoFi Stadium",
@@ -9541,42 +9541,52 @@
    "away": {
     "code": "HOU",
     "name": "Texans",
-    "score": null,
-    "record": "2-5",
-    "linescore": null,
+    "score": 44,
+    "record": "3-5",
+    "linescore": [
+     10,
+     14,
+     7,
+     13
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "C. Stroud",
+      "line": "384 yds, 5 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "W. Marks",
+      "line": "70 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "K. Boutte",
+      "line": "4 rec, 125 yds"
      }
     }
    },
    "home": {
     "code": "LAC",
     "name": "Chargers",
-    "score": null,
-    "record": "0-7",
-    "linescore": null,
+    "score": 22,
+    "record": "0-8",
+    "linescore": [
+     3,
+     6,
+     0,
+     13
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Herbert",
+      "line": "193 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "O. Hampton",
+      "line": "60 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "Q. Johnston",
+      "line": "1 rec, 58 yds"
      }
     }
    }
@@ -9585,7 +9595,7 @@
    "game_id": "2026_09_LV_SF",
    "season": 2026,
    "week": 9,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-08T16:05:00-04:00",
    "weekday": "Sunday",
    "venue": "Levi's Stadium",
@@ -9604,42 +9614,52 @@
    "away": {
     "code": "LV",
     "name": "Raiders",
-    "score": null,
-    "record": "4-4",
-    "linescore": null,
+    "score": 17,
+    "record": "4-5",
+    "linescore": [
+     0,
+     10,
+     7,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "K. Cousins",
+      "line": "216 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "A. Jeanty",
+      "line": "25 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "B. Bowers",
+      "line": "7 rec, 111 yds"
      }
     }
    },
    "home": {
     "code": "SF",
     "name": "49ers",
-    "score": null,
-    "record": "6-1",
-    "linescore": null,
+    "score": 38,
+    "record": "7-1",
+    "linescore": [
+     14,
+     7,
+     14,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "B. Purdy",
+      "line": "232 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. Black",
+      "line": "70 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Watkins",
+      "line": "4 rec, 86 yds"
      }
     }
    }
@@ -9648,7 +9668,7 @@
    "game_id": "2026_09_GB_NE",
    "season": 2026,
    "week": 9,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-08T16:25:00-04:00",
    "weekday": "Sunday",
    "venue": "Gillette Stadium",
@@ -9667,42 +9687,52 @@
    "away": {
     "code": "GB",
     "name": "Packers",
-    "score": null,
-    "record": "5-3",
-    "linescore": null,
+    "score": 45,
+    "record": "6-3",
+    "linescore": [
+     14,
+     10,
+     18,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Love",
+      "line": "372 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. Johnson",
+      "line": "68 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "C. Watson",
+      "line": "7 rec, 171 yds"
      }
     }
    },
    "home": {
     "code": "NE",
     "name": "Patriots",
-    "score": null,
-    "record": "5-3",
-    "linescore": null,
+    "score": 27,
+    "record": "5-4",
+    "linescore": [
+     0,
+     14,
+     7,
+     6
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Maye",
+      "line": "299 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. Kiner",
+      "line": "55 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Douglas",
+      "line": "5 rec, 102 yds"
      }
     }
    }
@@ -9711,7 +9741,7 @@
    "game_id": "2026_09_ARI_SEA",
    "season": 2026,
    "week": 9,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-08T16:25:00-04:00",
    "weekday": "Sunday",
    "venue": "Lumen Field",
@@ -9730,42 +9760,52 @@
    "away": {
     "code": "ARI",
     "name": "Cardinals",
-    "score": null,
-    "record": "3-5",
-    "linescore": null,
+    "score": 3,
+    "record": "3-6",
+    "linescore": [
+     3,
+     0,
+     0,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "G. Minshew",
+      "line": "166 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "T. Allgeier",
+      "line": "46 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Wilson",
+      "line": "6 rec, 60 yds"
      }
     }
    },
    "home": {
     "code": "SEA",
     "name": "Seahawks",
-    "score": null,
-    "record": "4-4",
-    "linescore": null,
+    "score": 17,
+    "record": "5-4",
+    "linescore": [
+     0,
+     14,
+     3,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Lock",
+      "line": "175 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "Z. Charbonnet",
+      "line": "77 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Price",
+      "line": "4 rec, 54 yds"
      }
     }
    }
@@ -9784,8 +9824,8 @@
    "spread": {
     "favorite": "Bears",
     "favorite_code": "CHI",
-    "line": 6.0,
-    "display": "CHI -6"
+    "line": 6.5,
+    "display": "CHI -6.5"
    },
    "total": 47.5,
    "overtime": false,
@@ -9907,8 +9947,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Giants",
+    "favorite_code": "NYG",
+    "line": 1.5,
+    "display": "NYG -1.5"
+   },
+   "total": 42.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -9965,15 +10010,20 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Lions",
+    "favorite_code": "DET",
+    "line": 2.5,
+    "display": "DET -2.5"
+   },
+   "total": 50.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10023,8 +10073,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Chiefs",
+    "favorite_code": "KC",
+    "line": 3.0,
+    "display": "KC -3"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10081,15 +10136,20 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Texans",
+    "favorite_code": "HOU",
+    "line": 4.5,
+    "display": "HOU -4.5"
+   },
+   "total": 38.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10139,8 +10199,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Packers",
+    "favorite_code": "GB",
+    "line": 3.0,
+    "display": "GB -3"
+   },
+   "total": 42.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10168,7 +10233,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10197,8 +10262,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Colts",
+    "favorite_code": "IND",
+    "line": 2.5,
+    "display": "IND -2.5"
+   },
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10255,8 +10325,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Panthers",
+    "favorite_code": "CAR",
+    "line": 1.5,
+    "display": "CAR -1.5"
+   },
+   "total": 47.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10313,8 +10388,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bills",
+    "favorite_code": "BUF",
+    "line": 8.5,
+    "display": "BUF -8.5"
+   },
+   "total": 50.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10371,8 +10451,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Jaguars",
+    "favorite_code": "JAX",
+    "line": 10.0,
+    "display": "JAX -10"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10429,8 +10514,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Rams",
+    "favorite_code": "LA",
+    "line": 7.5,
+    "display": "LA -7.5"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10458,7 +10548,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10487,15 +10577,20 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Seahawks",
+    "favorite_code": "SEA",
+    "line": 3.5,
+    "display": "SEA -3.5"
+   },
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10516,7 +10611,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10545,15 +10640,20 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "49ers",
+    "favorite_code": "SF",
+    "line": 4.5,
+    "display": "SF -4.5"
+   },
+   "total": 55.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10603,8 +10703,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bengals",
+    "favorite_code": "CIN",
+    "line": 3.5,
+    "display": "CIN -3.5"
+   },
+   "total": 48.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10661,15 +10766,20 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Ravens",
+    "favorite_code": "BAL",
+    "line": 3.5,
+    "display": "BAL -3.5"
+   },
+   "total": 38.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10748,7 +10858,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11075,7 +11185,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11212,7 +11322,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11249,7 +11359,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11386,7 +11496,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11481,7 +11591,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11829,7 +11939,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11908,7 +12018,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12198,7 +12308,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12235,7 +12345,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12256,7 +12366,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12293,7 +12403,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12314,7 +12424,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12641,7 +12751,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12699,7 +12809,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12757,7 +12867,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12894,7 +13004,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13068,7 +13178,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13105,7 +13215,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13184,7 +13294,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13242,7 +13352,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13685,7 +13795,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13743,7 +13853,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13764,7 +13874,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13880,7 +13990,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13938,7 +14048,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13996,7 +14106,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14091,7 +14201,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14112,7 +14222,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14149,7 +14259,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14344,7 +14454,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14402,7 +14512,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14750,7 +14860,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14866,7 +14976,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14961,7 +15071,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15019,7 +15129,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15077,7 +15187,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15214,7 +15324,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15425,7 +15535,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15541,7 +15651,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15599,7 +15709,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15736,7 +15846,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15773,7 +15883,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16063,7 +16173,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16316,7 +16426,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16432,7 +16542,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16643,7 +16753,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16664,7 +16774,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16780,7 +16890,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16817,7 +16927,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16838,7 +16948,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16875,7 +16985,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16896,7 +17006,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17165,7 +17275,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-7",
+    "record": "0-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17244,7 +17354,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "5-3",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17302,7 +17412,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "2-5",
+    "record": "3-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17397,7 +17507,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-4",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17455,7 +17565,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "4-4",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17592,7 +17702,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-3",
+    "record": "5-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17791,20 +17901,20 @@
    "name": "Seahawks",
    "conference": "NFC",
    "division": "NFC West",
-   "wins": 4,
+   "wins": 5,
    "losses": 4,
    "ties": 0,
-   "pct": 0.5,
-   "pf": 185,
-   "pa": 159,
-   "net": 26,
-   "home": "3-2",
+   "pct": 0.556,
+   "pf": 202,
+   "pa": 162,
+   "net": 40,
+   "home": "4-2",
    "road": "1-2",
-   "div": "1-1",
-   "conf": "1-3",
-   "streak": "L1",
-   "record": "4-4",
-   "rank_div": 3
+   "div": "2-1",
+   "conf": "2-3",
+   "streak": "W1",
+   "record": "5-4",
+   "rank_div": 2
   },
   {
    "code": "NE",
@@ -17812,18 +17922,18 @@
    "conference": "AFC",
    "division": "AFC East",
    "wins": 5,
-   "losses": 3,
+   "losses": 4,
    "ties": 0,
-   "pct": 0.625,
-   "pf": 184,
-   "pa": 162,
-   "net": 22,
-   "home": "3-0",
+   "pct": 0.556,
+   "pf": 211,
+   "pa": 207,
+   "net": 4,
+   "home": "3-1",
    "road": "2-3",
    "div": "3-0",
    "conf": "5-1",
-   "streak": "W1",
-   "record": "5-3",
+   "streak": "L1",
+   "record": "5-4",
    "rank_div": 2
   },
   {
@@ -17844,26 +17954,26 @@
    "conf": "3-2",
    "streak": "W3",
    "record": "5-4",
-   "rank_div": 2
+   "rank_div": 3
   },
   {
    "code": "SF",
    "name": "49ers",
    "conference": "NFC",
    "division": "NFC West",
-   "wins": 6,
+   "wins": 7,
    "losses": 1,
    "ties": 0,
-   "pct": 0.857,
-   "pf": 197,
-   "pa": 139,
-   "net": 58,
-   "home": "4-0",
+   "pct": 0.875,
+   "pf": 235,
+   "pa": 156,
+   "net": 79,
+   "home": "5-0",
    "road": "2-1",
    "div": "3-0",
    "conf": "4-1",
-   "streak": "L1",
-   "record": "6-1",
+   "streak": "W1",
+   "record": "7-1",
    "rank_div": 1
   },
   {
@@ -17991,19 +18101,19 @@
    "name": "Texans",
    "conference": "AFC",
    "division": "AFC South",
-   "wins": 2,
+   "wins": 3,
    "losses": 5,
    "ties": 0,
-   "pct": 0.286,
-   "pf": 165,
-   "pa": 170,
-   "net": -5,
+   "pct": 0.375,
+   "pf": 209,
+   "pa": 192,
+   "net": 17,
    "home": "0-4",
-   "road": "2-1",
+   "road": "3-1",
    "div": "2-1",
-   "conf": "2-3",
-   "streak": "L1",
-   "record": "2-5",
+   "conf": "3-3",
+   "streak": "W1",
+   "record": "3-5",
    "rank_div": 2
   },
   {
@@ -18192,18 +18302,18 @@
    "conference": "AFC",
    "division": "AFC West",
    "wins": 0,
-   "losses": 7,
+   "losses": 8,
    "ties": 0,
    "pct": 0.0,
-   "pf": 99,
-   "pa": 175,
-   "net": -76,
-   "home": "0-3",
+   "pf": 121,
+   "pa": 219,
+   "net": -98,
+   "home": "0-4",
    "road": "0-4",
    "div": "0-3",
-   "conf": "0-4",
-   "streak": "L7",
-   "record": "0-7",
+   "conf": "0-5",
+   "streak": "L8",
+   "record": "0-8",
    "rank_div": 4
   },
   {
@@ -18212,18 +18322,18 @@
    "conference": "NFC",
    "division": "NFC West",
    "wins": 3,
-   "losses": 5,
+   "losses": 6,
    "ties": 0,
-   "pct": 0.375,
-   "pf": 175,
-   "pa": 238,
-   "net": -63,
+   "pct": 0.333,
+   "pf": 178,
+   "pa": 255,
+   "net": -77,
    "home": "0-3",
-   "road": "3-2",
-   "div": "1-2",
-   "conf": "2-4",
-   "streak": "W1",
-   "record": "3-5",
+   "road": "3-3",
+   "div": "1-3",
+   "conf": "2-5",
+   "streak": "L1",
+   "record": "3-6",
    "rank_div": 4
   },
   {
@@ -18232,18 +18342,18 @@
    "conference": "AFC",
    "division": "AFC West",
    "wins": 4,
-   "losses": 4,
+   "losses": 5,
    "ties": 0,
-   "pct": 0.5,
-   "pf": 221,
-   "pa": 230,
-   "net": -9,
+   "pct": 0.444,
+   "pf": 238,
+   "pa": 268,
+   "net": -30,
    "home": "1-3",
-   "road": "3-1",
+   "road": "3-2",
    "div": "1-1",
    "conf": "3-3",
-   "streak": "W1",
-   "record": "4-4",
+   "streak": "L1",
+   "record": "4-5",
    "rank_div": 3
   },
   {
@@ -18291,19 +18401,19 @@
    "name": "Packers",
    "conference": "NFC",
    "division": "NFC North",
-   "wins": 5,
+   "wins": 6,
    "losses": 3,
    "ties": 0,
-   "pct": 0.625,
-   "pf": 171,
-   "pa": 164,
-   "net": 7,
+   "pct": 0.667,
+   "pf": 216,
+   "pa": 191,
+   "net": 25,
    "home": "3-1",
-   "road": "2-2",
+   "road": "3-2",
    "div": "1-2",
    "conf": "4-3",
-   "streak": "W1",
-   "record": "5-3",
+   "streak": "W2",
+   "record": "6-3",
    "rank_div": 4
   },
   {
