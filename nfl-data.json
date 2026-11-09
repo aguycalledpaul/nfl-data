@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-09T02:16:14Z",
+  "updated": "2026-11-09T10:43:28Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 9
@@ -176,7 +176,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 59,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      14,
      17,
@@ -249,7 +249,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": 27,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      3,
      7,
@@ -1445,7 +1445,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 3,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      3,
      0,
@@ -1739,7 +1739,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": 19,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      6,
      3,
@@ -3201,7 +3201,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": 16,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      7,
      3,
@@ -3493,7 +3493,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 27,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      7,
      3,
@@ -3858,7 +3858,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 23,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      7,
      6,
@@ -4223,7 +4223,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": 14,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      7,
@@ -4708,7 +4708,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": 24,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      7,
@@ -4854,7 +4854,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 7,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      7,
@@ -5955,7 +5955,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 31,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      14,
      7,
@@ -6420,7 +6420,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": 19,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      3,
      10,
@@ -6859,7 +6859,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 30,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      10,
      10,
@@ -7125,7 +7125,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": 43,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      7,
      26,
@@ -8471,7 +8471,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": 16,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      6,
      3,
@@ -8810,7 +8810,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": 34,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      7,
      6,
@@ -9814,7 +9814,7 @@
    "game_id": "2026_09_TB_CHI",
    "season": 2026,
    "week": 9,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-08T20:20:00-04:00",
    "weekday": "Sunday",
    "venue": "Soldier Field",
@@ -9833,42 +9833,52 @@
    "away": {
     "code": "TB",
     "name": "Buccaneers",
-    "score": null,
-    "record": "3-5",
-    "linescore": null,
+    "score": 24,
+    "record": "3-6",
+    "linescore": [
+     0,
+     6,
+     7,
+     11
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "B. Mayfield",
+      "line": "243 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Irving",
+      "line": "97 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "T. Johnson",
+      "line": "2 rec, 76 yds"
      }
     }
    },
    "home": {
     "code": "CHI",
     "name": "Bears",
-    "score": null,
-    "record": "6-2",
-    "linescore": null,
+    "score": 27,
+    "record": "7-2",
+    "linescore": [
+     14,
+     3,
+     7,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "C. Williams",
+      "line": "279 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "D. Swift",
+      "line": "31 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "L. III",
+      "line": "7 rec, 97 yds"
      }
     }
    }
@@ -9953,7 +9963,7 @@
     "line": 1.5,
     "display": "NYG -1.5"
    },
-   "total": 42.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10016,7 +10026,7 @@
     "line": 2.5,
     "display": "DET -2.5"
    },
-   "total": 50.5,
+   "total": 51.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10076,10 +10086,10 @@
    "spread": {
     "favorite": "Chiefs",
     "favorite_code": "KC",
-    "line": 3.0,
-    "display": "KC -3"
+    "line": 3.5,
+    "display": "KC -3.5"
    },
-   "total": 46.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10142,7 +10152,7 @@
     "line": 4.5,
     "display": "HOU -4.5"
    },
-   "total": 38.5,
+   "total": 39.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10268,7 +10278,7 @@
     "line": 2.5,
     "display": "IND -2.5"
    },
-   "total": 42.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10326,10 +10336,10 @@
    "network": "",
    "recap_url": "",
    "spread": {
-    "favorite": "Panthers",
-    "favorite_code": "CAR",
+    "favorite": "Saints",
+    "favorite_code": "NO",
     "line": 1.5,
-    "display": "CAR -1.5"
+    "display": "NO -1.5"
    },
    "total": 47.5,
    "overtime": false,
@@ -10391,10 +10401,10 @@
    "spread": {
     "favorite": "Bills",
     "favorite_code": "BUF",
-    "line": 8.5,
-    "display": "BUF -8.5"
+    "line": 7.5,
+    "display": "BUF -7.5"
    },
-   "total": 50.5,
+   "total": 51.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10454,10 +10464,10 @@
    "spread": {
     "favorite": "Jaguars",
     "favorite_code": "JAX",
-    "line": 10.0,
-    "display": "JAX -10"
+    "line": 9.5,
+    "display": "JAX -9.5"
    },
-   "total": 45.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10517,10 +10527,10 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 7.5,
-    "display": "LA -7.5"
+    "line": 7.0,
+    "display": "LA -7"
    },
-   "total": 46.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10580,8 +10590,8 @@
    "spread": {
     "favorite": "Seahawks",
     "favorite_code": "SEA",
-    "line": 3.5,
-    "display": "SEA -3.5"
+    "line": 3.0,
+    "display": "SEA -3"
    },
    "total": 43.5,
    "overtime": false,
@@ -10643,8 +10653,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 4.5,
-    "display": "SF -4.5"
+    "line": 3.5,
+    "display": "SF -3.5"
    },
    "total": 55.5,
    "overtime": false,
@@ -10709,7 +10719,7 @@
     "line": 3.5,
     "display": "CIN -3.5"
    },
-   "total": 48.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10769,8 +10779,8 @@
    "spread": {
     "favorite": "Ravens",
     "favorite_code": "BAL",
-    "line": 3.5,
-    "display": "BAL -3.5"
+    "line": 5.5,
+    "display": "BAL -5.5"
    },
    "total": 38.5,
    "overtime": false,
@@ -11032,7 +11042,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11127,7 +11137,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11649,7 +11659,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12482,7 +12492,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12656,7 +12666,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12888,7 +12898,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13389,7 +13399,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13621,7 +13631,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14317,7 +14327,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14686,7 +14696,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15208,7 +15218,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15361,7 +15371,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16658,7 +16668,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16832,7 +16842,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17623,7 +17633,7 @@
     "code": "CHI",
     "name": "Bears",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17739,7 +17749,7 @@
     "code": "TB",
     "name": "Buccaneers",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17994,26 +18004,26 @@
    "conf": "3-3",
    "streak": "L3",
    "record": "3-5",
-   "rank_div": 2
+   "rank_div": 1
   },
   {
    "code": "CHI",
    "name": "Bears",
    "conference": "NFC",
    "division": "NFC North",
-   "wins": 6,
+   "wins": 7,
    "losses": 2,
    "ties": 0,
-   "pct": 0.75,
-   "pf": 214,
-   "pa": 160,
-   "net": 54,
-   "home": "3-1",
+   "pct": 0.778,
+   "pf": 241,
+   "pa": 184,
+   "net": 57,
+   "home": "4-1",
    "road": "3-1",
    "div": "0-2",
-   "conf": "4-2",
-   "streak": "W3",
-   "record": "6-2",
+   "conf": "5-2",
+   "streak": "W4",
+   "record": "7-2",
    "rank_div": 2
   },
   {
@@ -18042,19 +18052,19 @@
    "conference": "NFC",
    "division": "NFC South",
    "wins": 3,
-   "losses": 5,
+   "losses": 6,
    "ties": 0,
-   "pct": 0.375,
-   "pf": 178,
-   "pa": 151,
-   "net": 27,
+   "pct": 0.333,
+   "pf": 202,
+   "pa": 178,
+   "net": 24,
    "home": "1-4",
-   "road": "2-1",
+   "road": "2-2",
    "div": "2-0",
-   "conf": "3-2",
-   "streak": "W2",
-   "record": "3-5",
-   "rank_div": 1
+   "conf": "3-3",
+   "streak": "L1",
+   "record": "3-6",
+   "rank_div": 3
   },
   {
    "code": "DET",
@@ -18094,7 +18104,7 @@
    "conf": "1-3",
    "streak": "W1",
    "record": "3-5",
-   "rank_div": 3
+   "rank_div": 2
   },
   {
    "code": "HOU",
