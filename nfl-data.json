@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-10T03:54:37Z",
+  "updated": "2026-11-10T16:29:49Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 9
@@ -397,7 +397,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 36,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": [
      3,
      21,
@@ -934,7 +934,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 39,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": [
      3,
      7,
@@ -1226,7 +1226,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 41,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": [
      14,
      13,
@@ -1419,7 +1419,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 9,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": [
      3,
      3,
@@ -2471,7 +2471,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 24,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": [
      0,
      10,
@@ -3175,7 +3175,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 23,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": [
      10,
      7,
@@ -3785,7 +3785,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 26,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": [
      0,
      17,
@@ -4296,7 +4296,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 15,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": [
      3,
      6,
@@ -5073,7 +5073,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 23,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": [
      3,
      3,
@@ -5732,7 +5732,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 37,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": [
      6,
      7,
@@ -6614,7 +6614,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 33,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": [
      3,
      10,
@@ -7299,7 +7299,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 16,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": [
      0,
      6,
@@ -7956,7 +7956,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 36,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": [
      10,
      6,
@@ -8153,7 +8153,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 15,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": [
      0,
      7,
@@ -9887,7 +9887,7 @@
    "game_id": "2026_09_BUF_MIN",
    "season": 2026,
    "week": 9,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-09T20:15:00-04:00",
    "weekday": "Monday",
    "venue": "U.S. Bank Stadium",
@@ -9906,42 +9906,52 @@
    "away": {
     "code": "BUF",
     "name": "Bills",
-    "score": null,
-    "record": "6-1",
-    "linescore": null,
+    "score": 23,
+    "record": "7-1",
+    "linescore": [
+     3,
+     7,
+     3,
+     10
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Allen",
+      "line": "234 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Cook",
+      "line": "107 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "K. Shakir",
+      "line": "4 rec, 58 yds"
      }
     }
    },
    "home": {
     "code": "MIN",
     "name": "Vikings",
-    "score": null,
-    "record": "6-1",
-    "linescore": null,
+    "score": 6,
+    "record": "6-2",
+    "linescore": [
+     0,
+     6,
+     0,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "C. Wentz",
+      "line": "81 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Mason",
+      "line": "35 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Jefferson",
+      "line": "3 rec, 58 yds"
      }
     }
    }
@@ -9963,7 +9973,7 @@
     "line": 2.5,
     "display": "NYG -2.5"
    },
-   "total": 42.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10209,15 +10219,20 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Packers",
+    "favorite_code": "GB",
+    "line": 4.5,
+    "display": "GB -4.5"
+   },
+   "total": 42.5,
    "overtime": false,
    "div_game": true,
    "away": {
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10336,7 +10351,7 @@
     "line": 1.5,
     "display": "NO -1.5"
    },
-   "total": 47.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10393,15 +10408,20 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bills",
+    "favorite_code": "BUF",
+    "line": 8.5,
+    "display": "BUF -8.5"
+   },
+   "total": 50.5,
    "overtime": false,
    "div_game": true,
    "away": {
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10454,8 +10474,8 @@
    "spread": {
     "favorite": "Jaguars",
     "favorite_code": "JAX",
-    "line": 10.0,
-    "display": "JAX -10"
+    "line": 10.5,
+    "display": "JAX -10.5"
    },
    "total": 46.5,
    "overtime": false,
@@ -10643,8 +10663,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 3.5,
-    "display": "SF -3.5"
+    "line": 4.5,
+    "display": "SF -4.5"
    },
    "total": 55.5,
    "overtime": false,
@@ -10916,7 +10936,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11475,7 +11495,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11786,7 +11806,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12192,7 +12212,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13120,7 +13140,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13157,7 +13177,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13331,7 +13351,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14085,7 +14105,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14338,7 +14358,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15034,7 +15054,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15245,7 +15265,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15614,7 +15634,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16463,7 +16483,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16579,7 +16599,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17122,7 +17142,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "6-1",
+    "record": "7-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17644,7 +17664,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-1",
+    "record": "6-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -18014,7 +18034,7 @@
    "conf": "5-2",
    "streak": "W4",
    "record": "7-2",
-   "rank_div": 2
+   "rank_div": 1
   },
   {
    "code": "CIN",
@@ -18074,7 +18094,7 @@
    "conf": "4-1",
    "streak": "W4",
    "record": "6-2",
-   "rank_div": 3
+   "rank_div": 2
   },
   {
    "code": "NO",
@@ -18121,19 +18141,19 @@
    "name": "Bills",
    "conference": "AFC",
    "division": "AFC East",
-   "wins": 6,
+   "wins": 7,
    "losses": 1,
    "ties": 0,
-   "pct": 0.857,
-   "pf": 233,
-   "pa": 181,
-   "net": 52,
+   "pct": 0.875,
+   "pf": 256,
+   "pa": 187,
+   "net": 69,
    "home": "3-1",
-   "road": "3-0",
+   "road": "4-0",
    "div": "0-1",
    "conf": "4-1",
-   "streak": "W3",
-   "record": "6-1",
+   "streak": "W4",
+   "record": "7-1",
    "rank_div": 1
   },
   {
@@ -18382,19 +18402,19 @@
    "conference": "NFC",
    "division": "NFC North",
    "wins": 6,
-   "losses": 1,
+   "losses": 2,
    "ties": 0,
-   "pct": 0.857,
-   "pf": 140,
-   "pa": 93,
-   "net": 47,
-   "home": "3-0",
+   "pct": 0.75,
+   "pf": 146,
+   "pa": 116,
+   "net": 30,
+   "home": "3-1",
    "road": "3-1",
    "div": "2-1",
    "conf": "4-1",
-   "streak": "L1",
-   "record": "6-1",
-   "rank_div": 1
+   "streak": "L2",
+   "record": "6-2",
+   "rank_div": 3
   },
   {
    "code": "GB",
