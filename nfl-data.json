@@ -1,9 +1,9 @@
 {
  "meta": {
-  "updated": "2026-11-10T16:29:49Z",
+  "updated": "2026-11-13T04:25:00Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
-  "current_week": 9
+  "current_week": 10
  },
  "games": [
   {
@@ -9362,7 +9362,7 @@
       "line": "265 yds, 1 TD"
      },
      "rushing": {
-      "player": "A. Estimé",
+      "player": "A. Estime",
       "line": "72 yds, 1 TD"
      },
      "receiving": {
@@ -9505,7 +9505,7 @@
     "leaders": {
      "passing": {
       "player": "J. Daniels",
-      "line": "273 yds, 1 TD"
+      "line": "274 yds, 1 TD"
      },
      "rushing": {
       "player": "R. White",
@@ -9587,79 +9587,6 @@
      "receiving": {
       "player": "Q. Johnston",
       "line": "1 rec, 58 yds"
-     }
-    }
-   }
-  },
-  {
-   "game_id": "2026_09_LV_SF",
-   "season": 2026,
-   "week": 9,
-   "status": "final",
-   "kickoff": "2026-11-08T16:05:00-04:00",
-   "weekday": "Sunday",
-   "venue": "Levi's Stadium",
-   "roof": "outdoors",
-   "network": "",
-   "recap_url": "",
-   "spread": {
-    "favorite": "49ers",
-    "favorite_code": "SF",
-    "line": 8.5,
-    "display": "SF -8.5"
-   },
-   "total": 51.5,
-   "overtime": false,
-   "div_game": false,
-   "away": {
-    "code": "LV",
-    "name": "Raiders",
-    "score": 17,
-    "record": "4-5",
-    "linescore": [
-     0,
-     10,
-     7,
-     0
-    ],
-    "leaders": {
-     "passing": {
-      "player": "K. Cousins",
-      "line": "216 yds, 1 TD"
-     },
-     "rushing": {
-      "player": "A. Jeanty",
-      "line": "25 yds, 0 TD"
-     },
-     "receiving": {
-      "player": "B. Bowers",
-      "line": "7 rec, 111 yds"
-     }
-    }
-   },
-   "home": {
-    "code": "SF",
-    "name": "49ers",
-    "score": 38,
-    "record": "7-1",
-    "linescore": [
-     14,
-     7,
-     14,
-     3
-    ],
-    "leaders": {
-     "passing": {
-      "player": "B. Purdy",
-      "line": "232 yds, 2 TD"
-     },
-     "rushing": {
-      "player": "K. Black",
-      "line": "70 yds, 0 TD"
-     },
-     "receiving": {
-      "player": "J. Watkins",
-      "line": "4 rec, 86 yds"
      }
     }
    }
@@ -9806,6 +9733,79 @@
      "receiving": {
       "player": "J. Price",
       "line": "4 rec, 54 yds"
+     }
+    }
+   }
+  },
+  {
+   "game_id": "2026_09_LV_SF",
+   "season": 2026,
+   "week": 9,
+   "status": "final",
+   "kickoff": "2026-11-08T16:25:00-04:00",
+   "weekday": "Sunday",
+   "venue": "Levi's Stadium",
+   "roof": "outdoors",
+   "network": "",
+   "recap_url": "",
+   "spread": {
+    "favorite": "49ers",
+    "favorite_code": "SF",
+    "line": 8.5,
+    "display": "SF -8.5"
+   },
+   "total": 51.5,
+   "overtime": false,
+   "div_game": false,
+   "away": {
+    "code": "LV",
+    "name": "Raiders",
+    "score": 17,
+    "record": "4-5",
+    "linescore": [
+     0,
+     10,
+     7,
+     0
+    ],
+    "leaders": {
+     "passing": {
+      "player": "K. Cousins",
+      "line": "216 yds, 1 TD"
+     },
+     "rushing": {
+      "player": "A. Jeanty",
+      "line": "25 yds, 0 TD"
+     },
+     "receiving": {
+      "player": "B. Bowers",
+      "line": "7 rec, 111 yds"
+     }
+    }
+   },
+   "home": {
+    "code": "SF",
+    "name": "49ers",
+    "score": 38,
+    "record": "7-1",
+    "linescore": [
+     14,
+     7,
+     14,
+     3
+    ],
+    "leaders": {
+     "passing": {
+      "player": "B. Purdy",
+      "line": "232 yds, 2 TD"
+     },
+     "rushing": {
+      "player": "K. Black",
+      "line": "70 yds, 0 TD"
+     },
+     "receiving": {
+      "player": "J. Watkins",
+      "line": "4 rec, 86 yds"
      }
     }
    }
@@ -9970,10 +9970,10 @@
    "spread": {
     "favorite": "Giants",
     "favorite_code": "NYG",
-    "line": 2.5,
-    "display": "NYG -2.5"
+    "line": 1.5,
+    "display": "NYG -1.5"
    },
-   "total": 41.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10036,7 +10036,7 @@
     "line": 2.5,
     "display": "DET -2.5"
    },
-   "total": 51.5,
+   "total": 50.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10096,10 +10096,10 @@
    "spread": {
     "favorite": "Chiefs",
     "favorite_code": "KC",
-    "line": 3.5,
-    "display": "KC -3.5"
+    "line": 3.0,
+    "display": "KC -3"
    },
-   "total": 45.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10162,7 +10162,7 @@
     "line": 4.5,
     "display": "HOU -4.5"
    },
-   "total": 39.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10222,10 +10222,10 @@
    "spread": {
     "favorite": "Packers",
     "favorite_code": "GB",
-    "line": 4.5,
-    "display": "GB -4.5"
+    "line": 3.0,
+    "display": "GB -3"
    },
-   "total": 42.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10285,10 +10285,10 @@
    "spread": {
     "favorite": "Colts",
     "favorite_code": "IND",
-    "line": 2.5,
-    "display": "IND -2.5"
+    "line": 3.5,
+    "display": "IND -3.5"
    },
-   "total": 40.5,
+   "total": 38.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10348,8 +10348,8 @@
    "spread": {
     "favorite": "Saints",
     "favorite_code": "NO",
-    "line": 1.5,
-    "display": "NO -1.5"
+    "line": 2.5,
+    "display": "NO -2.5"
    },
    "total": 48.5,
    "overtime": false,
@@ -10540,7 +10540,7 @@
     "line": 9.5,
     "display": "LA -9.5"
    },
-   "total": 40.5,
+   "total": 39.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10600,10 +10600,10 @@
    "spread": {
     "favorite": "Seahawks",
     "favorite_code": "SEA",
-    "line": 3.5,
-    "display": "SEA -3.5"
+    "line": 6.5,
+    "display": "SEA -6.5"
    },
-   "total": 43.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10663,8 +10663,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 4.5,
-    "display": "SF -4.5"
+    "line": 3.5,
+    "display": "SF -3.5"
    },
    "total": 55.5,
    "overtime": false,
@@ -10729,7 +10729,7 @@
     "line": 3.5,
     "display": "CIN -3.5"
    },
-   "total": 48.5,
+   "total": 49.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10789,8 +10789,8 @@
    "spread": {
     "favorite": "Ravens",
     "favorite_code": "BAL",
-    "line": 5.5,
-    "display": "BAL -5.5"
+    "line": 4.5,
+    "display": "BAL -4.5"
    },
    "total": 38.5,
    "overtime": false,
@@ -10849,8 +10849,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Texans",
+    "favorite_code": "HOU",
+    "line": 10.0,
+    "display": "HOU -10"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10907,8 +10912,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bills",
+    "favorite_code": "BUF",
+    "line": 16.5,
+    "display": "BUF -16.5"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10965,8 +10975,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Panthers",
+    "favorite_code": "CAR",
+    "line": 1.5,
+    "display": "CAR -1.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11023,8 +11038,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bears",
+    "favorite_code": "CHI",
+    "line": 9.5,
+    "display": "CHI -9.5"
+   },
+   "total": 48.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11081,8 +11101,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Cowboys",
+    "favorite_code": "DAL",
+    "line": 7.5,
+    "display": "DAL -7.5"
+   },
+   "total": 51.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11139,8 +11164,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Lions",
+    "favorite_code": "DET",
+    "line": 3.5,
+    "display": "DET -3.5"
+   },
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11197,8 +11227,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Chiefs",
+    "favorite_code": "KC",
+    "line": 14.0,
+    "display": "KC -14"
+   },
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11313,8 +11348,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Chargers",
+    "favorite_code": "LAC",
+    "line": 1.5,
+    "display": "LAC -1.5"
+   },
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11371,8 +11411,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Broncos",
+    "favorite_code": "DEN",
+    "line": 8.5,
+    "display": "DEN -8.5"
+   },
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -11429,8 +11474,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Steelers",
+    "favorite_code": "PIT",
+    "line": 4.5,
+    "display": "PIT -4.5"
+   },
+   "total": 38.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11487,8 +11537,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "49ers",
+    "favorite_code": "SF",
+    "line": 3.5,
+    "display": "SF -3.5"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
