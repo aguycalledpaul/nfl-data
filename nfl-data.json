@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-13T20:12:20Z",
+  "updated": "2026-11-14T01:09:42Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 10
@@ -10043,8 +10043,8 @@
    "spread": {
     "favorite": "Lions",
     "favorite_code": "DET",
-    "line": 3.0,
-    "display": "DET -3"
+    "line": 2.5,
+    "display": "DET -2.5"
    },
    "total": 49.5,
    "overtime": false,
@@ -10235,7 +10235,7 @@
     "line": 3.0,
     "display": "GB -3"
    },
-   "total": 41.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10673,8 +10673,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 3.5,
-    "display": "SF -3.5"
+    "line": 4.5,
+    "display": "SF -4.5"
    },
    "total": 55.5,
    "overtime": false,
