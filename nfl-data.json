@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-15T00:34:51Z",
+  "updated": "2026-11-15T07:24:45Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 10
@@ -10358,8 +10358,8 @@
    "spread": {
     "favorite": "Saints",
     "favorite_code": "NO",
-    "line": 2.5,
-    "display": "NO -2.5"
+    "line": 1.5,
+    "display": "NO -1.5"
    },
    "total": 48.5,
    "overtime": false,
@@ -10550,7 +10550,7 @@
     "line": 9.5,
     "display": "LA -9.5"
    },
-   "total": 39.5,
+   "total": 38.5,
    "overtime": false,
    "div_game": true,
    "away": {
