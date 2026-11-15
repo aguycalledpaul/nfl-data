@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-15T15:09:43Z",
+  "updated": "2026-11-15T20:41:42Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 10
@@ -30,7 +30,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 10,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": [
      0,
      7,
@@ -349,7 +349,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 31,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      7,
      0,
@@ -1200,7 +1200,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 31,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      10,
@@ -1591,7 +1591,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 20,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": [
      7,
      3,
@@ -2617,7 +2617,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 31,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      10,
@@ -2737,7 +2737,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 6,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": [
      0,
      3,
@@ -3759,7 +3759,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 29,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": [
      7,
      7,
@@ -4562,7 +4562,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 26,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      3,
      13,
@@ -5026,7 +5026,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 45,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": [
      14,
      7,
@@ -5511,7 +5511,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 45,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      24,
@@ -6200,7 +6200,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 26,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": [
      7,
      10,
@@ -6833,7 +6833,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 24,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": [
      0,
      14,
@@ -7591,7 +7591,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 20,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      7,
      3,
@@ -8179,7 +8179,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 19,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      3,
      3,
@@ -8664,7 +8664,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 24,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": [
      3,
      0,
@@ -9248,7 +9248,7 @@
     "code": "DET",
     "name": "Lions",
     "score": 19,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      3,
      3,
@@ -9641,7 +9641,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": 27,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": [
      0,
      14,
@@ -10033,7 +10033,7 @@
    "game_id": "2026_10_NE_DET",
    "season": 2026,
    "week": 10,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-15T09:30:00-05:00",
    "weekday": "Sunday",
    "venue": "FC Bayern Munich Stadium",
@@ -10052,8 +10052,8 @@
    "away": {
     "code": "NE",
     "name": "Patriots",
-    "score": null,
-    "record": "5-4",
+    "score": 10,
+    "record": "5-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10073,8 +10073,8 @@
    "home": {
     "code": "DET",
     "name": "Lions",
-    "score": null,
-    "record": "6-2",
+    "score": 35,
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10859,13 +10859,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Texans",
-    "favorite_code": "HOU",
-    "line": 10.0,
-    "display": "HOU -10"
-   },
-   "total": 44.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10922,13 +10917,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Bills",
-    "favorite_code": "BUF",
-    "line": 16.5,
-    "display": "BUF -16.5"
-   },
-   "total": 46.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10985,13 +10975,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Panthers",
-    "favorite_code": "CAR",
-    "line": 1.5,
-    "display": "CAR -1.5"
-   },
-   "total": 44.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11048,13 +11033,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Bears",
-    "favorite_code": "CHI",
-    "line": 9.5,
-    "display": "CHI -9.5"
-   },
-   "total": 48.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11111,13 +11091,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Cowboys",
-    "favorite_code": "DAL",
-    "line": 7.5,
-    "display": "DAL -7.5"
-   },
-   "total": 51.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11203,7 +11178,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11232,13 +11207,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Chiefs",
-    "favorite_code": "KC",
-    "line": 14.0,
-    "display": "KC -14"
-   },
-   "total": 42.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11295,13 +11265,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Jaguars",
-    "favorite_code": "JAX",
-    "line": 6.0,
-    "display": "JAX -6"
-   },
-   "total": 44.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11358,13 +11323,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Chargers",
-    "favorite_code": "LAC",
-    "line": 1.5,
-    "display": "LAC -1.5"
-   },
-   "total": 42.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11421,13 +11381,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Broncos",
-    "favorite_code": "DEN",
-    "line": 8.5,
-    "display": "DEN -8.5"
-   },
-   "total": 41.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -11484,13 +11439,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Steelers",
-    "favorite_code": "PIT",
-    "line": 4.5,
-    "display": "PIT -4.5"
-   },
-   "total": 38.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11547,13 +11497,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "49ers",
-    "favorite_code": "SF",
-    "line": 3.5,
-    "display": "SF -3.5"
-   },
-   "total": 45.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11760,7 +11705,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12493,7 +12438,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12667,7 +12612,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13268,7 +13213,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13442,7 +13387,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13674,7 +13619,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15103,7 +15048,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15161,7 +15106,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15799,7 +15744,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16110,7 +16055,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16632,7 +16577,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16901,7 +16846,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17423,7 +17368,7 @@
     "code": "DET",
     "name": "Lions",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17792,7 +17737,7 @@
     "code": "NE",
     "name": "Patriots",
     "score": null,
-    "record": "5-4",
+    "record": "5-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -18012,18 +17957,18 @@
    "conference": "AFC",
    "division": "AFC East",
    "wins": 5,
-   "losses": 4,
+   "losses": 5,
    "ties": 0,
-   "pct": 0.556,
-   "pf": 211,
-   "pa": 207,
-   "net": 4,
+   "pct": 0.5,
+   "pf": 221,
+   "pa": 242,
+   "net": -21,
    "home": "3-1",
-   "road": "2-3",
+   "road": "2-4",
    "div": "3-0",
    "conf": "5-1",
-   "streak": "L1",
-   "record": "5-4",
+   "streak": "L2",
+   "record": "5-5",
    "rank_div": 2
   },
   {
@@ -18104,7 +18049,7 @@
    "conf": "5-2",
    "streak": "W4",
    "record": "7-2",
-   "rank_div": 1
+   "rank_div": 2
   },
   {
    "code": "CIN",
@@ -18151,20 +18096,20 @@
    "name": "Lions",
    "conference": "NFC",
    "division": "NFC North",
-   "wins": 6,
+   "wins": 7,
    "losses": 2,
    "ties": 0,
-   "pct": 0.75,
-   "pf": 222,
-   "pa": 189,
-   "net": 33,
-   "home": "4-0",
+   "pct": 0.778,
+   "pf": 257,
+   "pa": 199,
+   "net": 58,
+   "home": "5-0",
    "road": "2-2",
    "div": "2-0",
    "conf": "4-1",
-   "streak": "W4",
-   "record": "6-2",
-   "rank_div": 2
+   "streak": "W5",
+   "record": "7-2",
+   "rank_div": 1
   },
   {
    "code": "NO",
