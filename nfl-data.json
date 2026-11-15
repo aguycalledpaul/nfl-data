@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-15T07:24:45Z",
+  "updated": "2026-11-15T15:09:43Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 10
@@ -10046,7 +10046,7 @@
     "line": 2.5,
     "display": "DET -2.5"
    },
-   "total": 49.5,
+   "total": 50.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10421,8 +10421,8 @@
    "spread": {
     "favorite": "Bills",
     "favorite_code": "BUF",
-    "line": 7.5,
-    "display": "BUF -7.5"
+    "line": 8.5,
+    "display": "BUF -8.5"
    },
    "total": 50.5,
    "overtime": false,
@@ -10487,7 +10487,7 @@
     "line": 10.5,
     "display": "JAX -10.5"
    },
-   "total": 46.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -10673,8 +10673,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 3.5,
-    "display": "SF -3.5"
+    "line": 4.5,
+    "display": "SF -4.5"
    },
    "total": 55.5,
    "overtime": false,
@@ -11174,13 +11174,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Lions",
-    "favorite_code": "DET",
-    "line": 3.5,
-    "display": "DET -3.5"
-   },
-   "total": 47.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
