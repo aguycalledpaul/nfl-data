@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-15T20:41:42Z",
+  "updated": "2026-11-16T00:34:23Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 10
@@ -56,7 +56,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 13,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      0,
      0,
@@ -129,7 +129,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 7,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      0,
      7,
@@ -202,7 +202,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": 37,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": [
      7,
      17,
@@ -322,7 +322,7 @@
     "code": "NO",
     "name": "Saints",
     "score": 30,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      0,
@@ -397,7 +397,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 36,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      3,
      21,
@@ -423,7 +423,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 31,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      7,
      14,
@@ -496,7 +496,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 23,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": [
      6,
      7,
@@ -543,7 +543,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": 10,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      0,
      0,
@@ -569,7 +569,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": 34,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      14,
      10,
@@ -616,7 +616,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 13,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      7,
      0,
@@ -689,7 +689,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": 23,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": [
      7,
      3,
@@ -715,7 +715,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": 10,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      3,
      0,
@@ -762,7 +762,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 26,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      7,
      6,
@@ -835,7 +835,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 13,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      0,
      6,
@@ -861,7 +861,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 27,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      7,
      10,
@@ -908,7 +908,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 22,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": [
      9,
      10,
@@ -934,7 +934,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 39,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      3,
      7,
@@ -1153,7 +1153,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 31,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      7,
      7,
@@ -1226,7 +1226,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 41,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      14,
      13,
@@ -1273,7 +1273,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": 34,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": [
      10,
      10,
@@ -1299,7 +1299,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 3,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      0,
      3,
@@ -1346,7 +1346,7 @@
     "code": "NO",
     "name": "Saints",
     "score": 24,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      6,
@@ -1419,7 +1419,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 9,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      3,
      3,
@@ -1518,7 +1518,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 6,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      3,
@@ -1638,7 +1638,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 20,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": [
      0,
      7,
@@ -1665,7 +1665,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": 17,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": [
      0,
      7,
@@ -1713,7 +1713,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": 23,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      3,
      3,
@@ -1812,7 +1812,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": 20,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      7,
      3,
@@ -1859,7 +1859,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": 13,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      10,
@@ -1932,7 +1932,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 26,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      0,
      10,
@@ -2005,7 +2005,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 31,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      7,
      0,
@@ -2031,7 +2031,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 7,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      0,
      7,
@@ -2151,7 +2151,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 13,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      0,
      6,
@@ -2224,7 +2224,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 30,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": [
      7,
      13,
@@ -2251,7 +2251,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 33,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      10,
      7,
@@ -2325,7 +2325,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 28,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      7,
      7,
@@ -2372,7 +2372,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 35,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      7,
      10,
@@ -2398,7 +2398,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 14,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": [
      7,
      0,
@@ -2471,7 +2471,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 24,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      0,
      10,
@@ -2518,7 +2518,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": 18,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": [
      0,
      3,
@@ -2544,7 +2544,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": 21,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      0,
      10,
@@ -2591,7 +2591,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": 24,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": [
      0,
      7,
@@ -2664,7 +2664,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 17,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      7,
@@ -2690,7 +2690,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 19,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": [
      3,
      10,
@@ -2763,7 +2763,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": 35,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      14,
@@ -2810,7 +2810,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 24,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      7,
      7,
@@ -2836,7 +2836,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 10,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      7,
      0,
@@ -2883,7 +2883,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": 7,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      0,
      0,
@@ -3029,7 +3029,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 31,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      0,
      10,
@@ -3102,7 +3102,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 30,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      0,
      6,
@@ -3175,7 +3175,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 23,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      10,
      7,
@@ -3321,7 +3321,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 35,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      3,
      13,
@@ -3347,7 +3347,7 @@
     "code": "NO",
     "name": "Saints",
     "score": 27,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      6,
      7,
@@ -3394,7 +3394,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 26,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      7,
      9,
@@ -3566,7 +3566,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": 27,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      0,
      21,
@@ -3613,7 +3613,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 30,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": [
      0,
      10,
@@ -3686,7 +3686,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": 18,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      7,
      0,
@@ -3785,7 +3785,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 26,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      0,
      17,
@@ -3832,7 +3832,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": 12,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": [
      0,
      3,
@@ -3905,7 +3905,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": 22,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      3,
      10,
@@ -4004,7 +4004,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 30,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      10,
      6,
@@ -4051,7 +4051,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 24,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      14,
      3,
@@ -4124,7 +4124,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 24,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      3,
      7,
@@ -4197,7 +4197,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 17,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": [
      0,
      10,
@@ -4270,7 +4270,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 10,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      0,
      0,
@@ -4296,7 +4296,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 15,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      3,
      6,
@@ -4343,7 +4343,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 30,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      7,
      3,
@@ -4369,7 +4369,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 27,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      7,
      6,
@@ -4442,7 +4442,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 30,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      7,
      13,
@@ -4588,7 +4588,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": 32,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": [
      7,
      9,
@@ -4635,7 +4635,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 45,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      14,
      10,
@@ -4661,7 +4661,7 @@
     "code": "NO",
     "name": "Saints",
     "score": 24,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      7,
@@ -4807,7 +4807,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": 19,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      7,
      0,
@@ -4880,7 +4880,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 31,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": [
      7,
      7,
@@ -4953,7 +4953,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 24,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      7,
      0,
@@ -5000,7 +5000,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 17,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      7,
      0,
@@ -5073,7 +5073,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 23,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      3,
      3,
@@ -5099,7 +5099,7 @@
     "code": "NO",
     "name": "Saints",
     "score": 13,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      7,
@@ -5146,7 +5146,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": 12,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      3,
      3,
@@ -5172,7 +5172,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": 17,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": [
      7,
      0,
@@ -5219,7 +5219,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 22,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": [
      6,
      7,
@@ -5292,7 +5292,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 26,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      3,
      9,
@@ -5318,7 +5318,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": 3,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      3,
      0,
@@ -5537,7 +5537,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 21,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      7,
      0,
@@ -5610,7 +5610,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 29,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      7,
      6,
@@ -5684,7 +5684,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 23,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      7,
      7,
@@ -5732,7 +5732,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 37,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      6,
      7,
@@ -5759,7 +5759,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 34,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      0,
      7,
@@ -5807,7 +5807,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 14,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      3,
      0,
@@ -5882,7 +5882,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 34,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      7,
      10,
@@ -5908,7 +5908,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": 31,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      14,
@@ -5981,7 +5981,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 23,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      0,
      7,
@@ -6054,7 +6054,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": 13,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      0,
      0,
@@ -6101,7 +6101,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": 26,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      0,
      0,
@@ -6127,7 +6127,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 20,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": [
      0,
      13,
@@ -6174,7 +6174,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": 19,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": [
      3,
      0,
@@ -6247,7 +6247,7 @@
     "code": "NO",
     "name": "Saints",
     "score": 34,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      10,
@@ -6320,7 +6320,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": 25,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": [
      3,
      7,
@@ -6468,7 +6468,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 18,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      3,
      6,
@@ -6494,7 +6494,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 16,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      3,
      6,
@@ -6567,7 +6567,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 22,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      9,
      10,
@@ -6614,7 +6614,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 33,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      3,
      10,
@@ -6640,7 +6640,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 30,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      7,
      6,
@@ -6713,7 +6713,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 23,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": [
      7,
      10,
@@ -6932,7 +6932,7 @@
     "code": "NO",
     "name": "Saints",
     "score": 10,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      0,
      10,
@@ -7005,7 +7005,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 29,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      3,
      9,
@@ -7151,7 +7151,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": 13,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": [
      0,
      6,
@@ -7225,7 +7225,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 21,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      3,
      11,
@@ -7273,7 +7273,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 10,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": [
      7,
      3,
@@ -7299,7 +7299,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 16,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      6,
@@ -7346,7 +7346,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 28,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      14,
      7,
@@ -7372,7 +7372,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": 25,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": [
      7,
      0,
@@ -7419,7 +7419,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": 27,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      7,
      10,
@@ -7445,7 +7445,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": 24,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      14,
      0,
@@ -7518,7 +7518,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 16,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      0,
      6,
@@ -7565,7 +7565,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 17,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": [
      7,
      0,
@@ -7638,7 +7638,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 35,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      7,
      21,
@@ -7664,7 +7664,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 21,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      3,
      3,
@@ -7711,7 +7711,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 3,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      0,
@@ -7737,7 +7737,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 20,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      0,
      10,
@@ -7857,7 +7857,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": 19,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": [
      3,
      7,
@@ -7883,7 +7883,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 27,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": [
      6,
      14,
@@ -7956,7 +7956,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 36,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      10,
      6,
@@ -8003,7 +8003,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": 36,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      13,
      0,
@@ -8078,7 +8078,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 33,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      0,
      3,
@@ -8153,7 +8153,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 15,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      7,
@@ -8226,7 +8226,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 7,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": [
      0,
      0,
@@ -8252,7 +8252,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": 42,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      7,
      21,
@@ -8299,7 +8299,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 38,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      7,
      7,
@@ -8325,7 +8325,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": 33,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": [
      6,
      17,
@@ -8372,7 +8372,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": 6,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      0,
      6,
@@ -8445,7 +8445,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 0,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      0,
      0,
@@ -8544,7 +8544,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 24,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      3,
      7,
@@ -8591,7 +8591,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 24,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      7,
      10,
@@ -8690,7 +8690,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 19,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      3,
      10,
@@ -8836,7 +8836,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 17,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      0,
      9,
@@ -8883,7 +8883,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": 33,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      10,
      7,
@@ -8982,7 +8982,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": 17,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      10,
      0,
@@ -9055,7 +9055,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": 21,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": [
      0,
      7,
@@ -9128,7 +9128,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 23,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": [
      7,
      0,
@@ -9175,7 +9175,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": 12,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": [
      6,
      6,
@@ -9201,7 +9201,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": 35,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      14,
@@ -9274,7 +9274,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": 9,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": [
      3,
      0,
@@ -9321,7 +9321,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": 22,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      0,
      3,
@@ -9348,7 +9348,7 @@
     "code": "NO",
     "name": "Saints",
     "score": 23,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      3,
      0,
@@ -9469,7 +9469,7 @@
     "code": "LA",
     "name": "Rams",
     "score": 20,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      3,
      3,
@@ -9542,7 +9542,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 44,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": [
      10,
      14,
@@ -9615,7 +9615,7 @@
     "code": "GB",
     "name": "Packers",
     "score": 45,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": [
      14,
      10,
@@ -9688,7 +9688,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": 3,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": [
      3,
      0,
@@ -9714,7 +9714,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": 17,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": [
      0,
      14,
@@ -9761,7 +9761,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": 17,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      0,
      10,
@@ -9907,7 +9907,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": 23,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      3,
      7,
@@ -9933,7 +9933,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 6,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      6,
@@ -10054,19 +10054,24 @@
     "name": "Patriots",
     "score": 10,
     "record": "5-5",
-    "linescore": null,
+    "linescore": [
+     3,
+     0,
+     0,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "T. DeVito",
+      "line": "81 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. Kiner",
+      "line": "25 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Hollins",
+      "line": "5 rec, 48 yds"
      }
     }
    },
@@ -10075,19 +10080,24 @@
     "name": "Lions",
     "score": 35,
     "record": "7-2",
-    "linescore": null,
+    "linescore": [
+     7,
+     14,
+     7,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Goff",
+      "line": "303 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Gibbs",
+      "line": "153 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Gibbs",
+      "line": "7 rec, 99 yds"
      }
     }
    }
@@ -10096,11 +10106,11 @@
    "game_id": "2026_10_KC_ATL",
    "season": 2026,
    "week": 10,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-15T13:00:00-05:00",
    "weekday": "Sunday",
    "venue": "Mercedes-Benz Stadium",
-   "roof": null,
+   "roof": "closed",
    "network": "",
    "recap_url": "",
    "spread": {
@@ -10115,42 +10125,52 @@
    "away": {
     "code": "KC",
     "name": "Chiefs",
-    "score": null,
-    "record": "6-2",
-    "linescore": null,
+    "score": 35,
+    "record": "7-2",
+    "linescore": [
+     7,
+     7,
+     7,
+     14
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "P. Mahomes",
+      "line": "348 yds, 5 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "E. Johnson",
+      "line": "101 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "R. Rice",
+      "line": "5 rec, 82 yds"
      }
     }
    },
    "home": {
     "code": "ATL",
     "name": "Falcons",
-    "score": null,
-    "record": "3-6",
-    "linescore": null,
+    "score": 13,
+    "record": "3-7",
+    "linescore": [
+     0,
+     3,
+     0,
+     10
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "M. Jr.",
+      "line": "286 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Robinson",
+      "line": "71 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. London",
+      "line": "6 rec, 109 yds"
      }
     }
    }
@@ -10159,7 +10179,7 @@
    "game_id": "2026_10_HOU_CLE",
    "season": 2026,
    "week": 10,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-15T13:00:00-05:00",
    "weekday": "Sunday",
    "venue": "Huntington Bank Field",
@@ -10178,42 +10198,52 @@
    "away": {
     "code": "HOU",
     "name": "Texans",
-    "score": null,
-    "record": "3-5",
-    "linescore": null,
+    "score": 24,
+    "record": "3-6",
+    "linescore": [
+     10,
+     7,
+     0,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "C. Stroud",
+      "line": "211 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "W. Marks",
+      "line": "50 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "N. Collins",
+      "line": "9 rec, 94 yds"
      }
     }
    },
    "home": {
     "code": "CLE",
     "name": "Browns",
-    "score": null,
-    "record": "5-4",
-    "linescore": null,
+    "score": 27,
+    "record": "6-4",
+    "linescore": [
+     0,
+     10,
+     10,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Watson",
+      "line": "312 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "D. Watson",
+      "line": "49 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "H. Jr.",
+      "line": "7 rec, 91 yds"
      }
     }
    }
@@ -10222,7 +10252,7 @@
    "game_id": "2026_10_MIN_GB",
    "season": 2026,
    "week": 10,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-15T13:00:00-05:00",
    "weekday": "Sunday",
    "venue": "Lambeau Field",
@@ -10241,42 +10271,52 @@
    "away": {
     "code": "MIN",
     "name": "Vikings",
-    "score": null,
-    "record": "6-2",
-    "linescore": null,
+    "score": 30,
+    "record": "7-2",
+    "linescore": [
+     10,
+     7,
+     3,
+     10
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "K. Cousins",
+      "line": "207 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Mason",
+      "line": "59 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Jefferson",
+      "line": "9 rec, 74 yds"
      }
     }
    },
    "home": {
     "code": "GB",
     "name": "Packers",
-    "score": null,
-    "record": "6-3",
-    "linescore": null,
+    "score": 10,
+    "record": "6-4",
+    "linescore": [
+     0,
+     0,
+     10,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Love",
+      "line": "220 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "K. Johnson",
+      "line": "42 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Golden",
+      "line": "5 rec, 70 yds"
      }
     }
    }
@@ -10285,11 +10325,11 @@
    "game_id": "2026_10_MIA_IND",
    "season": 2026,
    "week": 10,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-15T13:00:00-05:00",
    "weekday": "Sunday",
    "venue": "Lucas Oil Stadium",
-   "roof": null,
+   "roof": "closed",
    "network": "",
    "recap_url": "",
    "spread": {
@@ -10304,42 +10344,52 @@
    "away": {
     "code": "MIA",
     "name": "Dolphins",
-    "score": null,
-    "record": "1-7",
-    "linescore": null,
+    "score": 22,
+    "record": "1-8",
+    "linescore": [
+     0,
+     7,
+     9,
+     6
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "K. McCord",
+      "line": "209 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "O. II",
+      "line": "76 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "C. Douglas",
+      "line": "3 rec, 71 yds"
      }
     }
    },
    "home": {
     "code": "IND",
     "name": "Colts",
-    "score": null,
-    "record": "2-7",
-    "linescore": null,
+    "score": 24,
+    "record": "3-7",
+    "linescore": [
+     0,
+     14,
+     10,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Jones",
+      "line": "108 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Taylor",
+      "line": "83 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "A. Dulin",
+      "line": "1 rec, 30 yds"
      }
     }
    }
@@ -10348,7 +10398,7 @@
    "game_id": "2026_10_CAR_NO",
    "season": 2026,
    "week": 10,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-15T13:00:00-05:00",
    "weekday": "Sunday",
    "venue": "Caesars Superdome",
@@ -10367,42 +10417,52 @@
    "away": {
     "code": "CAR",
     "name": "Panthers",
-    "score": null,
-    "record": "3-5",
-    "linescore": null,
+    "score": 20,
+    "record": "4-5",
+    "linescore": [
+     0,
+     7,
+     3,
+     10
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "B. Young",
+      "line": "200 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. Hubbard",
+      "line": "92 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "C. Hubbard",
+      "line": "5 rec, 80 yds"
      }
     }
    },
    "home": {
     "code": "NO",
     "name": "Saints",
-    "score": null,
-    "record": "3-5",
-    "linescore": null,
+    "score": 17,
+    "record": "3-6",
+    "linescore": [
+     0,
+     0,
+     7,
+     10
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "T. Shough",
+      "line": "187 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "T. Shough",
+      "line": "25 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Tyson",
+      "line": "11 rec, 80 yds"
      }
     }
    }
@@ -10411,7 +10471,7 @@
    "game_id": "2026_10_BUF_NYJ",
    "season": 2026,
    "week": 10,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-15T13:00:00-05:00",
    "weekday": "Sunday",
    "venue": "MetLife Stadium",
@@ -10430,42 +10490,52 @@
    "away": {
     "code": "BUF",
     "name": "Bills",
-    "score": null,
-    "record": "7-1",
-    "linescore": null,
+    "score": 31,
+    "record": "8-1",
+    "linescore": [
+     7,
+     3,
+     14,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Allen",
+      "line": "196 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Cook",
+      "line": "157 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Moore",
+      "line": "4 rec, 90 yds"
      }
     }
    },
    "home": {
     "code": "NYJ",
     "name": "Jets",
-    "score": null,
-    "record": "2-7",
-    "linescore": null,
+    "score": 12,
+    "record": "2-8",
+    "linescore": [
+     0,
+     6,
+     6,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "G. Smith",
+      "line": "148 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Hall",
+      "line": "41 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "G. Wilson",
+      "line": "7 rec, 106 yds"
      }
     }
    }
@@ -10474,7 +10544,7 @@
    "game_id": "2026_10_JAX_TEN",
    "season": 2026,
    "week": 10,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-15T13:00:00-05:00",
    "weekday": "Sunday",
    "venue": "Nissan Stadium",
@@ -10493,42 +10563,52 @@
    "away": {
     "code": "JAX",
     "name": "Jaguars",
-    "score": null,
-    "record": "6-2",
-    "linescore": null,
+    "score": 40,
+    "record": "7-2",
+    "linescore": [
+     7,
+     9,
+     7,
+     17
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "T. Lawrence",
+      "line": "352 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Tuten",
+      "line": "88 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "P. Washington",
+      "line": "7 rec, 152 yds"
      }
     }
    },
    "home": {
     "code": "TEN",
     "name": "Titans",
-    "score": null,
-    "record": "1-7",
-    "linescore": null,
+    "score": 23,
+    "record": "1-8",
+    "linescore": [
+     3,
+     7,
+     6,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "C. Ward",
+      "line": "231 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. Ward",
+      "line": "39 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "E. Ayomanor",
+      "line": "5 rec, 79 yds"
      }
     }
    }
@@ -10537,18 +10617,18 @@
    "game_id": "2026_10_LA_ARI",
    "season": 2026,
    "week": 10,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-15T16:05:00-05:00",
    "weekday": "Sunday",
    "venue": "State Farm Stadium",
-   "roof": null,
+   "roof": "open",
    "network": "",
    "recap_url": "",
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 9.5,
-    "display": "LA -9.5"
+    "line": 10.0,
+    "display": "LA -10"
    },
    "total": 38.5,
    "overtime": false,
@@ -10556,8 +10636,8 @@
    "away": {
     "code": "LA",
     "name": "Rams",
-    "score": null,
-    "record": "5-4",
+    "score": 34,
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10577,8 +10657,8 @@
    "home": {
     "code": "ARI",
     "name": "Cardinals",
-    "score": null,
-    "record": "3-6",
+    "score": 6,
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10600,7 +10680,7 @@
    "game_id": "2026_10_SEA_LV",
    "season": 2026,
    "week": 10,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-15T16:05:00-05:00",
    "weekday": "Sunday",
    "venue": "Allegiant Stadium",
@@ -10619,8 +10699,8 @@
    "away": {
     "code": "SEA",
     "name": "Seahawks",
-    "score": null,
-    "record": "5-4",
+    "score": 21,
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10640,8 +10720,8 @@
    "home": {
     "code": "LV",
     "name": "Raiders",
-    "score": null,
-    "record": "4-5",
+    "score": 13,
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10673,8 +10753,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 4.5,
-    "display": "SF -4.5"
+    "line": 3.5,
+    "display": "SF -3.5"
    },
    "total": 55.5,
    "overtime": false,
@@ -10859,15 +10939,20 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Texans",
+    "favorite_code": "HOU",
+    "line": 9.5,
+    "display": "HOU -9.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": true,
    "away": {
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10888,7 +10973,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10917,15 +11002,20 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bills",
+    "favorite_code": "BUF",
+    "line": 16.5,
+    "display": "BUF -16.5"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": true,
    "away": {
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10946,7 +11036,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -10975,8 +11065,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Panthers",
+    "favorite_code": "CAR",
+    "line": 1.5,
+    "display": "CAR -1.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11004,7 +11099,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11033,15 +11128,20 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bears",
+    "favorite_code": "CHI",
+    "line": 9.5,
+    "display": "CHI -9.5"
+   },
+   "total": 49.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11091,15 +11191,20 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Cowboys",
+    "favorite_code": "DAL",
+    "line": 7.5,
+    "display": "DAL -7.5"
+   },
+   "total": 52.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "TEN",
     "name": "Titans",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11149,8 +11254,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Lions",
+    "favorite_code": "DET",
+    "line": 6.0,
+    "display": "DET -6"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11207,15 +11317,20 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Chiefs",
+    "favorite_code": "KC",
+    "line": 14.5,
+    "display": "KC -14.5"
+   },
+   "total": 41.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11236,7 +11351,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11265,15 +11380,20 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Jaguars",
+    "favorite_code": "JAX",
+    "line": 6.5,
+    "display": "JAX -6.5"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11323,15 +11443,20 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Chargers",
+    "favorite_code": "LAC",
+    "line": 3.0,
+    "display": "LAC -3"
+   },
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "NYJ",
     "name": "Jets",
     "score": null,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11381,15 +11506,20 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Broncos",
+    "favorite_code": "DEN",
+    "line": 9.5,
+    "display": "DEN -9.5"
+   },
+   "total": 40.5,
    "overtime": false,
    "div_game": true,
    "away": {
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11439,8 +11569,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Steelers",
+    "favorite_code": "PIT",
+    "line": 4.5,
+    "display": "PIT -4.5"
+   },
+   "total": 38.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11497,15 +11632,20 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "49ers",
+    "favorite_code": "SF",
+    "line": 3.5,
+    "display": "SF -3.5"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11626,7 +11766,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11647,7 +11787,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11800,7 +11940,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11821,7 +11961,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11916,7 +12056,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11974,7 +12114,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11995,7 +12135,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12053,7 +12193,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12111,7 +12251,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12148,7 +12288,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": null,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12169,7 +12309,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12206,7 +12346,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12227,7 +12367,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12264,7 +12404,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12285,7 +12425,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12343,7 +12483,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12380,7 +12520,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12496,7 +12636,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12554,7 +12694,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12575,7 +12715,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12633,7 +12773,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12670,7 +12810,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12749,7 +12889,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12786,7 +12926,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12807,7 +12947,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12981,7 +13121,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13039,7 +13179,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13076,7 +13216,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13134,7 +13274,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13155,7 +13295,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13192,7 +13332,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13250,7 +13390,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13329,7 +13469,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13366,7 +13506,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13482,7 +13622,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13503,7 +13643,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13540,7 +13680,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13561,7 +13701,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13598,7 +13738,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13677,7 +13817,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13735,7 +13875,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": null,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13772,7 +13912,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13830,7 +13970,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13909,7 +14049,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13946,7 +14086,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14025,7 +14165,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14062,7 +14202,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14120,7 +14260,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14141,7 +14281,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14199,7 +14339,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14294,7 +14434,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14373,7 +14513,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14431,7 +14571,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14468,7 +14608,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14489,7 +14629,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14526,7 +14666,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14547,7 +14687,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14584,7 +14724,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14700,7 +14840,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14758,7 +14898,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14779,7 +14919,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14816,7 +14956,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14874,7 +15014,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": null,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14895,7 +15035,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14953,7 +15093,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15011,7 +15151,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15069,7 +15209,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15127,7 +15267,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15164,7 +15304,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15222,7 +15362,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15280,7 +15420,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15338,7 +15478,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15359,7 +15499,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15417,7 +15557,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15454,7 +15594,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15533,7 +15673,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15591,7 +15731,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15649,7 +15789,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15686,7 +15826,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15707,7 +15847,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15765,7 +15905,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": null,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15802,7 +15942,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15860,7 +16000,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15881,7 +16021,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15939,7 +16079,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15976,7 +16116,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16150,7 +16290,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16171,7 +16311,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16208,7 +16348,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16229,7 +16369,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16266,7 +16406,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16287,7 +16427,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16403,7 +16543,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16440,7 +16580,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16498,7 +16638,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16519,7 +16659,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16614,7 +16754,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16635,7 +16775,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": null,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16672,7 +16812,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16751,7 +16891,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16788,7 +16928,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16809,7 +16949,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16962,7 +17102,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16983,7 +17123,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17041,7 +17181,7 @@
     "code": "ARI",
     "name": "Cardinals",
     "score": null,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17136,7 +17276,7 @@
     "code": "NYJ",
     "name": "Jets",
     "score": null,
-    "record": "2-7",
+    "record": "2-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17157,7 +17297,7 @@
     "code": "BUF",
     "name": "Bills",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17194,7 +17334,7 @@
     "code": "ATL",
     "name": "Falcons",
     "score": null,
-    "record": "3-6",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17215,7 +17355,7 @@
     "code": "CAR",
     "name": "Panthers",
     "score": null,
-    "record": "3-5",
+    "record": "4-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17252,7 +17392,7 @@
     "code": "CLE",
     "name": "Browns",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17389,7 +17529,7 @@
     "code": "GB",
     "name": "Packers",
     "score": null,
-    "record": "6-3",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17426,7 +17566,7 @@
     "code": "TEN",
     "name": "Titans",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17447,7 +17587,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17484,7 +17624,7 @@
     "code": "JAX",
     "name": "Jaguars",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17505,7 +17645,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "2-7",
+    "record": "3-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17542,7 +17682,7 @@
     "code": "LV",
     "name": "Raiders",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17563,7 +17703,7 @@
     "code": "KC",
     "name": "Chiefs",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17600,7 +17740,7 @@
     "code": "SEA",
     "name": "Seahawks",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17621,7 +17761,7 @@
     "code": "LA",
     "name": "Rams",
     "score": null,
-    "record": "5-4",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17679,7 +17819,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17716,7 +17856,7 @@
     "code": "MIA",
     "name": "Dolphins",
     "score": null,
-    "record": "1-7",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17795,7 +17935,7 @@
     "code": "NO",
     "name": "Saints",
     "score": null,
-    "record": "3-5",
+    "record": "3-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17936,20 +18076,20 @@
    "name": "Seahawks",
    "conference": "NFC",
    "division": "NFC West",
-   "wins": 5,
+   "wins": 6,
    "losses": 4,
    "ties": 0,
-   "pct": 0.556,
-   "pf": 202,
-   "pa": 162,
-   "net": 40,
+   "pct": 0.6,
+   "pf": 223,
+   "pa": 175,
+   "net": 48,
    "home": "4-2",
-   "road": "1-2",
+   "road": "2-2",
    "div": "2-1",
    "conf": "2-3",
-   "streak": "W1",
-   "record": "5-4",
-   "rank_div": 2
+   "streak": "W2",
+   "record": "6-4",
+   "rank_div": 3
   },
   {
    "code": "NE",
@@ -17976,20 +18116,20 @@
    "name": "Rams",
    "conference": "NFC",
    "division": "NFC West",
-   "wins": 5,
+   "wins": 6,
    "losses": 4,
    "ties": 0,
-   "pct": 0.556,
-   "pf": 214,
-   "pa": 181,
-   "net": 33,
+   "pct": 0.6,
+   "pf": 248,
+   "pa": 187,
+   "net": 61,
    "home": "2-3",
-   "road": "3-1",
-   "div": "0-2",
-   "conf": "3-2",
-   "streak": "W3",
-   "record": "5-4",
-   "rank_div": 3
+   "road": "4-1",
+   "div": "1-2",
+   "conf": "4-2",
+   "streak": "W4",
+   "record": "6-4",
+   "rank_div": 2
   },
   {
    "code": "SF",
@@ -18016,19 +18156,19 @@
    "name": "Panthers",
    "conference": "NFC",
    "division": "NFC South",
-   "wins": 3,
+   "wins": 4,
    "losses": 5,
    "ties": 0,
-   "pct": 0.375,
-   "pf": 199,
-   "pa": 219,
-   "net": -20,
+   "pct": 0.444,
+   "pf": 219,
+   "pa": 236,
+   "net": -17,
    "home": "1-3",
-   "road": "2-2",
-   "div": "1-1",
-   "conf": "3-3",
-   "streak": "L3",
-   "record": "3-5",
+   "road": "3-2",
+   "div": "2-1",
+   "conf": "4-3",
+   "streak": "W1",
+   "record": "4-5",
    "rank_div": 1
   },
   {
@@ -18089,7 +18229,7 @@
    "conf": "3-3",
    "streak": "L1",
    "record": "3-6",
-   "rank_div": 3
+   "rank_div": 2
   },
   {
    "code": "DET",
@@ -18117,19 +18257,19 @@
    "conference": "NFC",
    "division": "NFC South",
    "wins": 3,
-   "losses": 5,
+   "losses": 6,
    "ties": 0,
-   "pct": 0.375,
-   "pf": 185,
-   "pa": 216,
-   "net": -31,
-   "home": "1-4",
+   "pct": 0.333,
+   "pf": 202,
+   "pa": 236,
+   "net": -34,
+   "home": "1-5",
    "road": "2-1",
-   "div": "0-1",
-   "conf": "1-3",
-   "streak": "W1",
-   "record": "3-5",
-   "rank_div": 2
+   "div": "0-2",
+   "conf": "1-4",
+   "streak": "L1",
+   "record": "3-6",
+   "rank_div": 3
   },
   {
    "code": "HOU",
@@ -18137,18 +18277,18 @@
    "conference": "AFC",
    "division": "AFC South",
    "wins": 3,
-   "losses": 5,
+   "losses": 6,
    "ties": 0,
-   "pct": 0.375,
-   "pf": 209,
-   "pa": 192,
-   "net": 17,
+   "pct": 0.333,
+   "pf": 233,
+   "pa": 219,
+   "net": 14,
    "home": "0-4",
-   "road": "3-1",
+   "road": "3-2",
    "div": "2-1",
-   "conf": "3-3",
-   "streak": "W1",
-   "record": "3-5",
+   "conf": "3-4",
+   "streak": "L1",
+   "record": "3-6",
    "rank_div": 2
   },
   {
@@ -18156,19 +18296,19 @@
    "name": "Bills",
    "conference": "AFC",
    "division": "AFC East",
-   "wins": 7,
+   "wins": 8,
    "losses": 1,
    "ties": 0,
-   "pct": 0.875,
-   "pf": 256,
-   "pa": 187,
-   "net": 69,
+   "pct": 0.889,
+   "pf": 287,
+   "pa": 199,
+   "net": 88,
    "home": "3-1",
-   "road": "4-0",
-   "div": "0-1",
-   "conf": "4-1",
-   "streak": "W4",
-   "record": "7-1",
+   "road": "5-0",
+   "div": "1-1",
+   "conf": "5-1",
+   "streak": "W5",
+   "record": "8-1",
    "rank_div": 1
   },
   {
@@ -18176,19 +18316,19 @@
    "name": "Colts",
    "conference": "AFC",
    "division": "AFC South",
-   "wins": 2,
+   "wins": 3,
    "losses": 7,
    "ties": 0,
-   "pct": 0.222,
-   "pf": 184,
-   "pa": 249,
-   "net": -65,
-   "home": "1-3",
+   "pct": 0.3,
+   "pf": 208,
+   "pa": 271,
+   "net": -63,
+   "home": "2-3",
    "road": "1-4",
    "div": "1-2",
-   "conf": "1-5",
-   "streak": "L5",
-   "record": "2-7",
+   "conf": "2-5",
+   "streak": "W1",
+   "record": "3-7",
    "rank_div": 3
   },
   {
@@ -18216,19 +18356,19 @@
    "name": "Jaguars",
    "conference": "AFC",
    "division": "AFC South",
-   "wins": 6,
+   "wins": 7,
    "losses": 2,
    "ties": 0,
-   "pct": 0.75,
-   "pf": 229,
-   "pa": 121,
-   "net": 108,
+   "pct": 0.778,
+   "pf": 269,
+   "pa": 144,
+   "net": 125,
    "home": "4-1",
-   "road": "2-1",
-   "div": "1-1",
-   "conf": "5-2",
-   "streak": "W2",
-   "record": "6-2",
+   "road": "3-1",
+   "div": "2-1",
+   "conf": "6-2",
+   "streak": "W3",
+   "record": "7-2",
    "rank_div": 1
   },
   {
@@ -18236,19 +18376,19 @@
    "name": "Browns",
    "conference": "AFC",
    "division": "AFC North",
-   "wins": 5,
+   "wins": 6,
    "losses": 4,
    "ties": 0,
-   "pct": 0.556,
-   "pf": 161,
-   "pa": 196,
-   "net": -35,
-   "home": "3-0",
+   "pct": 0.6,
+   "pf": 188,
+   "pa": 220,
+   "net": -32,
+   "home": "4-0",
    "road": "2-4",
    "div": "2-1",
-   "conf": "3-3",
-   "streak": "L2",
-   "record": "5-4",
+   "conf": "4-3",
+   "streak": "W1",
+   "record": "6-4",
    "rank_div": 3
   },
   {
@@ -18277,18 +18417,18 @@
    "conference": "NFC",
    "division": "NFC South",
    "wins": 3,
-   "losses": 6,
+   "losses": 7,
    "ties": 0,
-   "pct": 0.333,
-   "pf": 188,
-   "pa": 223,
-   "net": -35,
-   "home": "1-4",
+   "pct": 0.3,
+   "pf": 201,
+   "pa": 258,
+   "net": -57,
+   "home": "1-5",
    "road": "2-2",
    "div": "1-2",
    "conf": "3-3",
-   "streak": "L2",
-   "record": "3-6",
+   "streak": "L3",
+   "record": "3-7",
    "rank_div": 4
   },
   {
@@ -18297,18 +18437,18 @@
    "conference": "AFC",
    "division": "AFC South",
    "wins": 1,
-   "losses": 7,
+   "losses": 8,
    "ties": 0,
-   "pct": 0.125,
-   "pf": 144,
-   "pa": 199,
-   "net": -55,
-   "home": "0-4",
+   "pct": 0.111,
+   "pf": 167,
+   "pa": 239,
+   "net": -72,
+   "home": "0-5",
    "road": "1-3",
-   "div": "1-1",
-   "conf": "1-5",
-   "streak": "L2",
-   "record": "1-7",
+   "div": "1-2",
+   "conf": "1-6",
+   "streak": "L3",
+   "record": "1-8",
    "rank_div": 4
   },
   {
@@ -18317,18 +18457,18 @@
    "conference": "AFC",
    "division": "AFC East",
    "wins": 2,
-   "losses": 7,
+   "losses": 8,
    "ties": 0,
-   "pct": 0.222,
-   "pf": 182,
-   "pa": 223,
-   "net": -41,
-   "home": "1-3",
+   "pct": 0.2,
+   "pf": 194,
+   "pa": 254,
+   "net": -60,
+   "home": "1-4",
    "road": "1-4",
-   "div": "0-2",
-   "conf": "2-4",
-   "streak": "L4",
-   "record": "2-7",
+   "div": "0-3",
+   "conf": "2-5",
+   "streak": "L5",
+   "record": "2-8",
    "rank_div": 3
   },
   {
@@ -18357,18 +18497,18 @@
    "conference": "NFC",
    "division": "NFC West",
    "wins": 3,
-   "losses": 6,
+   "losses": 7,
    "ties": 0,
-   "pct": 0.333,
-   "pf": 178,
-   "pa": 255,
-   "net": -77,
-   "home": "0-3",
+   "pct": 0.3,
+   "pf": 184,
+   "pa": 289,
+   "net": -105,
+   "home": "0-4",
    "road": "3-3",
-   "div": "1-3",
-   "conf": "2-5",
-   "streak": "L1",
-   "record": "3-6",
+   "div": "1-4",
+   "conf": "2-6",
+   "streak": "L2",
+   "record": "3-7",
    "rank_div": 4
   },
   {
@@ -18377,18 +18517,18 @@
    "conference": "AFC",
    "division": "AFC West",
    "wins": 4,
-   "losses": 5,
+   "losses": 6,
    "ties": 0,
-   "pct": 0.444,
-   "pf": 238,
-   "pa": 268,
-   "net": -30,
-   "home": "1-3",
+   "pct": 0.4,
+   "pf": 251,
+   "pa": 289,
+   "net": -38,
+   "home": "1-4",
    "road": "3-2",
    "div": "1-1",
    "conf": "3-3",
-   "streak": "L1",
-   "record": "4-5",
+   "streak": "L2",
+   "record": "4-6",
    "rank_div": 3
   },
   {
@@ -18397,18 +18537,18 @@
    "conference": "AFC",
    "division": "AFC East",
    "wins": 1,
-   "losses": 7,
+   "losses": 8,
    "ties": 0,
-   "pct": 0.125,
-   "pf": 126,
-   "pa": 200,
-   "net": -74,
+   "pct": 0.111,
+   "pf": 148,
+   "pa": 224,
+   "net": -76,
    "home": "0-4",
-   "road": "1-3",
+   "road": "1-4",
    "div": "1-1",
-   "conf": "1-4",
-   "streak": "L2",
-   "record": "1-7",
+   "conf": "1-5",
+   "streak": "L3",
+   "record": "1-8",
    "rank_div": 4
   },
   {
@@ -18416,19 +18556,19 @@
    "name": "Vikings",
    "conference": "NFC",
    "division": "NFC North",
-   "wins": 6,
+   "wins": 7,
    "losses": 2,
    "ties": 0,
-   "pct": 0.75,
-   "pf": 146,
-   "pa": 116,
-   "net": 30,
+   "pct": 0.778,
+   "pf": 176,
+   "pa": 126,
+   "net": 50,
    "home": "3-1",
-   "road": "3-1",
-   "div": "2-1",
-   "conf": "4-1",
-   "streak": "L2",
-   "record": "6-2",
+   "road": "4-1",
+   "div": "3-1",
+   "conf": "5-1",
+   "streak": "W1",
+   "record": "7-2",
    "rank_div": 3
   },
   {
@@ -18437,18 +18577,18 @@
    "conference": "NFC",
    "division": "NFC North",
    "wins": 6,
-   "losses": 3,
+   "losses": 4,
    "ties": 0,
-   "pct": 0.667,
-   "pf": 216,
-   "pa": 191,
-   "net": 25,
-   "home": "3-1",
+   "pct": 0.6,
+   "pf": 226,
+   "pa": 221,
+   "net": 5,
+   "home": "3-2",
    "road": "3-2",
-   "div": "1-2",
-   "conf": "4-3",
-   "streak": "W2",
-   "record": "6-3",
+   "div": "1-3",
+   "conf": "4-4",
+   "streak": "L1",
+   "record": "6-4",
    "rank_div": 4
   },
   {
@@ -18536,20 +18676,20 @@
    "name": "Chiefs",
    "conference": "AFC",
    "division": "AFC West",
-   "wins": 6,
+   "wins": 7,
    "losses": 2,
    "ties": 0,
-   "pct": 0.75,
-   "pf": 202,
-   "pa": 143,
-   "net": 59,
+   "pct": 0.778,
+   "pf": 237,
+   "pa": 156,
+   "net": 81,
    "home": "4-0",
-   "road": "2-2",
+   "road": "3-2",
    "div": "3-1",
    "conf": "6-1",
-   "streak": "W1",
-   "record": "6-2",
-   "rank_div": 2
+   "streak": "W2",
+   "record": "7-2",
+   "rank_div": 1
   },
   {
    "code": "DEN",
@@ -18569,7 +18709,7 @@
    "conf": "3-1",
    "streak": "W5",
    "record": "7-2",
-   "rank_div": 1
+   "rank_div": 2
   }
  ]
 }
