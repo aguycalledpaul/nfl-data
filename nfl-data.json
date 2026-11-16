@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-16T00:34:23Z",
+  "updated": "2026-11-16T07:30:25Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 10
@@ -103,7 +103,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 27,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      3,
      7,
@@ -275,7 +275,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 33,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      14,
      10,
@@ -642,7 +642,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 20,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": [
      3,
      10,
@@ -1054,7 +1054,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 20,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      0,
      7,
@@ -1492,7 +1492,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 20,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      7,
@@ -1565,7 +1565,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 3,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": [
      0,
      3,
@@ -2104,7 +2104,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 37,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      10,
      7,
@@ -2177,7 +2177,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 35,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      7,
      7,
@@ -2956,7 +2956,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 27,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      7,
      10,
@@ -2982,7 +2982,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 30,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": [
      14,
      3,
@@ -3128,7 +3128,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 36,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      7,
      10,
@@ -3274,7 +3274,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 31,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      10,
      3,
@@ -3540,7 +3540,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 24,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": [
      7,
      3,
@@ -3931,7 +3931,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 17,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      3,
@@ -3978,7 +3978,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 34,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      3,
      3,
@@ -4515,7 +4515,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 24,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      0,
      3,
@@ -4734,7 +4734,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 16,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      7,
      3,
@@ -4927,7 +4927,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 31,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      7,
      14,
@@ -5245,7 +5245,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 34,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": [
      7,
      10,
@@ -5584,7 +5584,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 32,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      7,
      14,
@@ -6393,7 +6393,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 26,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": [
      0,
      3,
@@ -6687,7 +6687,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 13,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      0,
      0,
@@ -6786,7 +6786,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 23,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      13,
      7,
@@ -6906,7 +6906,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 16,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": [
      3,
      10,
@@ -6979,7 +6979,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 20,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      7,
      7,
@@ -7052,7 +7052,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 35,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      0,
@@ -7784,7 +7784,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 38,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      10,
      10,
@@ -8030,7 +8030,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 43,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      0,
      14,
@@ -8105,7 +8105,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 30,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      7,
      7,
@@ -8398,7 +8398,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 27,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": [
      7,
      13,
@@ -8956,7 +8956,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 34,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": [
      7,
      17,
@@ -9102,7 +9102,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": 27,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      3,
      14,
@@ -9787,7 +9787,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 38,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": [
      14,
      7,
@@ -10638,19 +10638,24 @@
     "name": "Rams",
     "score": 34,
     "record": "6-4",
-    "linescore": null,
+    "linescore": [
+     3,
+     14,
+     14,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "M. Stafford",
+      "line": "249 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Corum",
+      "line": "100 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "K. Mumpfield",
+      "line": "3 rec, 81 yds"
      }
     }
    },
@@ -10659,19 +10664,24 @@
     "name": "Cardinals",
     "score": 6,
     "record": "3-7",
-    "linescore": null,
+    "linescore": [
+     6,
+     0,
+     0,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "C. Beck",
+      "line": "108 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Knight",
+      "line": "19 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "T. McBride",
+      "line": "5 rec, 37 yds"
      }
     }
    }
@@ -10701,19 +10711,24 @@
     "name": "Seahawks",
     "score": 21,
     "record": "6-4",
-    "linescore": null,
+    "linescore": [
+     7,
+     0,
+     14,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Lock",
+      "line": "240 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "Z. Charbonnet",
+      "line": "94 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Smith-Njigba",
+      "line": "8 rec, 171 yds"
      }
     }
    },
@@ -10722,19 +10737,24 @@
     "name": "Raiders",
     "score": 13,
     "record": "4-6",
-    "linescore": null,
+    "linescore": [
+     7,
+     3,
+     0,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "F. Mendoza",
+      "line": "143 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "M. Jr.",
+      "line": "23 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "A. Jeanty",
+      "line": "4 rec, 46 yds"
      }
     }
    }
@@ -10743,11 +10763,11 @@
    "game_id": "2026_10_SF_DAL",
    "season": 2026,
    "week": 10,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-15T16:25:00-05:00",
    "weekday": "Sunday",
    "venue": "AT&T Stadium",
-   "roof": null,
+   "roof": "closed",
    "network": "",
    "recap_url": "",
    "spread": {
@@ -10762,42 +10782,52 @@
    "away": {
     "code": "SF",
     "name": "49ers",
-    "score": null,
-    "record": "7-1",
-    "linescore": null,
+    "score": 46,
+    "record": "8-1",
+    "linescore": [
+     7,
+     10,
+     14,
+     15
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "B. Purdy",
+      "line": "389 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "D. Sr.",
+      "line": "78 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "C. McCaffrey",
+      "line": "4 rec, 161 yds"
      }
     }
    },
    "home": {
     "code": "DAL",
     "name": "Cowboys",
-    "score": null,
-    "record": "4-5",
-    "linescore": null,
+    "score": 40,
+    "record": "4-6",
+    "linescore": [
+     10,
+     6,
+     3,
+     21
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Prescott",
+      "line": "343 yds, 5 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Williams",
+      "line": "63 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "G. Pickens",
+      "line": "11 rec, 145 yds"
      }
     }
    }
@@ -10806,7 +10836,7 @@
    "game_id": "2026_10_PIT_CIN",
    "season": 2026,
    "week": 10,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-15T20:20:00-05:00",
    "weekday": "Sunday",
    "venue": "Paycor Stadium",
@@ -10816,8 +10846,8 @@
    "spread": {
     "favorite": "Bengals",
     "favorite_code": "CIN",
-    "line": 3.5,
-    "display": "CIN -3.5"
+    "line": 4.5,
+    "display": "CIN -4.5"
    },
    "total": 49.5,
    "overtime": false,
@@ -10825,42 +10855,52 @@
    "away": {
     "code": "PIT",
     "name": "Steelers",
-    "score": null,
-    "record": "6-2",
-    "linescore": null,
+    "score": 18,
+    "record": "6-3",
+    "linescore": [
+     0,
+     3,
+     0,
+     15
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "A. Rodgers",
+      "line": "143 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "L. III",
+      "line": "43 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "D. Metcalf",
+      "line": "2 rec, 54 yds"
      }
     }
    },
    "home": {
     "code": "CIN",
     "name": "Bengals",
-    "score": null,
-    "record": "6-2",
-    "linescore": null,
+    "score": 38,
+    "record": "7-2",
+    "linescore": [
+     3,
+     21,
+     7,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Burrow",
+      "line": "409 yds, 4 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. Brown",
+      "line": "44 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Chase",
+      "line": "11 rec, 231 yds"
      }
     }
    }
@@ -10942,8 +10982,8 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 9.5,
-    "display": "HOU -9.5"
+    "line": 10.0,
+    "display": "HOU -10"
    },
    "total": 44.5,
    "overtime": false,
@@ -11068,8 +11108,8 @@
    "spread": {
     "favorite": "Panthers",
     "favorite_code": "CAR",
-    "line": 1.5,
-    "display": "CAR -1.5"
+    "line": 2.5,
+    "display": "CAR -2.5"
    },
    "total": 44.5,
    "overtime": false,
@@ -11131,10 +11171,10 @@
    "spread": {
     "favorite": "Bears",
     "favorite_code": "CHI",
-    "line": 9.5,
-    "display": "CHI -9.5"
+    "line": 10.0,
+    "display": "CHI -10"
    },
-   "total": 49.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11197,7 +11237,7 @@
     "line": 7.5,
     "display": "DAL -7.5"
    },
-   "total": 52.5,
+   "total": 53.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11225,7 +11265,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11257,8 +11297,8 @@
    "spread": {
     "favorite": "Lions",
     "favorite_code": "DET",
-    "line": 6.0,
-    "display": "DET -6"
+    "line": 5.5,
+    "display": "DET -5.5"
    },
    "total": 46.5,
    "overtime": false,
@@ -11320,8 +11360,8 @@
    "spread": {
     "favorite": "Chiefs",
     "favorite_code": "KC",
-    "line": 14.5,
-    "display": "KC -14.5"
+    "line": 16.5,
+    "display": "KC -16.5"
    },
    "total": 41.5,
    "overtime": false,
@@ -11509,8 +11549,8 @@
    "spread": {
     "favorite": "Broncos",
     "favorite_code": "DEN",
-    "line": 9.5,
-    "display": "DEN -9.5"
+    "line": 10.0,
+    "display": "DEN -10"
    },
    "total": 40.5,
    "overtime": false,
@@ -11582,7 +11622,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11635,8 +11675,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 3.5,
-    "display": "SF -3.5"
+    "line": 3.0,
+    "display": "SF -3"
    },
    "total": 46.5,
    "overtime": false,
@@ -11666,7 +11706,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11698,8 +11738,8 @@
    "spread": {
     "favorite": "Bengals",
     "favorite_code": "CIN",
-    "line": 3.5,
-    "display": "CIN -3.5"
+    "line": 4.5,
+    "display": "CIN -4.5"
    },
    "total": 51.5,
    "overtime": false,
@@ -11708,7 +11748,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11903,7 +11943,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12019,7 +12059,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12077,7 +12117,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12541,7 +12581,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12868,7 +12908,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12984,7 +13024,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13411,7 +13451,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13448,7 +13488,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14107,7 +14147,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14223,7 +14263,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14318,7 +14358,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14376,7 +14416,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14550,7 +14590,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14803,7 +14843,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15072,7 +15112,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15652,7 +15692,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15963,7 +16003,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16058,7 +16098,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16137,7 +16177,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16253,7 +16293,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16485,7 +16525,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16870,7 +16910,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17065,7 +17105,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17160,7 +17200,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "7-1",
+    "record": "8-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17218,7 +17258,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "6-2",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17413,7 +17453,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "6-2",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -18030,7 +18070,7 @@
     "code": "DAL",
     "name": "Cowboys",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -18136,19 +18176,19 @@
    "name": "49ers",
    "conference": "NFC",
    "division": "NFC West",
-   "wins": 7,
+   "wins": 8,
    "losses": 1,
    "ties": 0,
-   "pct": 0.875,
-   "pf": 235,
-   "pa": 156,
-   "net": 79,
+   "pct": 0.889,
+   "pf": 281,
+   "pa": 196,
+   "net": 85,
    "home": "5-0",
-   "road": "2-1",
+   "road": "3-1",
    "div": "3-0",
-   "conf": "4-1",
-   "streak": "W1",
-   "record": "7-1",
+   "conf": "5-1",
+   "streak": "W2",
+   "record": "8-1",
    "rank_div": 1
   },
   {
@@ -18196,19 +18236,19 @@
    "name": "Bengals",
    "conference": "AFC",
    "division": "AFC North",
-   "wins": 6,
+   "wins": 7,
    "losses": 2,
    "ties": 0,
-   "pct": 0.75,
-   "pf": 240,
-   "pa": 175,
-   "net": 65,
-   "home": "2-1",
+   "pct": 0.778,
+   "pf": 278,
+   "pa": 193,
+   "net": 85,
+   "home": "3-1",
    "road": "4-1",
-   "div": "1-1",
-   "conf": "4-2",
-   "streak": "W4",
-   "record": "6-2",
+   "div": "2-1",
+   "conf": "5-2",
+   "streak": "W5",
+   "record": "7-2",
    "rank_div": 1
   },
   {
@@ -18397,18 +18437,18 @@
    "conference": "AFC",
    "division": "AFC North",
    "wins": 6,
-   "losses": 2,
+   "losses": 3,
    "ties": 0,
-   "pct": 0.75,
-   "pf": 180,
-   "pa": 144,
-   "net": 36,
+   "pct": 0.667,
+   "pf": 198,
+   "pa": 182,
+   "net": 16,
    "home": "4-0",
-   "road": "2-2",
-   "div": "2-1",
-   "conf": "3-2",
-   "streak": "W4",
-   "record": "6-2",
+   "road": "2-3",
+   "div": "2-2",
+   "conf": "3-3",
+   "streak": "L1",
+   "record": "6-3",
    "rank_div": 2
   },
   {
@@ -18657,18 +18697,18 @@
    "conference": "NFC",
    "division": "NFC East",
    "wins": 4,
-   "losses": 5,
+   "losses": 6,
    "ties": 0,
-   "pct": 0.444,
-   "pf": 246,
-   "pa": 236,
-   "net": 10,
-   "home": "1-3",
+   "pct": 0.4,
+   "pf": 286,
+   "pa": 282,
+   "net": 4,
+   "home": "1-4",
    "road": "3-2",
    "div": "2-1",
-   "conf": "2-4",
-   "streak": "W1",
-   "record": "4-5",
+   "conf": "2-5",
+   "streak": "L1",
+   "record": "4-6",
    "rank_div": 2
   },
   {
