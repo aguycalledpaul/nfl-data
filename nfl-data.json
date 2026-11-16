@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-16T07:30:25Z",
+  "updated": "2026-11-16T17:43:20Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 10
@@ -10922,7 +10922,7 @@
     "line": 4.5,
     "display": "BAL -4.5"
    },
-   "total": 38.5,
+   "total": 39.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -10982,8 +10982,8 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 10.0,
-    "display": "HOU -10"
+    "line": 10.5,
+    "display": "HOU -10.5"
    },
    "total": 44.5,
    "overtime": false,
@@ -11048,7 +11048,7 @@
     "line": 16.5,
     "display": "BUF -16.5"
    },
-   "total": 46.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -11171,8 +11171,8 @@
    "spread": {
     "favorite": "Bears",
     "favorite_code": "CHI",
-    "line": 10.0,
-    "display": "CHI -10"
+    "line": 10.5,
+    "display": "CHI -10.5"
    },
    "total": 48.5,
    "overtime": false,
@@ -11234,10 +11234,10 @@
    "spread": {
     "favorite": "Cowboys",
     "favorite_code": "DAL",
-    "line": 7.5,
-    "display": "DAL -7.5"
+    "line": 8.5,
+    "display": "DAL -8.5"
    },
-   "total": 53.5,
+   "total": 54.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11297,8 +11297,8 @@
    "spread": {
     "favorite": "Lions",
     "favorite_code": "DET",
-    "line": 5.5,
-    "display": "DET -5.5"
+    "line": 6.0,
+    "display": "DET -6"
    },
    "total": 46.5,
    "overtime": false,
@@ -11363,7 +11363,7 @@
     "line": 16.5,
     "display": "KC -16.5"
    },
-   "total": 41.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11423,8 +11423,8 @@
    "spread": {
     "favorite": "Jaguars",
     "favorite_code": "JAX",
-    "line": 6.5,
-    "display": "JAX -6.5"
+    "line": 6.0,
+    "display": "JAX -6"
    },
    "total": 46.5,
    "overtime": false,
@@ -11738,10 +11738,10 @@
    "spread": {
     "favorite": "Bengals",
     "favorite_code": "CIN",
-    "line": 4.5,
-    "display": "CIN -4.5"
+    "line": 6.0,
+    "display": "CIN -6"
    },
-   "total": 51.5,
+   "total": 52.5,
    "overtime": false,
    "div_game": false,
    "away": {
