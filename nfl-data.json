@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-17T01:22:18Z",
+  "updated": "2026-11-17T17:43:22Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 10
@@ -470,7 +470,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": 41,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      14,
      17,
@@ -788,7 +788,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 14,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": [
      7,
      0,
@@ -1372,7 +1372,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": 17,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      7,
      7,
@@ -1958,7 +1958,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 14,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": [
      0,
      7,
@@ -2445,7 +2445,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 16,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": [
      10,
      0,
@@ -3248,7 +3248,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": 34,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      7,
      10,
@@ -3712,7 +3712,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": 24,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      7,
      17,
@@ -4416,7 +4416,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 23,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": [
      3,
      3,
@@ -5464,7 +5464,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 17,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": [
      0,
      3,
@@ -5657,7 +5657,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": 30,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      3,
      6,
@@ -6028,7 +6028,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": 10,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      10,
      0,
@@ -6541,7 +6541,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 6,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": [
      3,
      0,
@@ -7078,7 +7078,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": 13,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      7,
      6,
@@ -7930,7 +7930,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": 10,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      7,
      0,
@@ -8518,7 +8518,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 9,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": [
      3,
      6,
@@ -8909,7 +8909,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": 10,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": [
      3,
      0,
@@ -9568,7 +9568,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": 22,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": [
      3,
      6,
@@ -10909,7 +10909,7 @@
    "game_id": "2026_10_LAC_BAL",
    "season": 2026,
    "week": 10,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-16T20:15:00-05:00",
    "weekday": "Monday",
    "venue": "M&T Bank Stadium",
@@ -10928,42 +10928,52 @@
    "away": {
     "code": "LAC",
     "name": "Chargers",
-    "score": null,
-    "record": "0-8",
-    "linescore": null,
+    "score": 23,
+    "record": "1-8",
+    "linescore": [
+     10,
+     7,
+     3,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Herbert",
+      "line": "129 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "O. Hampton",
+      "line": "105 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "T. Harris",
+      "line": "5 rec, 86 yds"
      }
     }
    },
    "home": {
     "code": "BAL",
     "name": "Ravens",
-    "score": null,
-    "record": "4-5",
-    "linescore": null,
+    "score": 20,
+    "record": "4-6",
+    "linescore": [
+     0,
+     10,
+     3,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Brissett",
+      "line": "340 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "D. Henry",
+      "line": "10 yds, 2 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Andrews",
+      "line": "8 rec, 82 yds"
      }
     }
    }
@@ -10982,8 +10992,8 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 11.5,
-    "display": "HOU -11.5"
+    "line": 12.5,
+    "display": "HOU -12.5"
    },
    "total": 44.5,
    "overtime": false,
@@ -11111,14 +11121,14 @@
     "line": 2.5,
     "display": "CAR -2.5"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11300,7 +11310,7 @@
     "line": 6.5,
     "display": "DET -6.5"
    },
-   "total": 46.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11363,7 +11373,7 @@
     "line": 16.5,
     "display": "KC -16.5"
    },
-   "total": 40.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11486,8 +11496,8 @@
    "spread": {
     "favorite": "Chargers",
     "favorite_code": "LAC",
-    "line": 3.0,
-    "display": "LAC -3"
+    "line": 3.5,
+    "display": "LAC -3.5"
    },
    "total": 40.5,
    "overtime": false,
@@ -11517,7 +11527,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12212,7 +12222,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12639,7 +12649,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13082,7 +13092,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13625,7 +13635,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14068,7 +14078,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14437,7 +14447,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14822,7 +14832,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15655,7 +15665,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15750,7 +15760,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16272,7 +16282,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16641,7 +16651,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17279,7 +17289,7 @@
     "code": "BAL",
     "name": "Ravens",
     "score": null,
-    "record": "4-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17490,7 +17500,7 @@
     "code": "LAC",
     "name": "Chargers",
     "score": null,
-    "record": "0-8",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -18377,18 +18387,18 @@
    "conference": "AFC",
    "division": "AFC North",
    "wins": 4,
-   "losses": 5,
+   "losses": 6,
    "ties": 0,
-   "pct": 0.444,
-   "pf": 189,
-   "pa": 236,
-   "net": -47,
-   "home": "1-3",
+   "pct": 0.4,
+   "pf": 209,
+   "pa": 259,
+   "net": -50,
+   "home": "1-4",
    "road": "3-2",
    "div": "0-2",
-   "conf": "2-4",
-   "streak": "L4",
-   "record": "4-5",
+   "conf": "2-5",
+   "streak": "L5",
+   "record": "4-6",
    "rank_div": 4
   },
   {
@@ -18516,19 +18526,19 @@
    "name": "Chargers",
    "conference": "AFC",
    "division": "AFC West",
-   "wins": 0,
+   "wins": 1,
    "losses": 8,
    "ties": 0,
-   "pct": 0.0,
-   "pf": 121,
-   "pa": 219,
-   "net": -98,
+   "pct": 0.111,
+   "pf": 144,
+   "pa": 239,
+   "net": -95,
    "home": "0-4",
-   "road": "0-4",
+   "road": "1-4",
    "div": "0-3",
-   "conf": "0-5",
-   "streak": "L8",
-   "record": "0-8",
+   "conf": "1-5",
+   "streak": "W1",
+   "record": "1-8",
    "rank_div": 4
   },
   {
