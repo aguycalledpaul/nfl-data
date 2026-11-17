@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-16T17:43:20Z",
+  "updated": "2026-11-17T01:22:18Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 10
@@ -10982,8 +10982,8 @@
    "spread": {
     "favorite": "Texans",
     "favorite_code": "HOU",
-    "line": 10.5,
-    "display": "HOU -10.5"
+    "line": 11.5,
+    "display": "HOU -11.5"
    },
    "total": 44.5,
    "overtime": false,
@@ -11171,8 +11171,8 @@
    "spread": {
     "favorite": "Bears",
     "favorite_code": "CHI",
-    "line": 10.5,
-    "display": "CHI -10.5"
+    "line": 11.5,
+    "display": "CHI -11.5"
    },
    "total": 48.5,
    "overtime": false,
@@ -11297,8 +11297,8 @@
    "spread": {
     "favorite": "Lions",
     "favorite_code": "DET",
-    "line": 6.0,
-    "display": "DET -6"
+    "line": 6.5,
+    "display": "DET -6.5"
    },
    "total": 46.5,
    "overtime": false,
@@ -11738,8 +11738,8 @@
    "spread": {
     "favorite": "Bengals",
     "favorite_code": "CIN",
-    "line": 6.0,
-    "display": "CIN -6"
+    "line": 6.5,
+    "display": "CIN -6.5"
    },
    "total": 52.5,
    "overtime": false,
