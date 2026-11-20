@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-20T14:41:15Z",
+  "updated": "2026-11-20T22:04:01Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 11
@@ -11317,8 +11317,8 @@
    "spread": {
     "favorite": "Lions",
     "favorite_code": "DET",
-    "line": 6.0,
-    "display": "DET -6"
+    "line": 5.5,
+    "display": "DET -5.5"
    },
    "total": 45.5,
    "overtime": false,
@@ -11569,8 +11569,8 @@
    "spread": {
     "favorite": "Broncos",
     "favorite_code": "DEN",
-    "line": 10.5,
-    "display": "DEN -10.5"
+    "line": 10.0,
+    "display": "DEN -10"
    },
    "total": 40.5,
    "overtime": false,
@@ -11635,7 +11635,7 @@
     "line": 3.5,
     "display": "PIT -3.5"
    },
-   "total": 38.5,
+   "total": 37.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11695,8 +11695,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 3.5,
-    "display": "SF -3.5"
+    "line": 3.0,
+    "display": "SF -3"
    },
    "total": 46.5,
    "overtime": false,
@@ -12262,8 +12262,8 @@
    "spread": {
     "favorite": "Giants",
     "favorite_code": "NYG",
-    "line": 5.5,
-    "display": "NYG -5.5"
+    "line": 6.5,
+    "display": "NYG -6.5"
    },
    "total": 43.5,
    "overtime": false,
@@ -12328,7 +12328,7 @@
     "line": 14.5,
     "display": "JAX -14.5"
    },
-   "total": 47.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12391,7 +12391,7 @@
     "line": 3.0,
     "display": "NYJ -3"
    },
-   "total": 41.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": true,
    "away": {
