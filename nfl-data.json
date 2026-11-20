@@ -1,9 +1,9 @@
 {
  "meta": {
-  "updated": "2026-11-17T17:43:22Z",
+  "updated": "2026-11-20T05:05:51Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
-  "current_week": 10
+  "current_week": 11
  },
  "games": [
   {
@@ -423,7 +423,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 31,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": [
      7,
      14,
@@ -496,7 +496,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 23,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": [
      6,
      7,
@@ -1518,7 +1518,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 6,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": [
      0,
      3,
@@ -2224,7 +2224,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 30,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": [
      7,
      13,
@@ -2664,7 +2664,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 17,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": [
      0,
      7,
@@ -2690,7 +2690,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 19,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": [
      3,
      10,
@@ -3613,7 +3613,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 30,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": [
      0,
      10,
@@ -4004,7 +4004,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 30,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": [
      10,
      6,
@@ -5219,7 +5219,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 22,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": [
      6,
      7,
@@ -5292,7 +5292,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 26,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": [
      3,
      9,
@@ -5882,7 +5882,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 34,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": [
      7,
      10,
@@ -6127,7 +6127,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 20,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": [
      0,
      13,
@@ -7225,7 +7225,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 21,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": [
      3,
      11,
@@ -7273,7 +7273,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 10,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": [
      7,
      3,
@@ -8226,7 +8226,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 7,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": [
      0,
      0,
@@ -9128,7 +9128,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 23,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": [
      7,
      0,
@@ -9542,7 +9542,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 44,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": [
      10,
      14,
@@ -10199,7 +10199,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": 24,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": [
      10,
      7,
@@ -10371,7 +10371,7 @@
     "code": "IND",
     "name": "Colts",
     "score": 24,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": [
      0,
      14,
@@ -10982,11 +10982,11 @@
    "game_id": "2026_11_IND_HOU",
    "season": 2026,
    "week": 11,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-19T20:15:00-05:00",
    "weekday": "Thursday",
    "venue": "Reliant Stadium",
-   "roof": null,
+   "roof": "open",
    "network": "",
    "recap_url": "",
    "spread": {
@@ -11001,8 +11001,8 @@
    "away": {
     "code": "IND",
     "name": "Colts",
-    "score": null,
-    "record": "3-7",
+    "score": 3,
+    "record": "3-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11022,8 +11022,8 @@
    "home": {
     "code": "HOU",
     "name": "Texans",
-    "score": null,
-    "record": "3-6",
+    "score": 26,
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11058,7 +11058,7 @@
     "line": 16.5,
     "display": "BUF -16.5"
    },
-   "total": 45.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -11118,8 +11118,8 @@
    "spread": {
     "favorite": "Panthers",
     "favorite_code": "CAR",
-    "line": 2.5,
-    "display": "CAR -2.5"
+    "line": 3.0,
+    "display": "CAR -3"
    },
    "total": 43.5,
    "overtime": false,
@@ -11307,8 +11307,8 @@
    "spread": {
     "favorite": "Lions",
     "favorite_code": "DET",
-    "line": 6.5,
-    "display": "DET -6.5"
+    "line": 6.0,
+    "display": "DET -6"
    },
    "total": 45.5,
    "overtime": false,
@@ -11373,7 +11373,7 @@
     "line": 16.5,
     "display": "KC -16.5"
    },
-   "total": 41.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11496,10 +11496,10 @@
    "spread": {
     "favorite": "Chargers",
     "favorite_code": "LAC",
-    "line": 3.5,
-    "display": "LAC -3.5"
+    "line": 3.0,
+    "display": "LAC -3"
    },
-   "total": 40.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11559,8 +11559,8 @@
    "spread": {
     "favorite": "Broncos",
     "favorite_code": "DEN",
-    "line": 10.0,
-    "display": "DEN -10"
+    "line": 10.5,
+    "display": "DEN -10.5"
    },
    "total": 40.5,
    "overtime": false,
@@ -11685,8 +11685,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 3.0,
-    "display": "SF -3"
+    "line": 3.5,
+    "display": "SF -3.5"
    },
    "total": 46.5,
    "overtime": false,
@@ -11748,10 +11748,10 @@
    "spread": {
     "favorite": "Bengals",
     "favorite_code": "CIN",
-    "line": 6.5,
-    "display": "CIN -6.5"
+    "line": 6.0,
+    "display": "CIN -6"
    },
-   "total": 52.5,
+   "total": 53.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11808,8 +11808,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Rams",
+    "favorite_code": "LA",
+    "line": 3.5,
+    "display": "LA -3.5"
+   },
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11866,8 +11871,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bears",
+    "favorite_code": "CHI",
+    "line": 2.5,
+    "display": "CHI -2.5"
+   },
+   "total": 55.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -11924,8 +11934,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Cowboys",
+    "favorite_code": "DAL",
+    "line": 8.5,
+    "display": "DAL -8.5"
+   },
+   "total": 47.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -11982,8 +11997,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bills",
+    "favorite_code": "BUF",
+    "line": 3.0,
+    "display": "BUF -3"
+   },
+   "total": 50.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12040,8 +12060,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Broncos",
+    "favorite_code": "DEN",
+    "line": 1.5,
+    "display": "DEN -1.5"
+   },
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12098,8 +12123,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Bengals",
+    "favorite_code": "CIN",
+    "line": 10.0,
+    "display": "CIN -10"
+   },
+   "total": 52.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12146,64 +12176,6 @@
    }
   },
   {
-   "game_id": "2026_12_LV_CLE",
-   "season": 2026,
-   "week": 12,
-   "status": "scheduled",
-   "kickoff": "2026-11-29T13:00:00-05:00",
-   "weekday": "Sunday",
-   "venue": "Huntington Bank Field",
-   "roof": "outdoors",
-   "network": "",
-   "recap_url": "",
-   "spread": null,
-   "total": null,
-   "overtime": false,
-   "div_game": false,
-   "away": {
-    "code": "LV",
-    "name": "Raiders",
-    "score": null,
-    "record": "4-6",
-    "linescore": null,
-    "leaders": {
-     "passing": {
-      "player": "",
-      "line": ""
-     },
-     "rushing": {
-      "player": "",
-      "line": ""
-     },
-     "receiving": {
-      "player": "",
-      "line": ""
-     }
-    }
-   },
-   "home": {
-    "code": "CLE",
-    "name": "Browns",
-    "score": null,
-    "record": "6-4",
-    "linescore": null,
-    "leaders": {
-     "passing": {
-      "player": "",
-      "line": ""
-     },
-     "rushing": {
-      "player": "",
-      "line": ""
-     },
-     "receiving": {
-      "player": "",
-      "line": ""
-     }
-    }
-   }
-  },
-  {
    "game_id": "2026_12_BAL_HOU",
    "season": 2026,
    "week": 12,
@@ -12214,8 +12186,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Texans",
+    "favorite_code": "HOU",
+    "line": 6.5,
+    "display": "HOU -6.5"
+   },
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12243,7 +12220,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12272,8 +12249,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Giants",
+    "favorite_code": "NYG",
+    "line": 5.5,
+    "display": "NYG -5.5"
+   },
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12301,7 +12283,70 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "3-7",
+    "record": "3-8",
+    "linescore": null,
+    "leaders": {
+     "passing": {
+      "player": "",
+      "line": ""
+     },
+     "rushing": {
+      "player": "",
+      "line": ""
+     },
+     "receiving": {
+      "player": "",
+      "line": ""
+     }
+    }
+   }
+  },
+  {
+   "game_id": "2026_12_TEN_JAX",
+   "season": 2026,
+   "week": 12,
+   "status": "scheduled",
+   "kickoff": "2026-11-29T13:00:00-05:00",
+   "weekday": "Sunday",
+   "venue": "EverBank Stadium",
+   "roof": "outdoors",
+   "network": "",
+   "recap_url": "",
+   "spread": {
+    "favorite": "Jaguars",
+    "favorite_code": "JAX",
+    "line": 14.5,
+    "display": "JAX -14.5"
+   },
+   "total": 47.5,
+   "overtime": false,
+   "div_game": true,
+   "away": {
+    "code": "TEN",
+    "name": "Titans",
+    "score": null,
+    "record": "1-8",
+    "linescore": null,
+    "leaders": {
+     "passing": {
+      "player": "",
+      "line": ""
+     },
+     "rushing": {
+      "player": "",
+      "line": ""
+     },
+     "receiving": {
+      "player": "",
+      "line": ""
+     }
+    }
+   },
+   "home": {
+    "code": "JAX",
+    "name": "Jaguars",
+    "score": null,
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12330,8 +12375,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Jets",
+    "favorite_code": "NYJ",
+    "line": 3.0,
+    "display": "NYJ -3"
+   },
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12388,8 +12438,13 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Vikings",
+    "favorite_code": "MIN",
+    "line": 7.0,
+    "display": "MIN -7"
+   },
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12436,25 +12491,30 @@
    }
   },
   {
-   "game_id": "2026_12_TEN_JAX",
+   "game_id": "2026_12_NE_LAC",
    "season": 2026,
    "week": 12,
    "status": "scheduled",
    "kickoff": "2026-11-29T16:05:00-05:00",
    "weekday": "Sunday",
-   "venue": "EverBank Stadium",
-   "roof": "outdoors",
+   "venue": "SoFi Stadium",
+   "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Chargers",
+    "favorite_code": "LAC",
+    "line": 4.5,
+    "display": "LAC -4.5"
+   },
+   "total": 39.5,
    "overtime": false,
-   "div_game": true,
+   "div_game": false,
    "away": {
-    "code": "TEN",
-    "name": "Titans",
+    "code": "NE",
+    "name": "Patriots",
     "score": null,
-    "record": "1-8",
+    "record": "5-5",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12472,10 +12532,10 @@
     }
    },
    "home": {
-    "code": "JAX",
-    "name": "Jaguars",
+    "code": "LAC",
+    "name": "Chargers",
     "score": null,
-    "record": "7-2",
+    "record": "1-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12504,8 +12564,13 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Commanders",
+    "favorite_code": "WAS",
+    "line": 6.5,
+    "display": "WAS -6.5"
+   },
+   "total": 41.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12562,8 +12627,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "49ers",
+    "favorite_code": "SF",
+    "line": 2.5,
+    "display": "SF -2.5"
+   },
+   "total": 46.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12610,25 +12680,30 @@
    }
   },
   {
-   "game_id": "2026_12_NE_LAC",
+   "game_id": "2026_12_LV_CLE",
    "season": 2026,
    "week": 12,
    "status": "scheduled",
    "kickoff": "2026-11-29T20:20:00-05:00",
    "weekday": "Sunday",
-   "venue": "SoFi Stadium",
-   "roof": "dome",
+   "venue": "Huntington Bank Field",
+   "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Browns",
+    "favorite_code": "CLE",
+    "line": 4.5,
+    "display": "CLE -4.5"
+   },
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
-    "code": "NE",
-    "name": "Patriots",
+    "code": "LV",
+    "name": "Raiders",
     "score": null,
-    "record": "5-5",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12646,10 +12721,10 @@
     }
    },
    "home": {
-    "code": "LAC",
-    "name": "Chargers",
+    "code": "CLE",
+    "name": "Browns",
     "score": null,
-    "record": "1-8",
+    "record": "6-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12678,8 +12753,13 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": null,
-   "total": null,
+   "spread": {
+    "favorite": "Buccaneers",
+    "favorite_code": "TB",
+    "line": 2.5,
+    "display": "TB -2.5"
+   },
+   "total": 43.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -13440,7 +13520,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13962,7 +14042,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14020,7 +14100,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14737,7 +14817,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14948,7 +15028,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15354,7 +15434,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15723,7 +15803,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16456,7 +16536,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17152,7 +17232,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17637,7 +17717,7 @@
     "code": "HOU",
     "name": "Texans",
     "score": null,
-    "record": "3-6",
+    "record": "4-6",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17695,7 +17775,7 @@
     "code": "IND",
     "name": "Colts",
     "score": null,
-    "record": "3-7",
+    "record": "3-8",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -18326,19 +18406,19 @@
    "name": "Texans",
    "conference": "AFC",
    "division": "AFC South",
-   "wins": 3,
+   "wins": 4,
    "losses": 6,
    "ties": 0,
-   "pct": 0.333,
-   "pf": 233,
-   "pa": 219,
-   "net": 14,
-   "home": "0-4",
+   "pct": 0.4,
+   "pf": 259,
+   "pa": 222,
+   "net": 37,
+   "home": "1-4",
    "road": "3-2",
-   "div": "2-1",
-   "conf": "3-4",
-   "streak": "L1",
-   "record": "3-6",
+   "div": "3-1",
+   "conf": "4-4",
+   "streak": "W1",
+   "record": "4-6",
    "rank_div": 2
   },
   {
@@ -18367,18 +18447,18 @@
    "conference": "AFC",
    "division": "AFC South",
    "wins": 3,
-   "losses": 7,
+   "losses": 8,
    "ties": 0,
-   "pct": 0.3,
-   "pf": 208,
-   "pa": 271,
-   "net": -63,
+   "pct": 0.273,
+   "pf": 211,
+   "pa": 297,
+   "net": -86,
    "home": "2-3",
-   "road": "1-4",
-   "div": "1-2",
-   "conf": "2-5",
-   "streak": "W1",
-   "record": "3-7",
+   "road": "1-5",
+   "div": "1-3",
+   "conf": "2-6",
+   "streak": "L1",
+   "record": "3-8",
    "rank_div": 3
   },
   {
