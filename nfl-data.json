@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-20T05:05:51Z",
+  "updated": "2026-11-20T14:41:15Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 11
@@ -11003,19 +11003,24 @@
     "name": "Colts",
     "score": 3,
     "record": "3-8",
-    "linescore": null,
+    "linescore": [
+     3,
+     0,
+     0,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "D. Jones",
+      "line": "144 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Taylor",
+      "line": "21 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "A. Gould",
+      "line": "2 rec, 48 yds"
      }
     }
    },
@@ -11024,19 +11029,24 @@
     "name": "Texans",
     "score": 26,
     "record": "4-6",
-    "linescore": null,
+    "linescore": [
+     7,
+     10,
+     9,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "C. Stroud",
+      "line": "194 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "D. Montgomery",
+      "line": "107 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "N. Collins",
+      "line": "3 rec, 58 yds"
      }
     }
    }
@@ -11622,8 +11632,8 @@
    "spread": {
     "favorite": "Steelers",
     "favorite_code": "PIT",
-    "line": 4.5,
-    "display": "PIT -4.5"
+    "line": 3.5,
+    "display": "PIT -3.5"
    },
    "total": 38.5,
    "overtime": false,
