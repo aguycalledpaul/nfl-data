@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-21T18:38:48Z",
+  "updated": "2026-11-21T23:39:17Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 11
@@ -11320,7 +11320,7 @@
     "line": 4.5,
     "display": "DET -4.5"
    },
-   "total": 46.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11695,8 +11695,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 3.5,
-    "display": "SF -3.5"
+    "line": 3.0,
+    "display": "SF -3"
    },
    "total": 46.5,
    "overtime": false,
@@ -12328,7 +12328,7 @@
     "line": 14.5,
     "display": "JAX -14.5"
    },
-   "total": 47.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": true,
    "away": {
