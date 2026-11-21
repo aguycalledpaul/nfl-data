@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-20T22:04:01Z",
+  "updated": "2026-11-21T03:40:15Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 11
@@ -11569,8 +11569,8 @@
    "spread": {
     "favorite": "Broncos",
     "favorite_code": "DEN",
-    "line": 10.0,
-    "display": "DEN -10"
+    "line": 10.5,
+    "display": "DEN -10.5"
    },
    "total": 40.5,
    "overtime": false,
@@ -12328,7 +12328,7 @@
     "line": 14.5,
     "display": "JAX -14.5"
    },
-   "total": 46.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12391,7 +12391,7 @@
     "line": 3.0,
     "display": "NYJ -3"
    },
-   "total": 42.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
