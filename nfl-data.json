@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-21T11:56:37Z",
+  "updated": "2026-11-21T18:38:48Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 11
@@ -11254,8 +11254,8 @@
    "spread": {
     "favorite": "Cowboys",
     "favorite_code": "DAL",
-    "line": 8.5,
-    "display": "DAL -8.5"
+    "line": 7.5,
+    "display": "DAL -7.5"
    },
    "total": 54.5,
    "overtime": false,
@@ -11317,10 +11317,10 @@
    "spread": {
     "favorite": "Lions",
     "favorite_code": "DET",
-    "line": 5.5,
-    "display": "DET -5.5"
+    "line": 4.5,
+    "display": "DET -4.5"
    },
-   "total": 45.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11380,8 +11380,8 @@
    "spread": {
     "favorite": "Chiefs",
     "favorite_code": "KC",
-    "line": 16.5,
-    "display": "KC -16.5"
+    "line": 15.5,
+    "display": "KC -15.5"
    },
    "total": 40.5,
    "overtime": false,
@@ -11509,7 +11509,7 @@
     "line": 3.0,
     "display": "LAC -3"
    },
-   "total": 41.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11695,8 +11695,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 3.0,
-    "display": "SF -3"
+    "line": 3.5,
+    "display": "SF -3.5"
    },
    "total": 46.5,
    "overtime": false,
@@ -11761,7 +11761,7 @@
     "line": 6.0,
     "display": "CIN -6"
    },
-   "total": 53.5,
+   "total": 54.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11821,8 +11821,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 3.5,
-    "display": "LA -3.5"
+    "line": 3.0,
+    "display": "LA -3"
    },
    "total": 45.5,
    "overtime": false,
@@ -12013,7 +12013,7 @@
     "line": 3.0,
     "display": "BUF -3"
    },
-   "total": 50.5,
+   "total": 51.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12073,8 +12073,8 @@
    "spread": {
     "favorite": "Broncos",
     "favorite_code": "DEN",
-    "line": 1.5,
-    "display": "DEN -1.5"
+    "line": 2.5,
+    "display": "DEN -2.5"
    },
    "total": 40.5,
    "overtime": false,
@@ -12580,7 +12580,7 @@
     "line": 6.5,
     "display": "WAS -6.5"
    },
-   "total": 41.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": false,
    "away": {
