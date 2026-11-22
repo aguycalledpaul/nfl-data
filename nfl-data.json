@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-22T12:57:55Z",
+  "updated": "2026-11-22T20:09:40Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 11
@@ -11068,7 +11068,7 @@
     "line": 16.5,
     "display": "BUF -16.5"
    },
-   "total": 44.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -11128,10 +11128,10 @@
    "spread": {
     "favorite": "Panthers",
     "favorite_code": "CAR",
-    "line": 3.0,
-    "display": "CAR -3"
+    "line": 2.5,
+    "display": "CAR -2.5"
    },
-   "total": 43.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11194,7 +11194,7 @@
     "line": 11.5,
     "display": "CHI -11.5"
    },
-   "total": 48.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11257,7 +11257,7 @@
     "line": 7.5,
     "display": "DAL -7.5"
    },
-   "total": 54.5,
+   "total": 55.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11320,7 +11320,7 @@
     "line": 3.5,
     "display": "DET -3.5"
    },
-   "total": 47.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11430,30 +11430,30 @@
    }
   },
   {
-   "game_id": "2026_11_JAX_NYG",
+   "game_id": "2026_11_PIT_PHI",
    "season": 2026,
    "week": 11,
    "status": "scheduled",
    "kickoff": "2026-11-22T13:00:00-05:00",
    "weekday": "Sunday",
-   "venue": "MetLife Stadium",
+   "venue": "Lincoln Financial Field",
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
    "spread": {
-    "favorite": "Jaguars",
-    "favorite_code": "JAX",
-    "line": 6.0,
-    "display": "JAX -6"
+    "favorite": "Steelers",
+    "favorite_code": "PIT",
+    "line": 3.5,
+    "display": "PIT -3.5"
    },
-   "total": 45.5,
+   "total": 37.5,
    "overtime": false,
    "div_game": false,
    "away": {
-    "code": "JAX",
-    "name": "Jaguars",
+    "code": "PIT",
+    "name": "Steelers",
     "score": null,
-    "record": "7-2",
+    "record": "6-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11471,10 +11471,10 @@
     }
    },
    "home": {
-    "code": "NYG",
-    "name": "Giants",
+    "code": "PHI",
+    "name": "Eagles",
     "score": null,
-    "record": "5-3-1",
+    "record": "2-7",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11509,7 +11509,7 @@
     "line": 3.0,
     "display": "LAC -3"
    },
-   "total": 41.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11572,7 +11572,7 @@
     "line": 10.5,
     "display": "DEN -10.5"
    },
-   "total": 41.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -11619,30 +11619,30 @@
    }
   },
   {
-   "game_id": "2026_11_PIT_PHI",
+   "game_id": "2026_11_JAX_NYG",
    "season": 2026,
    "week": 11,
    "status": "scheduled",
    "kickoff": "2026-11-22T16:25:00-05:00",
    "weekday": "Sunday",
-   "venue": "Lincoln Financial Field",
+   "venue": "MetLife Stadium",
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
    "spread": {
-    "favorite": "Steelers",
-    "favorite_code": "PIT",
-    "line": 3.5,
-    "display": "PIT -3.5"
+    "favorite": "Jaguars",
+    "favorite_code": "JAX",
+    "line": 6.0,
+    "display": "JAX -6"
    },
-   "total": 37.5,
+   "total": 45.5,
    "overtime": false,
    "div_game": false,
    "away": {
-    "code": "PIT",
-    "name": "Steelers",
+    "code": "JAX",
+    "name": "Jaguars",
     "score": null,
-    "record": "6-3",
+    "record": "7-2",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11660,10 +11660,10 @@
     }
    },
    "home": {
-    "code": "PHI",
-    "name": "Eagles",
+    "code": "NYG",
+    "name": "Giants",
     "score": null,
-    "record": "2-7",
+    "record": "5-3-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -11881,13 +11881,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Bears",
-    "favorite_code": "CHI",
-    "line": 2.5,
-    "display": "CHI -2.5"
-   },
-   "total": 55.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -11944,13 +11939,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Cowboys",
-    "favorite_code": "DAL",
-    "line": 8.5,
-    "display": "DAL -8.5"
-   },
-   "total": 47.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12007,13 +11997,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Bills",
-    "favorite_code": "BUF",
-    "line": 3.0,
-    "display": "BUF -3"
-   },
-   "total": 51.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12070,13 +12055,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Broncos",
-    "favorite_code": "DEN",
-    "line": 2.5,
-    "display": "DEN -2.5"
-   },
-   "total": 40.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12133,13 +12113,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Bengals",
-    "favorite_code": "CIN",
-    "line": 10.0,
-    "display": "CIN -10"
-   },
-   "total": 52.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12196,13 +12171,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Texans",
-    "favorite_code": "HOU",
-    "line": 6.5,
-    "display": "HOU -6.5"
-   },
-   "total": 44.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12259,13 +12229,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Giants",
-    "favorite_code": "NYG",
-    "line": 6.5,
-    "display": "NYG -6.5"
-   },
-   "total": 43.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12322,13 +12287,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Jaguars",
-    "favorite_code": "JAX",
-    "line": 14.5,
-    "display": "JAX -14.5"
-   },
-   "total": 46.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12385,13 +12345,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Jets",
-    "favorite_code": "NYJ",
-    "line": 3.0,
-    "display": "NYJ -3"
-   },
-   "total": 41.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12448,13 +12403,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Vikings",
-    "favorite_code": "MIN",
-    "line": 7.0,
-    "display": "MIN -7"
-   },
-   "total": 42.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12511,13 +12461,8 @@
    "roof": "dome",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Chargers",
-    "favorite_code": "LAC",
-    "line": 4.5,
-    "display": "LAC -4.5"
-   },
-   "total": 39.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12574,13 +12519,8 @@
    "roof": null,
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Commanders",
-    "favorite_code": "WAS",
-    "line": 6.5,
-    "display": "WAS -6.5"
-   },
-   "total": 42.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12637,13 +12577,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "49ers",
-    "favorite_code": "SF",
-    "line": 2.5,
-    "display": "SF -2.5"
-   },
-   "total": 46.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12700,13 +12635,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Browns",
-    "favorite_code": "CLE",
-    "line": 4.5,
-    "display": "CLE -4.5"
-   },
-   "total": 40.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12763,13 +12693,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Buccaneers",
-    "favorite_code": "TB",
-    "line": 2.5,
-    "display": "TB -2.5"
-   },
-   "total": 43.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": true,
    "away": {
