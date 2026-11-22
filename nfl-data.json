@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-22T04:22:51Z",
+  "updated": "2026-11-22T12:57:55Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 11
@@ -11128,8 +11128,8 @@
    "spread": {
     "favorite": "Panthers",
     "favorite_code": "CAR",
-    "line": 2.5,
-    "display": "CAR -2.5"
+    "line": 3.0,
+    "display": "CAR -3"
    },
    "total": 43.5,
    "overtime": false,
@@ -11509,7 +11509,7 @@
     "line": 3.0,
     "display": "LAC -3"
    },
-   "total": 42.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -11572,7 +11572,7 @@
     "line": 10.5,
     "display": "DEN -10.5"
    },
-   "total": 40.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -11695,8 +11695,8 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 3.0,
-    "display": "SF -3"
+    "line": 3.5,
+    "display": "SF -3.5"
    },
    "total": 46.5,
    "overtime": false,
