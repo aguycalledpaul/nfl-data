@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-23T01:17:22Z",
+  "updated": "2026-11-23T10:03:58Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 11
@@ -103,7 +103,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 27,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": [
      3,
      7,
@@ -934,7 +934,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 39,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      3,
      7,
@@ -1419,7 +1419,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 9,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      3,
      3,
@@ -2177,7 +2177,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 35,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": [
      7,
      7,
@@ -3128,7 +3128,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 36,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": [
      7,
      10,
@@ -3175,7 +3175,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 23,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      10,
      7,
@@ -4296,7 +4296,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 15,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      3,
      6,
@@ -4515,7 +4515,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 24,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": [
      0,
      3,
@@ -5073,7 +5073,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 23,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      3,
      3,
@@ -5584,7 +5584,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 32,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": [
      7,
      14,
@@ -6786,7 +6786,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 23,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": [
      13,
      7,
@@ -6979,7 +6979,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 20,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": [
      7,
      7,
@@ -7299,7 +7299,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 16,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      0,
      6,
@@ -8153,7 +8153,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 15,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      0,
      7,
@@ -9787,7 +9787,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 38,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": [
      14,
      7,
@@ -9933,7 +9933,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 6,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      0,
      6,
@@ -10272,7 +10272,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": 30,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      10,
      7,
@@ -10783,7 +10783,7 @@
     "code": "SF",
     "name": "49ers",
     "score": 46,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": [
      7,
      10,
@@ -11733,19 +11733,24 @@
     "name": "Jaguars",
     "score": 18,
     "record": "7-3",
-    "linescore": null,
+    "linescore": [
+     3,
+     3,
+     0,
+     12
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "T. Lawrence",
+      "line": "301 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "B. Tuten",
+      "line": "33 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "P. Washington",
+      "line": "8 rec, 103 yds"
      }
     }
    },
@@ -11754,19 +11759,24 @@
     "name": "Giants",
     "score": 23,
     "record": "6-3-1",
-    "linescore": null,
+    "linescore": [
+     10,
+     10,
+     0,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. McCarthy",
+      "line": "173 yds, 1 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. Skattebo",
+      "line": "34 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Nabers",
+      "line": "7 rec, 55 yds"
      }
     }
    }
@@ -11775,7 +11785,7 @@
    "game_id": "2026_11_MIN_SF",
    "season": 2026,
    "week": 11,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-22T20:20:00-05:00",
    "weekday": "Sunday",
    "venue": "Estadio Banorte",
@@ -11794,42 +11804,52 @@
    "away": {
     "code": "MIN",
     "name": "Vikings",
-    "score": null,
-    "record": "7-2",
-    "linescore": null,
+    "score": 10,
+    "record": "7-3",
+    "linescore": [
+     7,
+     3,
+     0,
+     0
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "K. Cousins",
+      "line": "235 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Mason",
+      "line": "38 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "J. Jefferson",
+      "line": "7 rec, 86 yds"
      }
     }
    },
    "home": {
     "code": "SF",
     "name": "49ers",
-    "score": null,
-    "record": "8-1",
-    "linescore": null,
+    "score": 35,
+    "record": "9-1",
+    "linescore": [
+     7,
+     21,
+     0,
+     7
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "B. Purdy",
+      "line": "255 yds, 3 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "C. McCaffrey",
+      "line": "49 yds, 1 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Evans",
+      "line": "6 rec, 109 yds"
      }
     }
    }
@@ -11914,7 +11934,7 @@
     "line": 3.0,
     "display": "LA -3"
    },
-   "total": 45.5,
+   "total": 44.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12040,7 +12060,7 @@
     "line": 8.5,
     "display": "DAL -8.5"
    },
-   "total": 48.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12163,10 +12183,10 @@
    "spread": {
     "favorite": "Broncos",
     "favorite_code": "DEN",
-    "line": 2.5,
-    "display": "DEN -2.5"
+    "line": 3.0,
+    "display": "DEN -3"
    },
-   "total": 39.5,
+   "total": 38.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12352,8 +12372,8 @@
    "spread": {
     "favorite": "Giants",
     "favorite_code": "NYG",
-    "line": 7.0,
-    "display": "NYG -7"
+    "line": 6.5,
+    "display": "NYG -6.5"
    },
    "total": 41.5,
    "overtime": false,
@@ -12415,10 +12435,10 @@
    "spread": {
     "favorite": "Jaguars",
     "favorite_code": "JAX",
-    "line": 14.0,
-    "display": "JAX -14"
+    "line": 14.5,
+    "display": "JAX -14.5"
    },
-   "total": 48.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12481,7 +12501,7 @@
     "line": 3.5,
     "display": "NYJ -3.5"
    },
-   "total": 40.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12572,7 +12592,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12604,10 +12624,10 @@
    "spread": {
     "favorite": "Chargers",
     "favorite_code": "LAC",
-    "line": 2.5,
-    "display": "LAC -2.5"
+    "line": 1.5,
+    "display": "LAC -1.5"
    },
-   "total": 37.5,
+   "total": 36.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12670,7 +12690,7 @@
     "line": 7.0,
     "display": "WAS -7"
    },
-   "total": 41.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12730,10 +12750,10 @@
    "spread": {
     "favorite": "49ers",
     "favorite_code": "SF",
-    "line": 2.5,
-    "display": "SF -2.5"
+    "line": 3.0,
+    "display": "SF -3"
    },
-   "total": 46.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12761,7 +12781,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12856,8 +12876,8 @@
    "spread": {
     "favorite": "Buccaneers",
     "favorite_code": "TB",
-    "line": 2.5,
-    "display": "TB -2.5"
+    "line": 3.0,
+    "display": "TB -3"
    },
    "total": 43.5,
    "overtime": false,
@@ -13214,7 +13234,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13525,7 +13545,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13736,7 +13756,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14453,7 +14473,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14606,7 +14626,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15439,7 +15459,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16019,7 +16039,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16288,7 +16308,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16984,7 +17004,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17295,7 +17315,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17390,7 +17410,7 @@
     "code": "SF",
     "name": "49ers",
     "score": null,
-    "record": "8-1",
+    "record": "9-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -18049,7 +18069,7 @@
     "code": "MIN",
     "name": "Vikings",
     "score": null,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -18366,19 +18386,19 @@
    "name": "49ers",
    "conference": "NFC",
    "division": "NFC West",
-   "wins": 8,
+   "wins": 9,
    "losses": 1,
    "ties": 0,
-   "pct": 0.889,
-   "pf": 281,
-   "pa": 196,
-   "net": 85,
-   "home": "5-0",
+   "pct": 0.9,
+   "pf": 316,
+   "pa": 206,
+   "net": 110,
+   "home": "6-0",
    "road": "3-1",
    "div": "3-0",
-   "conf": "5-1",
-   "streak": "W2",
-   "record": "8-1",
+   "conf": "6-1",
+   "streak": "W3",
+   "record": "9-1",
    "rank_div": 1
   },
   {
@@ -18787,18 +18807,18 @@
    "conference": "NFC",
    "division": "NFC North",
    "wins": 7,
-   "losses": 2,
+   "losses": 3,
    "ties": 0,
-   "pct": 0.778,
-   "pf": 176,
-   "pa": 126,
-   "net": 50,
+   "pct": 0.7,
+   "pf": 186,
+   "pa": 161,
+   "net": 25,
    "home": "3-1",
-   "road": "4-1",
+   "road": "4-2",
    "div": "3-1",
-   "conf": "5-1",
-   "streak": "W1",
-   "record": "7-2",
+   "conf": "5-2",
+   "streak": "L1",
+   "record": "7-3",
    "rank_div": 3
   },
   {
