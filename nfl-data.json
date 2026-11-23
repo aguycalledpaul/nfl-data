@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-23T10:03:58Z",
+  "updated": "2026-11-23T22:21:10Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 11
@@ -11931,8 +11931,8 @@
    "spread": {
     "favorite": "Rams",
     "favorite_code": "LA",
-    "line": 3.0,
-    "display": "LA -3"
+    "line": 2.5,
+    "display": "LA -2.5"
    },
    "total": 44.5,
    "overtime": false,
@@ -12123,7 +12123,7 @@
     "line": 3.0,
     "display": "BUF -3"
    },
-   "total": 50.5,
+   "total": 49.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12501,7 +12501,7 @@
     "line": 3.5,
     "display": "NYJ -3.5"
    },
-   "total": 41.5,
+   "total": 40.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12627,7 +12627,7 @@
     "line": 1.5,
     "display": "LAC -1.5"
    },
-   "total": 36.5,
+   "total": 35.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12753,7 +12753,7 @@
     "line": 3.0,
     "display": "SF -3"
    },
-   "total": 47.5,
+   "total": 46.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12816,7 +12816,7 @@
     "line": 4.5,
     "display": "CLE -4.5"
    },
-   "total": 40.5,
+   "total": 41.5,
    "overtime": false,
    "div_game": false,
    "away": {
