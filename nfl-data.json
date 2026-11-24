@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-23T22:21:10Z",
+  "updated": "2026-11-24T06:38:07Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 11
@@ -275,7 +275,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 33,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      14,
      10,
@@ -981,7 +981,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 22,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": [
      3,
      6,
@@ -1492,7 +1492,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 20,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      0,
      7,
@@ -2078,7 +2078,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 20,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": [
      0,
      10,
@@ -2956,7 +2956,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 27,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      7,
      10,
@@ -3055,7 +3055,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 33,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": [
      7,
      10,
@@ -3639,7 +3639,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 13,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": [
      6,
      0,
@@ -3931,7 +3931,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 17,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      0,
      3,
@@ -4927,7 +4927,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 31,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      7,
      14,
@@ -5391,7 +5391,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 27,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": [
      6,
      6,
@@ -6760,7 +6760,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 17,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": [
      3,
      0,
@@ -7052,7 +7052,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 35,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      0,
      0,
@@ -8030,7 +8030,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 43,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      0,
      14,
@@ -8763,7 +8763,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 27,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": [
      3,
      10,
@@ -8956,7 +8956,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 34,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      7,
      17,
@@ -9495,7 +9495,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 13,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": [
      3,
      7,
@@ -9980,7 +9980,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": 24,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": [
      0,
      10,
@@ -10882,7 +10882,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": 38,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": [
      3,
      21,
@@ -11858,7 +11858,7 @@
    "game_id": "2026_11_CIN_WAS",
    "season": 2026,
    "week": 11,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-23T20:15:00-05:00",
    "weekday": "Monday",
    "venue": "Northwest Stadium",
@@ -11877,42 +11877,52 @@
    "away": {
     "code": "CIN",
     "name": "Bengals",
-    "score": null,
-    "record": "7-2",
-    "linescore": null,
+    "score": 20,
+    "record": "7-3",
+    "linescore": [
+     0,
+     10,
+     7,
+     3
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Burrow",
+      "line": "300 yds, 2 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "S. Perine",
+      "line": "26 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "M. Gesicki",
+      "line": "5 rec, 77 yds"
      }
     }
    },
    "home": {
     "code": "WAS",
     "name": "Commanders",
-    "score": null,
-    "record": "3-5-1",
-    "linescore": null,
+    "score": 22,
+    "record": "4-5-1",
+    "linescore": [
+     0,
+     7,
+     6,
+     9
+    ],
     "leaders": {
      "passing": {
-      "player": "",
-      "line": ""
+      "player": "J. Daniels",
+      "line": "289 yds, 0 TD"
      },
      "rushing": {
-      "player": "",
-      "line": ""
+      "player": "J. Daniels",
+      "line": "55 yds, 0 TD"
      },
      "receiving": {
-      "player": "",
-      "line": ""
+      "player": "A. Williams",
+      "line": "9 rec, 122 yds"
      }
     }
    }
@@ -11934,7 +11944,7 @@
     "line": 2.5,
     "display": "LA -2.5"
    },
-   "total": 44.5,
+   "total": 43.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12123,7 +12133,7 @@
     "line": 3.0,
     "display": "BUF -3"
    },
-   "total": 49.5,
+   "total": 47.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12249,7 +12259,7 @@
     "line": 10.0,
     "display": "CIN -10"
    },
-   "total": 51.5,
+   "total": 50.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12277,7 +12287,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12687,8 +12697,8 @@
    "spread": {
     "favorite": "Commanders",
     "favorite_code": "WAS",
-    "line": 7.0,
-    "display": "WAS -7"
+    "line": 7.5,
+    "display": "WAS -7.5"
    },
    "total": 40.5,
    "overtime": false,
@@ -12697,7 +12707,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13118,7 +13128,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13350,7 +13360,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14241,7 +14251,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14357,7 +14367,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14800,7 +14810,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15227,7 +15237,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15902,7 +15912,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16018,7 +16028,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16503,7 +16513,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16772,7 +16782,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17663,7 +17673,7 @@
     "code": "CIN",
     "name": "Bengals",
     "score": null,
-    "record": "7-2",
+    "record": "7-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -18301,7 +18311,7 @@
     "code": "WAS",
     "name": "Commanders",
     "score": null,
-    "record": "3-5-1",
+    "record": "4-5-1",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -18447,18 +18457,18 @@
    "conference": "AFC",
    "division": "AFC North",
    "wins": 7,
-   "losses": 2,
+   "losses": 3,
    "ties": 0,
-   "pct": 0.778,
-   "pf": 278,
-   "pa": 193,
-   "net": 85,
+   "pct": 0.7,
+   "pf": 298,
+   "pa": 215,
+   "net": 83,
    "home": "3-1",
-   "road": "4-1",
+   "road": "4-2",
    "div": "2-1",
    "conf": "5-2",
-   "streak": "W5",
-   "record": "7-2",
+   "streak": "L1",
+   "record": "7-3",
    "rank_div": 1
   },
   {
@@ -18866,19 +18876,19 @@
    "name": "Commanders",
    "conference": "NFC",
    "division": "NFC East",
-   "wins": 3,
+   "wins": 4,
    "losses": 5,
    "ties": 1,
-   "pct": 0.389,
-   "pf": 196,
-   "pa": 223,
-   "net": -27,
-   "home": "2-2-1",
+   "pct": 0.45,
+   "pf": 218,
+   "pa": 243,
+   "net": -25,
+   "home": "3-2-1",
    "road": "1-3",
    "div": "2-2-1",
    "conf": "3-4-1",
-   "streak": "W1",
-   "record": "3-5-1",
+   "streak": "W2",
+   "record": "4-5-1",
    "rank_div": 3
   },
   {
