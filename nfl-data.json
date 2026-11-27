@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-27T06:01:53Z",
+  "updated": "2026-11-27T17:06:34Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 12
@@ -12485,10 +12485,10 @@
    "spread": {
     "favorite": "Jaguars",
     "favorite_code": "JAX",
-    "line": 14.5,
-    "display": "JAX -14.5"
+    "line": 14.0,
+    "display": "JAX -14"
    },
-   "total": 49.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -12866,7 +12866,7 @@
     "line": 4.5,
     "display": "CLE -4.5"
    },
-   "total": 40.5,
+   "total": 39.5,
    "overtime": false,
    "div_game": false,
    "away": {
