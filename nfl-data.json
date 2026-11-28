@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-27T17:06:34Z",
+  "updated": "2026-11-28T00:55:22Z",
   "source": "nflverse (open data) + manual overrides",
   "season": 2026,
   "current_week": 12
@@ -642,7 +642,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 20,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": [
      3,
      10,
@@ -1127,7 +1127,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 10,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": [
      7,
      0,
@@ -1565,7 +1565,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 3,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": [
      0,
      3,
@@ -1885,7 +1885,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 20,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": [
      0,
      3,
@@ -2982,7 +2982,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 30,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": [
      14,
      3,
@@ -3420,7 +3420,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 30,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": [
      0,
      0,
@@ -3540,7 +3540,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 24,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": [
      7,
      3,
@@ -4489,7 +4489,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 14,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": [
      3,
      0,
@@ -5245,7 +5245,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 34,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": [
      7,
      10,
@@ -5438,7 +5438,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 23,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": [
      7,
      3,
@@ -5834,7 +5834,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 17,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": [
      0,
      14,
@@ -6393,7 +6393,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 26,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": [
      0,
      3,
@@ -6906,7 +6906,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 16,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": [
      3,
      10,
@@ -7492,7 +7492,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 30,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": [
      6,
      7,
@@ -8398,7 +8398,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 27,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": [
      7,
      13,
@@ -8617,7 +8617,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 28,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": [
      3,
      10,
@@ -9029,7 +9029,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 26,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": [
      10,
      3,
@@ -10856,7 +10856,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 18,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": [
      0,
      3,
@@ -11513,7 +11513,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": 16,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": [
      0,
      3,
@@ -11685,7 +11685,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": 38,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": [
      3,
      14,
@@ -12223,7 +12223,7 @@
    "game_id": "2026_12_DEN_PIT",
    "season": 2026,
    "week": 12,
-   "status": "scheduled",
+   "status": "final",
    "kickoff": "2026-11-27T15:00:00-05:00",
    "weekday": "Friday",
    "venue": "Acrisure Stadium",
@@ -12236,14 +12236,14 @@
     "line": 4.5,
     "display": "DEN -4.5"
    },
-   "total": 37.5,
+   "total": 36.5,
    "overtime": false,
    "div_game": false,
    "away": {
     "code": "DEN",
     "name": "Broncos",
-    "score": null,
-    "record": "8-2",
+    "score": 5,
+    "record": "8-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12263,8 +12263,8 @@
    "home": {
     "code": "PIT",
     "name": "Steelers",
-    "score": null,
-    "record": "6-4",
+    "score": 27,
+    "record": "7-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -12296,10 +12296,10 @@
    "spread": {
     "favorite": "Bengals",
     "favorite_code": "CIN",
-    "line": 10.0,
-    "display": "CIN -10"
+    "line": 9.5,
+    "display": "CIN -9.5"
    },
-   "total": 49.5,
+   "total": 48.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12422,8 +12422,8 @@
    "spread": {
     "favorite": "Giants",
     "favorite_code": "NYG",
-    "line": 6.0,
-    "display": "NYG -6"
+    "line": 5.5,
+    "display": "NYG -5.5"
    },
    "total": 41.5,
    "overtime": false,
@@ -12674,10 +12674,10 @@
    "spread": {
     "favorite": "Patriots",
     "favorite_code": "NE",
-    "line": 2.5,
-    "display": "NE -2.5"
+    "line": 3.0,
+    "display": "NE -3"
    },
-   "total": 35.5,
+   "total": 34.5,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -12798,12 +12798,12 @@
    "network": "",
    "recap_url": "",
    "spread": {
-    "favorite": "49ers",
-    "favorite_code": "SF",
-    "line": 3.0,
-    "display": "SF -3"
+    "favorite": "Seahawks",
+    "favorite_code": "SEA",
+    "line": 1.5,
+    "display": "SEA -1.5"
    },
-   "total": 43.5,
+   "total": 42.5,
    "overtime": false,
    "div_game": true,
    "away": {
@@ -13301,13 +13301,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "49ers",
-    "favorite_code": "SF",
-    "line": 6.5,
-    "display": "SF -6.5"
-   },
-   "total": 47.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -13553,13 +13548,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Broncos",
-    "favorite_code": "DEN",
-    "line": 14.5,
-    "display": "DEN -14.5"
-   },
-   "total": 39.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -13587,7 +13577,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -13742,13 +13732,8 @@
    "roof": "outdoors",
    "network": "",
    "recap_url": "",
-   "spread": {
-    "favorite": "Texans",
-    "favorite_code": "HOU",
-    "line": 4.5,
-    "display": "HOU -4.5"
-   },
-   "total": 41.5,
+   "spread": null,
+   "total": null,
    "overtime": false,
    "div_game": false,
    "away": {
@@ -13776,7 +13761,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14224,7 +14209,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -14688,7 +14673,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15173,7 +15158,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15500,7 +15485,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -15811,7 +15796,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -16333,7 +16318,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17066,7 +17051,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17240,7 +17225,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17588,7 +17573,7 @@
     "code": "PIT",
     "name": "Steelers",
     "score": null,
-    "record": "6-4",
+    "record": "7-4",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -17841,7 +17826,7 @@
     "code": "DEN",
     "name": "Broncos",
     "score": null,
-    "record": "8-2",
+    "record": "8-3",
     "linescore": null,
     "leaders": {
      "passing": {
@@ -18766,19 +18751,19 @@
    "name": "Steelers",
    "conference": "AFC",
    "division": "AFC North",
-   "wins": 6,
+   "wins": 7,
    "losses": 4,
    "ties": 0,
-   "pct": 0.6,
-   "pf": 214,
-   "pa": 201,
-   "net": 13,
-   "home": "4-0",
+   "pct": 0.636,
+   "pf": 241,
+   "pa": 206,
+   "net": 35,
+   "home": "5-0",
    "road": "2-4",
    "div": "2-2",
-   "conf": "3-3",
-   "streak": "L2",
-   "record": "6-4",
+   "conf": "4-3",
+   "streak": "W1",
+   "record": "7-4",
    "rank_div": 2
   },
   {
@@ -19059,7 +19044,7 @@
    "conf": "6-2",
    "streak": "L1",
    "record": "8-3",
-   "rank_div": 2
+   "rank_div": 1
   },
   {
    "code": "DEN",
@@ -19067,19 +19052,19 @@
    "conference": "AFC",
    "division": "AFC West",
    "wins": 8,
-   "losses": 2,
+   "losses": 3,
    "ties": 0,
-   "pct": 0.8,
-   "pf": 236,
-   "pa": 210,
-   "net": 26,
+   "pct": 0.727,
+   "pf": 241,
+   "pa": 237,
+   "net": 4,
    "home": "5-0",
-   "road": "3-2",
+   "road": "3-3",
    "div": "3-1",
-   "conf": "4-1",
-   "streak": "W6",
-   "record": "8-2",
-   "rank_div": 1
+   "conf": "4-2",
+   "streak": "L1",
+   "record": "8-3",
+   "rank_div": 2
   }
  ]
 }
